@@ -1,0 +1,210 @@
+{
+    "annotations": {
+      "list": [
+        {
+          "builtIn": 1,
+          "datasource": {
+            "type": "grafana",
+            "uid": "-- Grafana --"
+          },
+          "enable": true,
+          "hide": true,
+          "iconColor": "rgba(0, 211, 255, 1)",
+          "name": "Annotations & Alerts",
+          "target": {
+            "limit": 100,
+            "matchAny": false,
+            "tags": [],
+            "type": "dashboard"
+          },
+          "type": "dashboard"
+        }
+      ]
+    },
+    "editable": true,
+    "fiscalYearStartMonth": 0,
+    "graphTooltip": 0,
+    "id": 4,
+    "links": [],
+    "liveNow": false,
+    "panels": [
+      {
+        "datasource": {
+          "type": "influxdb",
+          "uid": "JQ62ga9nz"
+        },
+        "fieldConfig": {
+          "defaults": {
+            "color": {
+              "mode": "continuous-BlYlRd"
+            },
+            "custom": {
+              "hideFrom": {
+                "legend": false,
+                "tooltip": false,
+                "viz": false
+              }
+            },
+            "mappings": [],
+            "thresholds": {
+              "mode": "absolute",
+              "steps": [
+                {
+                  "color": "green",
+                  "value": null
+                },
+                {
+                  "color": "red",
+                  "value": 80
+                }
+              ]
+            },
+            "unit": "humidity"
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 19,
+          "w": 20,
+          "x": 0,
+          "y": 0
+        },
+        "id": 2,
+        "options": {
+          "basemap": {
+            "config": {},
+            "name": "Layer 0",
+            "type": "default"
+          },
+          "controls": {
+            "mouseWheelZoom": true,
+            "showAttribution": true,
+            "showDebug": false,
+            "showScale": false,
+            "showZoom": true
+          },
+          "layers": [
+            {
+              "config": {
+                "showLegend": false,
+                "style": {
+                  "color": {
+                    "field": "humidity",
+                    "fixed": "dark-green"
+                  },
+                  "opacity": 0.6,
+                  "rotation": {
+                    "field": "humidity",
+                    "fixed": 36,
+                    "max": 360,
+                    "min": -360,
+                    "mode": "clamped"
+                  },
+                  "size": {
+                    "field": "humidity",
+                    "fixed": 25,
+                    "max": 15,
+                    "min": 2
+                  },
+                  "symbol": {
+                    "fixed": "img/icons/marker/circle.svg",
+                    "mode": "fixed"
+                  },
+                  "text": {
+                    "field": "humidity",
+                    "fixed": "",
+                    "mode": "field"
+                  },
+                  "textConfig": {
+                    "fontSize": 12,
+                    "offsetX": 0,
+                    "offsetY": 0,
+                    "textAlign": "right",
+                    "textBaseline": "top"
+                  }
+                }
+              },
+              "location": {
+                "latitude": "latitude",
+                "longitude": "longitude",
+                "mode": "coords"
+              },
+              "name": "Stats",
+              "tooltip": true,
+              "type": "markers"
+            }
+          ],
+          "view": {
+            "id": "coords",
+            "lat": 40,
+            "lon": -100,
+            "zoom": 4
+          }
+        },
+        "pluginVersion": "8.5.4",
+        "targets": [
+          {
+            "columns": [],
+            "datasource": {
+              "type": "influxdb",
+              "uid": "JQ62ga9nz"
+            },
+            "filters": [],
+            "format": "table",
+            "global_query_id": "",
+            "query": "\r\nfrom(bucket: \"sensors\")\r\n  |> range(start: v.timeRangeStart, stop: v.timeRangeStop)\r\n  |> filter(fn: (r) => r[\"_measurement\"] == \"sensor_readings\")\r\n  |> filter(fn: (r) => r._field == \"humidity\" or r._field == \"sensorname\" or r._field == \"longitude\" or r._field == \"latitude\")  \r\n  |> pivot(rowKey:[\"_time\"], columnKey: [\"_field\"], valueColumn: \"_value\")\r\n  |> group()  \r\n  |> drop(columns: [\"_start\", \"_stop\", \"_time\",\"_measurement\"])",
+            "refId": "A",
+            "root_selector": "",
+            "source": "url",
+            "type": "json",
+            "url": "https://jsonplaceholder.typicode.com/users",
+            "url_options": {
+              "data": "",
+              "method": "GET"
+            }
+          }
+        ],
+        "title": "Panel Title",
+        "transformations": [
+          {
+            "id": "convertFieldType",
+            "options": {
+              "conversions": [
+                {
+                  "destinationType": "number",
+                  "targetField": "humidity"
+                },
+                {
+                  "destinationType": "number",
+                  "targetField": "latitude"
+                },
+                {
+                  "destinationType": "number",
+                  "targetField": "latitude"
+                }
+              ],
+              "fields": {}
+            }
+          }
+        ],
+        "type": "geomap"
+      }
+    ],
+    "refresh": "",
+    "schemaVersion": 36,
+    "style": "dark",
+    "tags": [],
+    "templating": {
+      "list": []
+    },
+    "time": {
+      "from": "now-6h",
+      "to": "now"
+    },
+    "timepicker": {},
+    "timezone": "",
+    "title": "Sensors Mapping from Influx",
+    "uid": "Df6ARa9nz",
+    "version": 15,
+    "weekStart": ""
+  }
