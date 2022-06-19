@@ -3,8 +3,15 @@ from datetime import datetime
 
 from influxdb_client import WritePrecision, InfluxDBClient, Point
 from influxdb_client.client.write_api import SYNCHRONOUS
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
-with InfluxDBClient(url="http://localhost:8086", token=token, org="research", debug=False) as client:
+TOKEN = os.getenv('TOKEN')
+URL = os.getenv('URL')
+ORG = os.getenv('ORG')
+
+with InfluxDBClient(URL="http://localhost:8086", token=TOKEN, org=ORG, debug=False) as client:
     query_api = client.query_api()
 
     p = Point("words").tag("location", "New York").field("alphabet", "A").time(datetime.utcnow(), WritePrecision.MS)
