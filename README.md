@@ -1,5 +1,6 @@
 a repository of my learning journey with influxdb
 
+```
 parse-json
 | scope "Countries"
 | jsonata "*[Country="Australia"]"
@@ -14,7 +15,7 @@ parse-json
 #| jsonata "({'Country' : "Australia"})"
 #| jsonata "Countries.Country = 'Australia'"
 #jsonata "$[`Start date`='11/05/2022']"
-
+```
 
 ```
 --Create config (saved C:\Users\USER_NAME\.influxdbv2)
