@@ -16,7 +16,7 @@ parse-json
 #jsonata "$[`Start date`='11/05/2022']"
 
 --Create config (saved C:\Users\Josiah Solomon\.influxdbv2)
-``
+```
 influx config create --config-name mygrafana --host-url http://localhost:3000 --org Research --token f9fZzCjNyZsVm9mCgZZh6tkyeazTelyZJbp2bypq-dzS1_DTQNxce7cKwMrDRGjEvHig-3OVmJVoGbQnVY_4gA== --active
 
 --Convert db
