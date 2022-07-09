@@ -10,7 +10,7 @@ URL = os.getenv('URL')
 TOKEN = os.getenv('TOKEN')
 ORG = os.getenv('ORG')
 
-bucket = "winds"
+bucket = "process"
 
 """
 Write data into InfluxDB
@@ -18,23 +18,22 @@ Write data into InfluxDB
 client = InfluxDBClient(url=URL, token=TOKEN, org=ORG, debug=True)
 write_api = client.write_api(write_options=SYNCHRONOUS)  
 
-col_list = ["windgust","windspeed","winddir","datetime"]
-df = pd.read_csv("./data/winds.csv", usecols=col_list)
+col_list = ["host","process","status","dtime"]
+df = pd.read_csv("./data/1-wire.csv", usecols=col_list)
 
 for index, row in df.iterrows():
-    windgust =  float(row['windgust'])
-    windspeed =  float(row['windspeed'])
-    winddir =  int(row['winddir'])
-    recordedtime = row['datetime']
+    host =  row['host']
+    process =  row['process']
+    status =  row['status']
+    dtime =  row['dtime']
 
-    point = Point("weather") \
-            .tag("type", "winds") \
-            .field("windgust", windgust) \
-            .field("windspeed", windspeed) \
-            .field("winddir", winddir) \
-            .time(recordedtime, WritePrecision.NS)
+    point = Point("boojee") \
+            .tag("type", "statuses") \
+            .field("process", process) \
+            .field("status", status) \
+            .time(dtime, WritePrecision.NS)
 
-    write_api.write(bucket, org, point) 
+    write_api.write(bucket, ORG, point) 
 write_api.__del__()
 
 """

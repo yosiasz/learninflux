@@ -1,0 +1,2 @@
+host,startup_mode,state,display_name,service_name,startup_mode
+somehost,2i,4i,sync\ Host8F9a08F98,One_sync_service8F9a08F98,2i
