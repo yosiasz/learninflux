@@ -1,0 +1,33 @@
+from(bucket: "DBANDY1")
+  |> range(start: v.timeRangeStart, stop: v.timeRangeStop)
+  |> filter(fn: (r) => r["_measurement"] == "Drucker_gestern" or r["_measurement"] == "FeFo_TV_gestern" or r["_measurement"] == "Imac_gestern" or r["_measurement"] == "Kuehlschrank_gestern" or r["_measurement"] == "Ventilator_gestern")
+  |> filter(fn: (r) => r["_field"] == "value")
+  |> truncateTimeColumn(unit: 24h)
+  |> max()  
+  |> pivot(rowKey:["_time"], columnKey: ["_field"], valueColumn: "_value")  
+  |> group()
+  |> drop(columns: ["_start", "_stop"])
+  
+
+from(bucket: "DBANDY1")
+  |> range(start: v.timeRangeStart, stop: v.timeRangeStop)
+  |> filter(fn: (r) => r["_measurement"] == "Drucker_gestern" or r["_measurement"] == "FeFo_TV_gestern" or r["_measurement"] == "Imac_gestern" or r["_measurement"] == "Kuehlschrank_gestern" or r["_measurement"] == "Ventilator_gestern")
+  |> filter(fn: (r) => r["_field"] == "value")
+  |> truncateTimeColumn(unit: 24h)
+  |> max() 
+  
+  |> aggregateWindow( every: v.windowPeriod, fn: max, createEmpty: false)
+
+
+  from(bucket: "DBANDY1")
+  |> range(start: v.timeRangeStart, stop: v.timeRangeStop)
+  |> filter(fn: (r) => r["_measurement"] == "Drucker_gestern" or r["_measurement"] == "FeFo_TV_gestern" or r["_measurement"] == "Imac_gestern" or r["_measurement"] == "Kuehlschrank_gestern" or r["_measurement"] == "Ventilator_gestern")
+  |> filter(fn: (r) => r["_field"] == "value")  
+  |> truncateTimeColumn(unit: 24h)  
+  |> max()  
+
+  
+
+    
+  |> group(columns: ["_time"])
+  |>last() 

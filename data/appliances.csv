@@ -1,0 +1,2501 @@
+﻿_time,_value,_measurement,_field
+2022-07-12 10:00:18.240,96.27,mqtt_consumer,Kettle
+2022-07-12 11:00:18.240,50.54,mqtt_consumer,Kettle
+2022-07-12 12:00:18.240,99.59,mqtt_consumer,Kettle
+2022-07-12 13:00:18.240,92.83,mqtt_consumer,Kettle
+2022-07-12 14:00:18.240,76.01,mqtt_consumer,Kettle
+2022-07-12 15:00:18.240,28.23,mqtt_consumer,Kettle
+2022-07-12 16:00:18.240,37.46,mqtt_consumer,Kettle
+2022-07-12 17:00:18.240,6.93,mqtt_consumer,Kettle
+2022-07-12 18:00:18.240,4.21,mqtt_consumer,Kettle
+2022-07-12 19:00:18.240,4.37,mqtt_consumer,Kettle
+2022-07-12 20:00:18.240,37.53,mqtt_consumer,Kettle
+2022-07-12 21:00:18.240,17.18,mqtt_consumer,Kettle
+2022-07-12 22:00:18.240,4.74,mqtt_consumer,Kettle
+2022-07-12 23:00:18.240,0.14,mqtt_consumer,Kettle
+2022-07-13 00:00:18.240,21.74,mqtt_consumer,Kettle
+2022-07-13 01:00:18.240,93.16,mqtt_consumer,Kettle
+2022-07-13 02:00:18.240,75.89,mqtt_consumer,Kettle
+2022-07-13 03:00:18.240,3.41,mqtt_consumer,Kettle
+2022-07-13 04:00:18.240,89.43,mqtt_consumer,Kettle
+2022-07-13 05:00:18.240,52.86,mqtt_consumer,Kettle
+2022-07-13 06:00:18.240,1.91,mqtt_consumer,Kettle
+2022-07-13 07:00:18.240,21.92,mqtt_consumer,Kettle
+2022-07-13 08:00:18.240,74.22,mqtt_consumer,Kettle
+2022-07-13 09:00:18.240,92.67,mqtt_consumer,Kettle
+2022-07-13 10:00:18.240,8.76,mqtt_consumer,Kettle
+2022-07-13 11:00:18.240,87.71,mqtt_consumer,Kettle
+2022-07-13 12:00:18.240,32.46,mqtt_consumer,Kettle
+2022-07-13 13:00:18.240,37.13,mqtt_consumer,Kettle
+2022-07-13 14:00:18.240,81.07,mqtt_consumer,Kettle
+2022-07-13 15:00:18.240,67.08,mqtt_consumer,Kettle
+2022-07-13 16:00:18.240,19.5,mqtt_consumer,Kettle
+2022-07-13 17:00:18.240,26.56,mqtt_consumer,Kettle
+2022-07-13 18:00:18.240,5.25,mqtt_consumer,Kettle
+2022-07-13 19:00:18.240,57.7,mqtt_consumer,Kettle
+2022-07-13 20:00:18.240,78.56,mqtt_consumer,Kettle
+2022-07-13 21:00:18.240,37.03,mqtt_consumer,Kettle
+2022-07-13 22:00:18.240,90.24,mqtt_consumer,Kettle
+2022-07-13 23:00:18.240,16.94,mqtt_consumer,Kettle
+2022-07-14 00:00:18.240,49.9,mqtt_consumer,Kettle
+2022-07-14 01:00:18.240,94.76,mqtt_consumer,Kettle
+2022-07-14 02:00:18.240,60.64,mqtt_consumer,Kettle
+2022-07-14 03:00:18.240,15.93,mqtt_consumer,Kettle
+2022-07-14 04:00:18.240,57.67,mqtt_consumer,Kettle
+2022-07-14 05:00:18.240,50.41,mqtt_consumer,Kettle
+2022-07-14 06:00:18.240,12.23,mqtt_consumer,Kettle
+2022-07-14 07:00:18.240,24.62,mqtt_consumer,Kettle
+2022-07-14 08:00:18.240,5.06,mqtt_consumer,Kettle
+2022-07-14 09:00:18.240,90.59,mqtt_consumer,Kettle
+2022-07-14 10:00:18.240,34.02,mqtt_consumer,Kettle
+2022-07-14 11:00:18.240,48.75,mqtt_consumer,Kettle
+2022-07-14 12:00:18.240,29.7,mqtt_consumer,Kettle
+2022-07-14 13:00:18.240,41.21,mqtt_consumer,Kettle
+2022-07-14 14:00:18.240,31.54,mqtt_consumer,Kettle
+2022-07-14 15:00:18.240,86.92,mqtt_consumer,Kettle
+2022-07-14 16:00:18.240,22.09,mqtt_consumer,Kettle
+2022-07-14 17:00:18.240,82.4,mqtt_consumer,Kettle
+2022-07-14 18:00:18.240,84.59,mqtt_consumer,Kettle
+2022-07-14 19:00:18.240,65.13,mqtt_consumer,Kettle
+2022-07-14 20:00:18.240,69.56,mqtt_consumer,Kettle
+2022-07-14 21:00:18.240,51.45,mqtt_consumer,Kettle
+2022-07-14 22:00:18.240,11.59,mqtt_consumer,Kettle
+2022-07-14 23:00:18.240,52.59,mqtt_consumer,Kettle
+2022-07-15 00:00:18.240,59.44,mqtt_consumer,Kettle
+2022-07-15 01:00:18.240,24.52,mqtt_consumer,Kettle
+2022-07-15 02:00:18.240,29.67,mqtt_consumer,Kettle
+2022-07-15 03:00:18.240,41.51,mqtt_consumer,Kettle
+2022-07-15 04:00:18.240,30.36,mqtt_consumer,Kettle
+2022-07-15 05:00:18.240,68.74,mqtt_consumer,Kettle
+2022-07-15 06:00:18.240,9.41,mqtt_consumer,Kettle
+2022-07-15 07:00:18.240,65.53,mqtt_consumer,Kettle
+2022-07-15 08:00:18.240,14.05,mqtt_consumer,Kettle
+2022-07-15 09:00:18.240,28.22,mqtt_consumer,Kettle
+2022-07-15 10:00:18.240,78.79,mqtt_consumer,Kettle
+2022-07-15 11:00:18.240,28.79,mqtt_consumer,Kettle
+2022-07-15 12:00:18.240,5.78,mqtt_consumer,Kettle
+2022-07-15 13:00:18.240,20.94,mqtt_consumer,Kettle
+2022-07-15 14:00:18.240,68.78,mqtt_consumer,Kettle
+2022-07-15 15:00:18.240,52.96,mqtt_consumer,Kettle
+2022-07-15 16:00:18.240,94.84,mqtt_consumer,Kettle
+2022-07-15 17:00:18.240,76.14,mqtt_consumer,Kettle
+2022-07-15 18:00:18.240,54.46,mqtt_consumer,Kettle
+2022-07-15 19:00:18.240,96.47,mqtt_consumer,Kettle
+2022-07-15 20:00:18.240,81.36,mqtt_consumer,Kettle
+2022-07-15 21:00:18.240,86.19,mqtt_consumer,Kettle
+2022-07-15 22:00:18.240,13.15,mqtt_consumer,Kettle
+2022-07-15 23:00:18.240,17.27,mqtt_consumer,Kettle
+2022-07-16 00:00:18.240,74.63,mqtt_consumer,Kettle
+2022-07-16 01:00:18.240,97.39,mqtt_consumer,Kettle
+2022-07-16 02:00:18.240,20.68,mqtt_consumer,Kettle
+2022-07-16 03:00:18.240,92.29,mqtt_consumer,Kettle
+2022-07-16 04:00:18.240,89.5,mqtt_consumer,Kettle
+2022-07-16 05:00:18.240,28.27,mqtt_consumer,Kettle
+2022-07-16 06:00:18.240,92.23,mqtt_consumer,Kettle
+2022-07-16 07:00:18.240,25.43,mqtt_consumer,Kettle
+2022-07-16 08:00:18.240,10.71,mqtt_consumer,Kettle
+2022-07-16 09:00:18.240,87.77,mqtt_consumer,Kettle
+2022-07-16 10:00:18.240,34.45,mqtt_consumer,Kettle
+2022-07-16 11:00:18.240,34.28,mqtt_consumer,Kettle
+2022-07-16 12:00:18.240,99.38,mqtt_consumer,Kettle
+2022-07-16 13:00:18.240,91.13,mqtt_consumer,Kettle
+2022-07-16 14:00:18.240,65.94,mqtt_consumer,Kettle
+2022-07-16 15:00:18.240,95.16,mqtt_consumer,Kettle
+2022-07-16 16:00:18.240,12.29,mqtt_consumer,Kettle
+2022-07-16 17:00:18.240,34.51,mqtt_consumer,Kettle
+2022-07-16 18:00:18.240,68.17,mqtt_consumer,Kettle
+2022-07-16 19:00:18.240,54.65,mqtt_consumer,Kettle
+2022-07-16 20:00:18.240,58.78,mqtt_consumer,Kettle
+2022-07-16 21:00:18.240,36.81,mqtt_consumer,Kettle
+2022-07-16 22:00:18.240,88.4,mqtt_consumer,Kettle
+2022-07-16 23:00:18.240,31.45,mqtt_consumer,Kettle
+2022-07-17 00:00:18.240,6.63,mqtt_consumer,Kettle
+2022-07-17 01:00:18.240,81.49,mqtt_consumer,Kettle
+2022-07-17 02:00:18.240,57.75,mqtt_consumer,Kettle
+2022-07-17 03:00:18.240,96.04,mqtt_consumer,Kettle
+2022-07-17 04:00:18.240,41.08,mqtt_consumer,Kettle
+2022-07-17 05:00:18.240,90,mqtt_consumer,Kettle
+2022-07-17 06:00:18.240,46.99,mqtt_consumer,Kettle
+2022-07-17 07:00:18.240,74.63,mqtt_consumer,Kettle
+2022-07-17 08:00:18.240,11.52,mqtt_consumer,Kettle
+2022-07-17 09:00:18.240,9.9,mqtt_consumer,Kettle
+2022-07-17 10:00:18.240,39.94,mqtt_consumer,Kettle
+2022-07-17 11:00:18.240,62.7,mqtt_consumer,Kettle
+2022-07-17 12:00:18.240,40.44,mqtt_consumer,Kettle
+2022-07-17 13:00:18.240,97.47,mqtt_consumer,Kettle
+2022-07-17 14:00:18.240,60.9,mqtt_consumer,Kettle
+2022-07-17 15:00:18.240,93.76,mqtt_consumer,Kettle
+2022-07-17 16:00:18.240,61.19,mqtt_consumer,Kettle
+2022-07-17 17:00:18.240,91.35,mqtt_consumer,Kettle
+2022-07-17 18:00:18.240,13.62,mqtt_consumer,Kettle
+2022-07-17 19:00:18.240,24.53,mqtt_consumer,Kettle
+2022-07-17 20:00:18.240,2.16,mqtt_consumer,Kettle
+2022-07-17 21:00:18.240,3.73,mqtt_consumer,Kettle
+2022-07-17 22:00:18.240,8.86,mqtt_consumer,Kettle
+2022-07-17 23:00:18.240,38.1,mqtt_consumer,Kettle
+2022-07-18 00:00:18.240,20.72,mqtt_consumer,Kettle
+2022-07-18 01:00:18.240,19.54,mqtt_consumer,Kettle
+2022-07-18 02:00:18.240,50.84,mqtt_consumer,Kettle
+2022-07-18 03:00:18.240,78.44,mqtt_consumer,Kettle
+2022-07-18 04:00:18.240,36.76,mqtt_consumer,Kettle
+2022-07-18 05:00:18.240,21.39,mqtt_consumer,Kettle
+2022-07-18 06:00:18.240,68.02,mqtt_consumer,Kettle
+2022-07-18 07:00:18.240,59.06,mqtt_consumer,Kettle
+2022-07-18 08:00:18.240,64.68,mqtt_consumer,Kettle
+2022-07-18 09:00:18.240,64.78,mqtt_consumer,Kettle
+2022-07-18 10:00:18.240,20.15,mqtt_consumer,Kettle
+2022-07-18 11:00:18.240,12.77,mqtt_consumer,Kettle
+2022-07-18 12:00:18.240,38.02,mqtt_consumer,Kettle
+2022-07-18 13:00:18.240,55.8,mqtt_consumer,Kettle
+2022-07-18 14:00:18.240,5.57,mqtt_consumer,Kettle
+2022-07-18 15:00:18.240,66.68,mqtt_consumer,Kettle
+2022-07-18 16:00:18.240,62.87,mqtt_consumer,Kettle
+2022-07-18 17:00:18.240,22.06,mqtt_consumer,Kettle
+2022-07-18 18:00:18.240,55.25,mqtt_consumer,Kettle
+2022-07-18 19:00:18.240,59.06,mqtt_consumer,Kettle
+2022-07-18 20:00:18.240,48.01,mqtt_consumer,Kettle
+2022-07-18 21:00:18.240,28.33,mqtt_consumer,Kettle
+2022-07-18 22:00:18.240,93.04,mqtt_consumer,Kettle
+2022-07-18 23:00:18.240,12.45,mqtt_consumer,Kettle
+2022-07-19 00:00:18.240,43.41,mqtt_consumer,Kettle
+2022-07-19 01:00:18.240,14.84,mqtt_consumer,Kettle
+2022-07-19 02:00:18.240,49.76,mqtt_consumer,Kettle
+2022-07-19 03:00:18.240,93.57,mqtt_consumer,Kettle
+2022-07-19 04:00:18.240,16.14,mqtt_consumer,Kettle
+2022-07-19 05:00:18.240,94.71,mqtt_consumer,Kettle
+2022-07-19 06:00:18.240,62.1,mqtt_consumer,Kettle
+2022-07-19 07:00:18.240,96.61,mqtt_consumer,Kettle
+2022-07-19 08:00:18.240,26.03,mqtt_consumer,Kettle
+2022-07-19 09:00:18.240,1.32,mqtt_consumer,Kettle
+2022-07-19 10:00:18.240,28.13,mqtt_consumer,Kettle
+2022-07-19 11:00:18.240,7.05,mqtt_consumer,Kettle
+2022-07-19 12:00:18.240,88.73,mqtt_consumer,Kettle
+2022-07-19 13:00:18.240,31.81,mqtt_consumer,Kettle
+2022-07-19 14:00:18.240,7.62,mqtt_consumer,Kettle
+2022-07-19 15:00:18.240,87.18,mqtt_consumer,Kettle
+2022-07-19 16:00:18.240,83.57,mqtt_consumer,Kettle
+2022-07-19 17:00:18.240,88.9,mqtt_consumer,Kettle
+2022-07-19 18:00:18.240,94.11,mqtt_consumer,Kettle
+2022-07-19 19:00:18.240,35.12,mqtt_consumer,Kettle
+2022-07-19 20:00:18.240,80.1,mqtt_consumer,Kettle
+2022-07-19 21:00:18.240,81.4,mqtt_consumer,Kettle
+2022-07-19 22:00:18.240,79.38,mqtt_consumer,Kettle
+2022-07-19 23:00:18.240,96.6,mqtt_consumer,Kettle
+2022-07-20 00:00:18.240,9.63,mqtt_consumer,Kettle
+2022-07-20 01:00:18.240,5.55,mqtt_consumer,Kettle
+2022-07-20 02:00:18.240,67.48,mqtt_consumer,Kettle
+2022-07-20 03:00:18.240,54.61,mqtt_consumer,Kettle
+2022-07-20 04:00:18.240,12.37,mqtt_consumer,Kettle
+2022-07-20 05:00:18.240,22.74,mqtt_consumer,Kettle
+2022-07-20 06:00:18.240,57.73,mqtt_consumer,Kettle
+2022-07-20 07:00:18.240,80.61,mqtt_consumer,Kettle
+2022-07-20 08:00:18.240,61.91,mqtt_consumer,Kettle
+2022-07-20 09:00:18.240,60.76,mqtt_consumer,Kettle
+2022-07-20 10:00:18.240,55.5,mqtt_consumer,Kettle
+2022-07-20 11:00:18.240,51.81,mqtt_consumer,Kettle
+2022-07-20 12:00:18.240,67.34,mqtt_consumer,Kettle
+2022-07-20 13:00:18.240,53.59,mqtt_consumer,Kettle
+2022-07-20 14:00:18.240,96.87,mqtt_consumer,Kettle
+2022-07-20 15:00:18.240,4.44,mqtt_consumer,Kettle
+2022-07-20 16:00:18.240,55.76,mqtt_consumer,Kettle
+2022-07-20 17:00:18.240,49.14,mqtt_consumer,Kettle
+2022-07-20 18:00:18.240,84.76,mqtt_consumer,Kettle
+2022-07-20 19:00:18.240,75.48,mqtt_consumer,Kettle
+2022-07-20 20:00:18.240,96.65,mqtt_consumer,Kettle
+2022-07-20 21:00:18.240,16.85,mqtt_consumer,Kettle
+2022-07-20 22:00:18.240,37.76,mqtt_consumer,Kettle
+2022-07-20 23:00:18.240,32.65,mqtt_consumer,Kettle
+2022-07-21 00:00:18.240,22.59,mqtt_consumer,Kettle
+2022-07-21 01:00:18.240,64.71,mqtt_consumer,Kettle
+2022-07-21 02:00:18.240,92.78,mqtt_consumer,Kettle
+2022-07-21 03:00:18.240,41.09,mqtt_consumer,Kettle
+2022-07-21 04:00:18.240,16.48,mqtt_consumer,Kettle
+2022-07-21 05:00:18.240,54.09,mqtt_consumer,Kettle
+2022-07-21 06:00:18.240,24.87,mqtt_consumer,Kettle
+2022-07-21 07:00:18.240,60.59,mqtt_consumer,Kettle
+2022-07-21 08:00:18.240,84.13,mqtt_consumer,Kettle
+2022-07-21 09:00:18.240,34.29,mqtt_consumer,Kettle
+2022-07-21 10:00:18.240,88.09,mqtt_consumer,Kettle
+2022-07-21 11:00:18.240,74.54,mqtt_consumer,Kettle
+2022-07-21 12:00:18.240,36.1,mqtt_consumer,Kettle
+2022-07-21 13:00:18.240,47.05,mqtt_consumer,Kettle
+2022-07-21 14:00:18.240,76.23,mqtt_consumer,Kettle
+2022-07-21 15:00:18.240,37.01,mqtt_consumer,Kettle
+2022-07-21 16:00:18.240,82.65,mqtt_consumer,Kettle
+2022-07-21 17:00:18.240,93.3,mqtt_consumer,Kettle
+2022-07-21 18:00:18.240,4.98,mqtt_consumer,Kettle
+2022-07-21 19:00:18.240,4.96,mqtt_consumer,Kettle
+2022-07-21 20:00:18.240,49.12,mqtt_consumer,Kettle
+2022-07-21 21:00:18.240,14.51,mqtt_consumer,Kettle
+2022-07-21 22:00:18.240,16.99,mqtt_consumer,Kettle
+2022-07-21 23:00:18.240,16.47,mqtt_consumer,Kettle
+2022-07-22 00:00:18.240,74.54,mqtt_consumer,Kettle
+2022-07-22 01:00:18.240,11.39,mqtt_consumer,Kettle
+2022-07-22 02:00:18.240,22.36,mqtt_consumer,Kettle
+2022-07-22 03:00:18.240,78.4,mqtt_consumer,Kettle
+2022-07-22 04:00:18.240,63.05,mqtt_consumer,Kettle
+2022-07-22 05:00:18.240,99.43,mqtt_consumer,Kettle
+2022-07-22 06:00:18.240,59.09,mqtt_consumer,Kettle
+2022-07-22 07:00:18.240,58.47,mqtt_consumer,Kettle
+2022-07-22 08:00:18.240,26.78,mqtt_consumer,Kettle
+2022-07-22 09:00:18.240,26.66,mqtt_consumer,Kettle
+2022-07-22 10:00:18.240,39.46,mqtt_consumer,Kettle
+2022-07-22 11:00:18.240,54.1,mqtt_consumer,Kettle
+2022-07-22 12:00:18.240,32.75,mqtt_consumer,Kettle
+2022-07-22 13:00:18.240,46.47,mqtt_consumer,Kettle
+2022-07-22 14:00:18.240,55.64,mqtt_consumer,Kettle
+2022-07-22 15:00:18.240,67.53,mqtt_consumer,Kettle
+2022-07-22 16:00:18.240,59.91,mqtt_consumer,Kettle
+2022-07-22 17:00:18.240,86.01,mqtt_consumer,Kettle
+2022-07-22 18:00:18.240,23.59,mqtt_consumer,Kettle
+2022-07-22 19:00:18.240,81.54,mqtt_consumer,Kettle
+2022-07-22 20:00:18.240,89.1,mqtt_consumer,Kettle
+2022-07-22 21:00:18.240,73.09,mqtt_consumer,Kettle
+2022-07-22 22:00:18.240,27.31,mqtt_consumer,Kettle
+2022-07-22 23:00:18.240,37.29,mqtt_consumer,Kettle
+2022-07-23 00:00:18.240,95.27,mqtt_consumer,Kettle
+2022-07-23 01:00:18.240,52.93,mqtt_consumer,Kettle
+2022-07-23 02:00:18.240,26.83,mqtt_consumer,Kettle
+2022-07-23 03:00:18.240,90.49,mqtt_consumer,Kettle
+2022-07-23 04:00:18.240,50.55,mqtt_consumer,Kettle
+2022-07-23 05:00:18.240,95.28,mqtt_consumer,Kettle
+2022-07-23 06:00:18.240,1.38,mqtt_consumer,Kettle
+2022-07-23 07:00:18.240,27.28,mqtt_consumer,Kettle
+2022-07-23 08:00:18.240,87.73,mqtt_consumer,Kettle
+2022-07-23 09:00:18.240,30.95,mqtt_consumer,Kettle
+2022-07-23 10:00:18.240,98.83,mqtt_consumer,Kettle
+2022-07-23 11:00:18.240,37.34,mqtt_consumer,Kettle
+2022-07-23 12:00:18.240,39.06,mqtt_consumer,Kettle
+2022-07-23 13:00:18.240,71.18,mqtt_consumer,Kettle
+2022-07-23 14:00:18.240,56.18,mqtt_consumer,Kettle
+2022-07-23 15:00:18.240,4.12,mqtt_consumer,Kettle
+2022-07-23 16:00:18.240,7.42,mqtt_consumer,Kettle
+2022-07-23 17:00:18.240,33.7,mqtt_consumer,Kettle
+2022-07-23 18:00:18.240,95.47,mqtt_consumer,Kettle
+2022-07-23 19:00:18.240,98.95,mqtt_consumer,Kettle
+2022-07-23 20:00:18.240,4.2,mqtt_consumer,Kettle
+2022-07-23 21:00:18.240,56.04,mqtt_consumer,Kettle
+2022-07-23 22:00:18.240,0.5,mqtt_consumer,Kettle
+2022-07-23 23:00:18.240,42.88,mqtt_consumer,Kettle
+2022-07-24 00:00:18.240,37.7,mqtt_consumer,Kettle
+2022-07-24 01:00:18.240,36.57,mqtt_consumer,Kettle
+2022-07-24 02:00:18.240,6.54,mqtt_consumer,Kettle
+2022-07-24 03:00:18.240,22,mqtt_consumer,Kettle
+2022-07-24 04:00:18.240,8.91,mqtt_consumer,Kettle
+2022-07-24 05:00:18.240,16.9,mqtt_consumer,Kettle
+2022-07-24 06:00:18.240,38.76,mqtt_consumer,Kettle
+2022-07-24 07:00:18.240,37.54,mqtt_consumer,Kettle
+2022-07-24 08:00:18.240,70.78,mqtt_consumer,Kettle
+2022-07-24 09:00:18.240,92.07,mqtt_consumer,Kettle
+2022-07-24 10:00:18.240,42.96,mqtt_consumer,Kettle
+2022-07-24 11:00:18.240,77.66,mqtt_consumer,Kettle
+2022-07-24 12:00:18.240,71.72,mqtt_consumer,Kettle
+2022-07-24 13:00:18.240,45.11,mqtt_consumer,Kettle
+2022-07-24 14:00:18.240,0.33,mqtt_consumer,Kettle
+2022-07-24 15:00:18.240,69.19,mqtt_consumer,Kettle
+2022-07-24 16:00:18.240,68.48,mqtt_consumer,Kettle
+2022-07-24 17:00:18.240,79.02,mqtt_consumer,Kettle
+2022-07-24 18:00:18.240,82.26,mqtt_consumer,Kettle
+2022-07-24 19:00:18.240,71,mqtt_consumer,Kettle
+2022-07-24 20:00:18.240,71.77,mqtt_consumer,Kettle
+2022-07-24 21:00:18.240,26.09,mqtt_consumer,Kettle
+2022-07-24 22:00:18.240,40.65,mqtt_consumer,Kettle
+2022-07-24 23:00:18.240,14.41,mqtt_consumer,Kettle
+2022-07-25 00:00:18.240,38.56,mqtt_consumer,Kettle
+2022-07-25 01:00:18.240,5.25,mqtt_consumer,Kettle
+2022-07-25 02:00:18.240,66.31,mqtt_consumer,Kettle
+2022-07-25 03:00:18.240,98.92,mqtt_consumer,Kettle
+2022-07-25 04:00:18.240,2.48,mqtt_consumer,Kettle
+2022-07-25 05:00:18.240,50.84,mqtt_consumer,Kettle
+2022-07-25 06:00:18.240,23.07,mqtt_consumer,Kettle
+2022-07-25 07:00:18.240,90.12,mqtt_consumer,Kettle
+2022-07-25 08:00:18.240,44.35,mqtt_consumer,Kettle
+2022-07-25 09:00:18.240,42.88,mqtt_consumer,Kettle
+2022-07-25 10:00:18.240,22.73,mqtt_consumer,Kettle
+2022-07-25 11:00:18.240,72.27,mqtt_consumer,Kettle
+2022-07-25 12:00:18.240,75.53,mqtt_consumer,Kettle
+2022-07-25 13:00:18.240,54.26,mqtt_consumer,Kettle
+2022-07-25 14:00:18.240,16.4,mqtt_consumer,Kettle
+2022-07-25 15:00:18.240,17.44,mqtt_consumer,Kettle
+2022-07-25 16:00:18.240,14.41,mqtt_consumer,Kettle
+2022-07-25 17:00:18.240,7.73,mqtt_consumer,Kettle
+2022-07-25 18:00:18.240,31.2,mqtt_consumer,Kettle
+2022-07-25 19:00:18.240,64.31,mqtt_consumer,Kettle
+2022-07-25 20:00:18.240,10.64,mqtt_consumer,Kettle
+2022-07-25 21:00:18.240,73.96,mqtt_consumer,Kettle
+2022-07-25 22:00:18.240,53.44,mqtt_consumer,Kettle
+2022-07-25 23:00:18.240,21.26,mqtt_consumer,Kettle
+2022-07-26 00:00:18.240,60.12,mqtt_consumer,Kettle
+2022-07-26 01:00:18.240,24.06,mqtt_consumer,Kettle
+2022-07-26 02:00:18.240,38.02,mqtt_consumer,Kettle
+2022-07-26 03:00:18.240,25.6,mqtt_consumer,Kettle
+2022-07-26 04:00:18.240,53.8,mqtt_consumer,Kettle
+2022-07-26 05:00:18.240,85.41,mqtt_consumer,Kettle
+2022-07-26 06:00:18.240,86.37,mqtt_consumer,Kettle
+2022-07-26 07:00:18.240,9.08,mqtt_consumer,Kettle
+2022-07-26 08:00:18.240,55.81,mqtt_consumer,Kettle
+2022-07-26 09:00:18.240,70.62,mqtt_consumer,Kettle
+2022-07-26 10:00:18.240,94.34,mqtt_consumer,Kettle
+2022-07-26 11:00:18.240,90.78,mqtt_consumer,Kettle
+2022-07-26 12:00:18.240,26.16,mqtt_consumer,Kettle
+2022-07-26 13:00:18.240,12.35,mqtt_consumer,Kettle
+2022-07-26 14:00:18.240,89.57,mqtt_consumer,Kettle
+2022-07-26 15:00:18.240,25.37,mqtt_consumer,Kettle
+2022-07-26 16:00:18.240,48.4,mqtt_consumer,Kettle
+2022-07-26 17:00:18.240,2.85,mqtt_consumer,Kettle
+2022-07-26 18:00:18.240,61.21,mqtt_consumer,Kettle
+2022-07-26 19:00:18.240,8.08,mqtt_consumer,Kettle
+2022-07-26 20:00:18.240,0.28,mqtt_consumer,Kettle
+2022-07-26 21:00:18.240,72.93,mqtt_consumer,Kettle
+2022-07-26 22:00:18.240,63.18,mqtt_consumer,Kettle
+2022-07-26 23:00:18.240,34.23,mqtt_consumer,Kettle
+2022-07-27 00:00:18.240,78.76,mqtt_consumer,Kettle
+2022-07-27 01:00:18.240,52.49,mqtt_consumer,Kettle
+2022-07-27 02:00:18.240,55.65,mqtt_consumer,Kettle
+2022-07-27 03:00:18.240,11.85,mqtt_consumer,Kettle
+2022-07-27 04:00:18.240,0.64,mqtt_consumer,Kettle
+2022-07-27 05:00:18.240,66.76,mqtt_consumer,Kettle
+2022-07-27 06:00:18.240,37.36,mqtt_consumer,Kettle
+2022-07-27 07:00:18.240,73.46,mqtt_consumer,Kettle
+2022-07-27 08:00:18.240,58.04,mqtt_consumer,Kettle
+2022-07-27 09:00:18.240,93.86,mqtt_consumer,Kettle
+2022-07-27 10:00:18.240,16.4,mqtt_consumer,Kettle
+2022-07-27 11:00:18.240,95.31,mqtt_consumer,Kettle
+2022-07-27 12:00:18.240,60.92,mqtt_consumer,Kettle
+2022-07-27 13:00:18.240,24.71,mqtt_consumer,Kettle
+2022-07-27 14:00:18.240,15.1,mqtt_consumer,Kettle
+2022-07-27 15:00:18.240,37.2,mqtt_consumer,Kettle
+2022-07-27 16:00:18.240,51.01,mqtt_consumer,Kettle
+2022-07-27 17:00:18.240,87.56,mqtt_consumer,Kettle
+2022-07-27 18:00:18.240,67.45,mqtt_consumer,Kettle
+2022-07-27 19:00:18.240,73.69,mqtt_consumer,Kettle
+2022-07-27 20:00:18.240,9.97,mqtt_consumer,Kettle
+2022-07-27 21:00:18.240,27.71,mqtt_consumer,Kettle
+2022-07-27 22:00:18.240,30.31,mqtt_consumer,Kettle
+2022-07-27 23:00:18.240,0.96,mqtt_consumer,Kettle
+2022-07-28 00:00:18.240,45.9,mqtt_consumer,Kettle
+2022-07-28 01:00:18.240,13.36,mqtt_consumer,Kettle
+2022-07-28 02:00:18.240,18.07,mqtt_consumer,Kettle
+2022-07-28 03:00:18.240,53.45,mqtt_consumer,Kettle
+2022-07-28 04:00:18.240,70.15,mqtt_consumer,Kettle
+2022-07-28 05:00:18.240,68.07,mqtt_consumer,Kettle
+2022-07-28 06:00:18.240,88.17,mqtt_consumer,Kettle
+2022-07-28 07:00:18.240,86.8,mqtt_consumer,Kettle
+2022-07-28 08:00:18.240,83.95,mqtt_consumer,Kettle
+2022-07-28 09:00:18.240,62.08,mqtt_consumer,Kettle
+2022-07-28 10:00:18.240,73.6,mqtt_consumer,Kettle
+2022-07-28 11:00:18.240,50.97,mqtt_consumer,Kettle
+2022-07-28 12:00:18.240,73.57,mqtt_consumer,Kettle
+2022-07-28 13:00:18.240,39.85,mqtt_consumer,Kettle
+2022-07-28 14:00:18.240,5.41,mqtt_consumer,Kettle
+2022-07-28 15:00:18.240,78.41,mqtt_consumer,Kettle
+2022-07-28 16:00:18.240,35.73,mqtt_consumer,Kettle
+2022-07-28 17:00:18.240,37.66,mqtt_consumer,Kettle
+2022-07-28 18:00:18.240,25.97,mqtt_consumer,Kettle
+2022-07-28 19:00:18.240,98.79,mqtt_consumer,Kettle
+2022-07-28 20:00:18.240,93.99,mqtt_consumer,Kettle
+2022-07-28 21:00:18.240,95.52,mqtt_consumer,Kettle
+2022-07-28 22:00:18.240,77.36,mqtt_consumer,Kettle
+2022-07-28 23:00:18.240,46.82,mqtt_consumer,Kettle
+2022-07-29 00:00:18.240,65.49,mqtt_consumer,Kettle
+2022-07-29 01:00:18.240,9.01,mqtt_consumer,Kettle
+2022-07-29 02:00:18.240,47.84,mqtt_consumer,Kettle
+2022-07-29 03:00:18.240,34.21,mqtt_consumer,Kettle
+2022-07-29 04:00:18.240,61.23,mqtt_consumer,Kettle
+2022-07-29 05:00:18.240,64.84,mqtt_consumer,Kettle
+2022-07-29 06:00:18.240,17.03,mqtt_consumer,Kettle
+2022-07-29 07:00:18.240,73.99,mqtt_consumer,Kettle
+2022-07-29 08:00:18.240,55.27,mqtt_consumer,Kettle
+2022-07-29 09:00:18.240,58.06,mqtt_consumer,Kettle
+2022-07-29 10:00:18.240,2.93,mqtt_consumer,Kettle
+2022-07-29 11:00:18.240,11.49,mqtt_consumer,Kettle
+2022-07-29 12:00:18.240,27.78,mqtt_consumer,Kettle
+2022-07-29 13:00:18.240,56.58,mqtt_consumer,Kettle
+2022-07-29 14:00:18.240,31.4,mqtt_consumer,Kettle
+2022-07-29 15:00:18.240,52.3,mqtt_consumer,Kettle
+2022-07-29 16:00:18.240,57.33,mqtt_consumer,Kettle
+2022-07-29 17:00:18.240,14.09,mqtt_consumer,Kettle
+2022-07-29 18:00:18.240,64.24,mqtt_consumer,Kettle
+2022-07-29 19:00:18.240,30.22,mqtt_consumer,Kettle
+2022-07-29 20:00:18.240,80.45,mqtt_consumer,Kettle
+2022-07-29 21:00:18.240,5.45,mqtt_consumer,Kettle
+2022-07-29 22:00:18.240,12.31,mqtt_consumer,Kettle
+2022-07-29 23:00:18.240,54.8,mqtt_consumer,Kettle
+2022-07-30 00:00:18.240,23.07,mqtt_consumer,Kettle
+2022-07-30 01:00:18.240,98.47,mqtt_consumer,Kettle
+2022-07-30 02:00:18.240,64.79,mqtt_consumer,Kettle
+2022-07-30 03:00:18.240,4.77,mqtt_consumer,Kettle
+2022-07-30 04:00:18.240,95.4,mqtt_consumer,Kettle
+2022-07-30 05:00:18.240,12.39,mqtt_consumer,Kettle
+2022-07-30 06:00:18.240,96.77,mqtt_consumer,Kettle
+2022-07-30 07:00:18.240,25.34,mqtt_consumer,Kettle
+2022-07-30 08:00:18.240,96.08,mqtt_consumer,Kettle
+2022-07-30 09:00:18.240,68.71,mqtt_consumer,Kettle
+2022-07-30 10:00:18.240,10.63,mqtt_consumer,Kettle
+2022-07-30 11:00:18.240,68.09,mqtt_consumer,Kettle
+2022-07-30 12:00:18.240,86.14,mqtt_consumer,Kettle
+2022-07-30 13:00:18.240,51.61,mqtt_consumer,Kettle
+2022-07-30 14:00:18.240,29.43,mqtt_consumer,Kettle
+2022-07-30 15:00:18.240,39.73,mqtt_consumer,Kettle
+2022-07-30 16:00:18.240,37.39,mqtt_consumer,Kettle
+2022-07-30 17:00:18.240,96.61,mqtt_consumer,Kettle
+2022-07-30 18:00:18.240,59.45,mqtt_consumer,Kettle
+2022-07-30 19:00:18.240,2.08,mqtt_consumer,Kettle
+2022-07-30 20:00:18.240,71.82,mqtt_consumer,Kettle
+2022-07-30 21:00:18.240,76.01,mqtt_consumer,Kettle
+2022-07-30 22:00:18.240,79.55,mqtt_consumer,Kettle
+2022-07-30 23:00:18.240,46.44,mqtt_consumer,Kettle
+2022-07-31 00:00:18.240,72.95,mqtt_consumer,Kettle
+2022-07-31 01:00:18.240,95.5,mqtt_consumer,Kettle
+2022-07-31 02:00:18.240,30.24,mqtt_consumer,Kettle
+2022-07-31 03:00:18.240,54.82,mqtt_consumer,Kettle
+2022-07-31 04:00:18.240,52.73,mqtt_consumer,Kettle
+2022-07-31 05:00:18.240,92.01,mqtt_consumer,Kettle
+2022-07-31 06:00:18.240,82.69,mqtt_consumer,Kettle
+2022-07-31 07:00:18.240,55.37,mqtt_consumer,Kettle
+2022-07-31 08:00:18.240,12.75,mqtt_consumer,Kettle
+2022-07-31 09:00:18.240,15.75,mqtt_consumer,Kettle
+2022-07-31 10:00:18.240,95.96,mqtt_consumer,Kettle
+2022-07-31 11:00:18.240,99.29,mqtt_consumer,Kettle
+2022-07-31 12:00:18.240,81.7,mqtt_consumer,Kettle
+2022-07-31 13:00:18.240,68.68,mqtt_consumer,Kettle
+2022-07-31 14:00:18.240,78.96,mqtt_consumer,Kettle
+2022-07-31 15:00:18.240,59.82,mqtt_consumer,Kettle
+2022-07-31 16:00:18.240,48.15,mqtt_consumer,Kettle
+2022-07-31 17:00:18.240,45.59,mqtt_consumer,Kettle
+2022-07-31 18:00:18.240,16.48,mqtt_consumer,Kettle
+2022-07-31 19:00:18.240,83.8,mqtt_consumer,Kettle
+2022-07-31 20:00:18.240,23.04,mqtt_consumer,Kettle
+2022-07-31 21:00:18.240,56.2,mqtt_consumer,Kettle
+2022-07-31 22:00:18.240,33.15,mqtt_consumer,Kettle
+2022-07-31 23:00:18.240,25.97,mqtt_consumer,Kettle
+2022-08-01 00:00:18.240,75.04,mqtt_consumer,Kettle
+2022-08-01 01:00:18.240,61.01,mqtt_consumer,Kettle
+2022-08-01 02:00:18.240,43.2,mqtt_consumer,Kettle
+2022-08-01 03:00:18.240,90.99,mqtt_consumer,Kettle
+2022-08-01 04:00:18.240,94.38,mqtt_consumer,Kettle
+2022-08-01 05:00:18.240,93,mqtt_consumer,Kettle
+2022-08-01 06:00:18.240,71.93,mqtt_consumer,Kettle
+2022-08-01 07:00:18.240,99.15,mqtt_consumer,Kettle
+2022-08-01 08:00:18.240,70.83,mqtt_consumer,Kettle
+2022-08-01 09:00:18.240,71.94,mqtt_consumer,Kettle
+2022-08-01 10:00:18.240,78.85,mqtt_consumer,Kettle
+2022-08-01 11:00:18.240,64.75,mqtt_consumer,Kettle
+2022-08-01 12:00:18.240,97.87,mqtt_consumer,Kettle
+2022-08-01 13:00:18.240,69.55,mqtt_consumer,Kettle
+2022-08-01 14:00:18.240,11.29,mqtt_consumer,Kettle
+2022-08-01 15:00:18.240,5.54,mqtt_consumer,Kettle
+2022-08-01 16:00:18.240,70.52,mqtt_consumer,Kettle
+2022-08-01 17:00:18.240,94.41,mqtt_consumer,Kettle
+2022-08-01 18:00:18.240,51.94,mqtt_consumer,Kettle
+2022-08-01 19:00:18.240,85.19,mqtt_consumer,Kettle
+2022-08-01 20:00:18.240,69.28,mqtt_consumer,Kettle
+2022-08-01 21:00:18.240,75.23,mqtt_consumer,Kettle
+2022-08-01 22:00:18.240,59.68,mqtt_consumer,Kettle
+2022-08-01 23:00:18.240,26.34,mqtt_consumer,Kettle
+2022-08-02 00:00:18.240,82.18,mqtt_consumer,Kettle
+2022-08-02 01:00:18.240,52.33,mqtt_consumer,Kettle
+2022-08-02 02:00:18.240,36.18,mqtt_consumer,Kettle
+2022-08-02 03:00:18.240,42.96,mqtt_consumer,Kettle
+2022-08-02 04:00:18.240,44.54,mqtt_consumer,Kettle
+2022-08-02 05:00:18.240,80.25,mqtt_consumer,Kettle
+2022-07-12 10:00:18.240,94.51,mqtt_consumer,Microwave
+2022-07-12 11:00:18.240,45.5,mqtt_consumer,Microwave
+2022-07-12 12:00:18.240,84.35,mqtt_consumer,Microwave
+2022-07-12 13:00:18.240,7.38,mqtt_consumer,Microwave
+2022-07-12 14:00:18.240,62.44,mqtt_consumer,Microwave
+2022-07-12 15:00:18.240,52.08,mqtt_consumer,Microwave
+2022-07-12 16:00:18.240,48.22,mqtt_consumer,Microwave
+2022-07-12 17:00:18.240,94.09,mqtt_consumer,Microwave
+2022-07-12 18:00:18.240,63.99,mqtt_consumer,Microwave
+2022-07-12 19:00:18.240,96.05,mqtt_consumer,Microwave
+2022-07-12 20:00:18.240,32.53,mqtt_consumer,Microwave
+2022-07-12 21:00:18.240,25.58,mqtt_consumer,Microwave
+2022-07-12 22:00:18.240,16.88,mqtt_consumer,Microwave
+2022-07-12 23:00:18.240,68.94,mqtt_consumer,Microwave
+2022-07-13 00:00:18.240,40.13,mqtt_consumer,Microwave
+2022-07-13 01:00:18.240,9.47,mqtt_consumer,Microwave
+2022-07-13 02:00:18.240,19.44,mqtt_consumer,Microwave
+2022-07-13 03:00:18.240,84.22,mqtt_consumer,Microwave
+2022-07-13 04:00:18.240,22.4,mqtt_consumer,Microwave
+2022-07-13 05:00:18.240,64.56,mqtt_consumer,Microwave
+2022-07-13 06:00:18.240,48.87,mqtt_consumer,Microwave
+2022-07-13 07:00:18.240,10.97,mqtt_consumer,Microwave
+2022-07-13 08:00:18.240,31.34,mqtt_consumer,Microwave
+2022-07-13 09:00:18.240,47.74,mqtt_consumer,Microwave
+2022-07-13 10:00:18.240,54.59,mqtt_consumer,Microwave
+2022-07-13 11:00:18.240,74.37,mqtt_consumer,Microwave
+2022-07-13 12:00:18.240,58.17,mqtt_consumer,Microwave
+2022-07-13 13:00:18.240,16.57,mqtt_consumer,Microwave
+2022-07-13 14:00:18.240,40.31,mqtt_consumer,Microwave
+2022-07-13 15:00:18.240,95.26,mqtt_consumer,Microwave
+2022-07-13 16:00:18.240,19.78,mqtt_consumer,Microwave
+2022-07-13 17:00:18.240,10.36,mqtt_consumer,Microwave
+2022-07-13 18:00:18.240,21.02,mqtt_consumer,Microwave
+2022-07-13 19:00:18.240,51.85,mqtt_consumer,Microwave
+2022-07-13 20:00:18.240,17.44,mqtt_consumer,Microwave
+2022-07-13 21:00:18.240,84.26,mqtt_consumer,Microwave
+2022-07-13 22:00:18.240,30.53,mqtt_consumer,Microwave
+2022-07-13 23:00:18.240,95.88,mqtt_consumer,Microwave
+2022-07-14 00:00:18.240,30.47,mqtt_consumer,Microwave
+2022-07-14 01:00:18.240,54.17,mqtt_consumer,Microwave
+2022-07-14 02:00:18.240,55.09,mqtt_consumer,Microwave
+2022-07-14 03:00:18.240,20.72,mqtt_consumer,Microwave
+2022-07-14 04:00:18.240,48.69,mqtt_consumer,Microwave
+2022-07-14 05:00:18.240,40.11,mqtt_consumer,Microwave
+2022-07-14 06:00:18.240,47.48,mqtt_consumer,Microwave
+2022-07-14 07:00:18.240,78.62,mqtt_consumer,Microwave
+2022-07-14 08:00:18.240,89.13,mqtt_consumer,Microwave
+2022-07-14 09:00:18.240,22.78,mqtt_consumer,Microwave
+2022-07-14 10:00:18.240,20.13,mqtt_consumer,Microwave
+2022-07-14 11:00:18.240,65.91,mqtt_consumer,Microwave
+2022-07-14 12:00:18.240,0.75,mqtt_consumer,Microwave
+2022-07-14 13:00:18.240,40.33,mqtt_consumer,Microwave
+2022-07-14 14:00:18.240,45.26,mqtt_consumer,Microwave
+2022-07-14 15:00:18.240,86.62,mqtt_consumer,Microwave
+2022-07-14 16:00:18.240,23.81,mqtt_consumer,Microwave
+2022-07-14 17:00:18.240,1.04,mqtt_consumer,Microwave
+2022-07-14 18:00:18.240,74.1,mqtt_consumer,Microwave
+2022-07-14 19:00:18.240,41.65,mqtt_consumer,Microwave
+2022-07-14 20:00:18.240,15.18,mqtt_consumer,Microwave
+2022-07-14 21:00:18.240,62.76,mqtt_consumer,Microwave
+2022-07-14 22:00:18.240,67.06,mqtt_consumer,Microwave
+2022-07-14 23:00:18.240,20.57,mqtt_consumer,Microwave
+2022-07-15 00:00:18.240,73.78,mqtt_consumer,Microwave
+2022-07-15 01:00:18.240,96.28,mqtt_consumer,Microwave
+2022-07-15 02:00:18.240,98.55,mqtt_consumer,Microwave
+2022-07-15 03:00:18.240,92.69,mqtt_consumer,Microwave
+2022-07-15 04:00:18.240,47.13,mqtt_consumer,Microwave
+2022-07-15 05:00:18.240,53.7,mqtt_consumer,Microwave
+2022-07-15 06:00:18.240,21.79,mqtt_consumer,Microwave
+2022-07-15 07:00:18.240,48.9,mqtt_consumer,Microwave
+2022-07-15 08:00:18.240,29.37,mqtt_consumer,Microwave
+2022-07-15 09:00:18.240,2.28,mqtt_consumer,Microwave
+2022-07-15 10:00:18.240,35.22,mqtt_consumer,Microwave
+2022-07-15 11:00:18.240,95.95,mqtt_consumer,Microwave
+2022-07-15 12:00:18.240,77.55,mqtt_consumer,Microwave
+2022-07-15 13:00:18.240,45.55,mqtt_consumer,Microwave
+2022-07-15 14:00:18.240,8.41,mqtt_consumer,Microwave
+2022-07-15 15:00:18.240,79.78,mqtt_consumer,Microwave
+2022-07-15 16:00:18.240,84.66,mqtt_consumer,Microwave
+2022-07-15 17:00:18.240,70.72,mqtt_consumer,Microwave
+2022-07-15 18:00:18.240,83.91,mqtt_consumer,Microwave
+2022-07-15 19:00:18.240,90.51,mqtt_consumer,Microwave
+2022-07-15 20:00:18.240,54.48,mqtt_consumer,Microwave
+2022-07-15 21:00:18.240,79.37,mqtt_consumer,Microwave
+2022-07-15 22:00:18.240,62.96,mqtt_consumer,Microwave
+2022-07-15 23:00:18.240,63.75,mqtt_consumer,Microwave
+2022-07-16 00:00:18.240,62.18,mqtt_consumer,Microwave
+2022-07-16 01:00:18.240,34.21,mqtt_consumer,Microwave
+2022-07-16 02:00:18.240,40.72,mqtt_consumer,Microwave
+2022-07-16 03:00:18.240,43.36,mqtt_consumer,Microwave
+2022-07-16 04:00:18.240,44.13,mqtt_consumer,Microwave
+2022-07-16 05:00:18.240,91.29,mqtt_consumer,Microwave
+2022-07-16 06:00:18.240,18.52,mqtt_consumer,Microwave
+2022-07-16 07:00:18.240,39.23,mqtt_consumer,Microwave
+2022-07-16 08:00:18.240,17.79,mqtt_consumer,Microwave
+2022-07-16 09:00:18.240,51.79,mqtt_consumer,Microwave
+2022-07-16 10:00:18.240,51.68,mqtt_consumer,Microwave
+2022-07-16 11:00:18.240,20.64,mqtt_consumer,Microwave
+2022-07-16 12:00:18.240,55.12,mqtt_consumer,Microwave
+2022-07-16 13:00:18.240,57.82,mqtt_consumer,Microwave
+2022-07-16 14:00:18.240,29.84,mqtt_consumer,Microwave
+2022-07-16 15:00:18.240,29.13,mqtt_consumer,Microwave
+2022-07-16 16:00:18.240,3.87,mqtt_consumer,Microwave
+2022-07-16 17:00:18.240,43.89,mqtt_consumer,Microwave
+2022-07-16 18:00:18.240,57.77,mqtt_consumer,Microwave
+2022-07-16 19:00:18.240,1.26,mqtt_consumer,Microwave
+2022-07-16 20:00:18.240,23.66,mqtt_consumer,Microwave
+2022-07-16 21:00:18.240,65.67,mqtt_consumer,Microwave
+2022-07-16 22:00:18.240,48.33,mqtt_consumer,Microwave
+2022-07-16 23:00:18.240,53.64,mqtt_consumer,Microwave
+2022-07-17 00:00:18.240,20.01,mqtt_consumer,Microwave
+2022-07-17 01:00:18.240,63.9,mqtt_consumer,Microwave
+2022-07-17 02:00:18.240,3.86,mqtt_consumer,Microwave
+2022-07-17 03:00:18.240,9.83,mqtt_consumer,Microwave
+2022-07-17 04:00:18.240,90.74,mqtt_consumer,Microwave
+2022-07-17 05:00:18.240,99.48,mqtt_consumer,Microwave
+2022-07-17 06:00:18.240,19.32,mqtt_consumer,Microwave
+2022-07-17 07:00:18.240,84.27,mqtt_consumer,Microwave
+2022-07-17 08:00:18.240,87.28,mqtt_consumer,Microwave
+2022-07-17 09:00:18.240,62.99,mqtt_consumer,Microwave
+2022-07-17 10:00:18.240,1.96,mqtt_consumer,Microwave
+2022-07-17 11:00:18.240,40.5,mqtt_consumer,Microwave
+2022-07-17 12:00:18.240,41.5,mqtt_consumer,Microwave
+2022-07-17 13:00:18.240,94.03,mqtt_consumer,Microwave
+2022-07-17 14:00:18.240,9.42,mqtt_consumer,Microwave
+2022-07-17 15:00:18.240,44.8,mqtt_consumer,Microwave
+2022-07-17 16:00:18.240,54.91,mqtt_consumer,Microwave
+2022-07-17 17:00:18.240,46.1,mqtt_consumer,Microwave
+2022-07-17 18:00:18.240,50.68,mqtt_consumer,Microwave
+2022-07-17 19:00:18.240,61.53,mqtt_consumer,Microwave
+2022-07-17 20:00:18.240,47.98,mqtt_consumer,Microwave
+2022-07-17 21:00:18.240,1.99,mqtt_consumer,Microwave
+2022-07-17 22:00:18.240,22.2,mqtt_consumer,Microwave
+2022-07-17 23:00:18.240,76.86,mqtt_consumer,Microwave
+2022-07-18 00:00:18.240,82.91,mqtt_consumer,Microwave
+2022-07-18 01:00:18.240,77.38,mqtt_consumer,Microwave
+2022-07-18 02:00:18.240,31.56,mqtt_consumer,Microwave
+2022-07-18 03:00:18.240,49.07,mqtt_consumer,Microwave
+2022-07-18 04:00:18.240,93.23,mqtt_consumer,Microwave
+2022-07-18 05:00:18.240,6.47,mqtt_consumer,Microwave
+2022-07-18 06:00:18.240,79.26,mqtt_consumer,Microwave
+2022-07-18 07:00:18.240,71.88,mqtt_consumer,Microwave
+2022-07-18 08:00:18.240,38.62,mqtt_consumer,Microwave
+2022-07-18 09:00:18.240,80.11,mqtt_consumer,Microwave
+2022-07-18 10:00:18.240,35.49,mqtt_consumer,Microwave
+2022-07-18 11:00:18.240,35.29,mqtt_consumer,Microwave
+2022-07-18 12:00:18.240,75.48,mqtt_consumer,Microwave
+2022-07-18 13:00:18.240,35.07,mqtt_consumer,Microwave
+2022-07-18 14:00:18.240,8.48,mqtt_consumer,Microwave
+2022-07-18 15:00:18.240,97.22,mqtt_consumer,Microwave
+2022-07-18 16:00:18.240,91.76,mqtt_consumer,Microwave
+2022-07-18 17:00:18.240,21.58,mqtt_consumer,Microwave
+2022-07-18 18:00:18.240,80.17,mqtt_consumer,Microwave
+2022-07-18 19:00:18.240,67.18,mqtt_consumer,Microwave
+2022-07-18 20:00:18.240,86.76,mqtt_consumer,Microwave
+2022-07-18 21:00:18.240,11.96,mqtt_consumer,Microwave
+2022-07-18 22:00:18.240,89.99,mqtt_consumer,Microwave
+2022-07-18 23:00:18.240,63.7,mqtt_consumer,Microwave
+2022-07-19 00:00:18.240,35.21,mqtt_consumer,Microwave
+2022-07-19 01:00:18.240,1.06,mqtt_consumer,Microwave
+2022-07-19 02:00:18.240,0.27,mqtt_consumer,Microwave
+2022-07-19 03:00:18.240,16.74,mqtt_consumer,Microwave
+2022-07-19 04:00:18.240,89.31,mqtt_consumer,Microwave
+2022-07-19 05:00:18.240,12.14,mqtt_consumer,Microwave
+2022-07-19 06:00:18.240,59.23,mqtt_consumer,Microwave
+2022-07-19 07:00:18.240,42.57,mqtt_consumer,Microwave
+2022-07-19 08:00:18.240,51.87,mqtt_consumer,Microwave
+2022-07-19 09:00:18.240,61.83,mqtt_consumer,Microwave
+2022-07-19 10:00:18.240,8.29,mqtt_consumer,Microwave
+2022-07-19 11:00:18.240,49.43,mqtt_consumer,Microwave
+2022-07-19 12:00:18.240,98.22,mqtt_consumer,Microwave
+2022-07-19 13:00:18.240,71.61,mqtt_consumer,Microwave
+2022-07-19 14:00:18.240,31.92,mqtt_consumer,Microwave
+2022-07-19 15:00:18.240,99.17,mqtt_consumer,Microwave
+2022-07-19 16:00:18.240,82.42,mqtt_consumer,Microwave
+2022-07-19 17:00:18.240,45.59,mqtt_consumer,Microwave
+2022-07-19 18:00:18.240,20.93,mqtt_consumer,Microwave
+2022-07-19 19:00:18.240,16.1,mqtt_consumer,Microwave
+2022-07-19 20:00:18.240,27.55,mqtt_consumer,Microwave
+2022-07-19 21:00:18.240,11.28,mqtt_consumer,Microwave
+2022-07-19 22:00:18.240,51.83,mqtt_consumer,Microwave
+2022-07-19 23:00:18.240,74.74,mqtt_consumer,Microwave
+2022-07-20 00:00:18.240,20.68,mqtt_consumer,Microwave
+2022-07-20 01:00:18.240,2.19,mqtt_consumer,Microwave
+2022-07-20 02:00:18.240,28.75,mqtt_consumer,Microwave
+2022-07-20 03:00:18.240,27.16,mqtt_consumer,Microwave
+2022-07-20 04:00:18.240,72.93,mqtt_consumer,Microwave
+2022-07-20 05:00:18.240,34.32,mqtt_consumer,Microwave
+2022-07-20 06:00:18.240,70.03,mqtt_consumer,Microwave
+2022-07-20 07:00:18.240,92.47,mqtt_consumer,Microwave
+2022-07-20 08:00:18.240,39.85,mqtt_consumer,Microwave
+2022-07-20 09:00:18.240,47.64,mqtt_consumer,Microwave
+2022-07-20 10:00:18.240,69.82,mqtt_consumer,Microwave
+2022-07-20 11:00:18.240,54.24,mqtt_consumer,Microwave
+2022-07-20 12:00:18.240,59.8,mqtt_consumer,Microwave
+2022-07-20 13:00:18.240,38.52,mqtt_consumer,Microwave
+2022-07-20 14:00:18.240,97.83,mqtt_consumer,Microwave
+2022-07-20 15:00:18.240,63.44,mqtt_consumer,Microwave
+2022-07-20 16:00:18.240,88.83,mqtt_consumer,Microwave
+2022-07-20 17:00:18.240,32.61,mqtt_consumer,Microwave
+2022-07-20 18:00:18.240,6.82,mqtt_consumer,Microwave
+2022-07-20 19:00:18.240,49.98,mqtt_consumer,Microwave
+2022-07-20 20:00:18.240,25.11,mqtt_consumer,Microwave
+2022-07-20 21:00:18.240,10.1,mqtt_consumer,Microwave
+2022-07-20 22:00:18.240,27.61,mqtt_consumer,Microwave
+2022-07-20 23:00:18.240,68.23,mqtt_consumer,Microwave
+2022-07-21 00:00:18.240,29.78,mqtt_consumer,Microwave
+2022-07-21 01:00:18.240,60.01,mqtt_consumer,Microwave
+2022-07-21 02:00:18.240,9.05,mqtt_consumer,Microwave
+2022-07-21 03:00:18.240,83.49,mqtt_consumer,Microwave
+2022-07-21 04:00:18.240,14.51,mqtt_consumer,Microwave
+2022-07-21 05:00:18.240,86.92,mqtt_consumer,Microwave
+2022-07-21 06:00:18.240,90.38,mqtt_consumer,Microwave
+2022-07-21 07:00:18.240,51.05,mqtt_consumer,Microwave
+2022-07-21 08:00:18.240,46.83,mqtt_consumer,Microwave
+2022-07-21 09:00:18.240,72.35,mqtt_consumer,Microwave
+2022-07-21 10:00:18.240,80.85,mqtt_consumer,Microwave
+2022-07-21 11:00:18.240,87.05,mqtt_consumer,Microwave
+2022-07-21 12:00:18.240,83.38,mqtt_consumer,Microwave
+2022-07-21 13:00:18.240,94.97,mqtt_consumer,Microwave
+2022-07-21 14:00:18.240,74.95,mqtt_consumer,Microwave
+2022-07-21 15:00:18.240,27.98,mqtt_consumer,Microwave
+2022-07-21 16:00:18.240,86.22,mqtt_consumer,Microwave
+2022-07-21 17:00:18.240,4.46,mqtt_consumer,Microwave
+2022-07-21 18:00:18.240,6.27,mqtt_consumer,Microwave
+2022-07-21 19:00:18.240,50.47,mqtt_consumer,Microwave
+2022-07-21 20:00:18.240,88.09,mqtt_consumer,Microwave
+2022-07-21 21:00:18.240,66.83,mqtt_consumer,Microwave
+2022-07-21 22:00:18.240,90.46,mqtt_consumer,Microwave
+2022-07-21 23:00:18.240,80.85,mqtt_consumer,Microwave
+2022-07-22 00:00:18.240,58.22,mqtt_consumer,Microwave
+2022-07-22 01:00:18.240,84.34,mqtt_consumer,Microwave
+2022-07-22 02:00:18.240,33.87,mqtt_consumer,Microwave
+2022-07-22 03:00:18.240,57.43,mqtt_consumer,Microwave
+2022-07-22 04:00:18.240,42.79,mqtt_consumer,Microwave
+2022-07-22 05:00:18.240,9.39,mqtt_consumer,Microwave
+2022-07-22 06:00:18.240,32.66,mqtt_consumer,Microwave
+2022-07-22 07:00:18.240,65.76,mqtt_consumer,Microwave
+2022-07-22 08:00:18.240,1.19,mqtt_consumer,Microwave
+2022-07-22 09:00:18.240,9.56,mqtt_consumer,Microwave
+2022-07-22 10:00:18.240,12.18,mqtt_consumer,Microwave
+2022-07-22 11:00:18.240,60,mqtt_consumer,Microwave
+2022-07-22 12:00:18.240,31.11,mqtt_consumer,Microwave
+2022-07-22 13:00:18.240,68.55,mqtt_consumer,Microwave
+2022-07-22 14:00:18.240,93.54,mqtt_consumer,Microwave
+2022-07-22 15:00:18.240,47.27,mqtt_consumer,Microwave
+2022-07-22 16:00:18.240,25.07,mqtt_consumer,Microwave
+2022-07-22 17:00:18.240,24.37,mqtt_consumer,Microwave
+2022-07-22 18:00:18.240,57.12,mqtt_consumer,Microwave
+2022-07-22 19:00:18.240,79.31,mqtt_consumer,Microwave
+2022-07-22 20:00:18.240,58.86,mqtt_consumer,Microwave
+2022-07-22 21:00:18.240,21.57,mqtt_consumer,Microwave
+2022-07-22 22:00:18.240,93.33,mqtt_consumer,Microwave
+2022-07-22 23:00:18.240,50.49,mqtt_consumer,Microwave
+2022-07-23 00:00:18.240,30.5,mqtt_consumer,Microwave
+2022-07-23 01:00:18.240,83.65,mqtt_consumer,Microwave
+2022-07-23 02:00:18.240,45.93,mqtt_consumer,Microwave
+2022-07-23 03:00:18.240,12.48,mqtt_consumer,Microwave
+2022-07-23 04:00:18.240,94.92,mqtt_consumer,Microwave
+2022-07-23 05:00:18.240,92.41,mqtt_consumer,Microwave
+2022-07-23 06:00:18.240,3.01,mqtt_consumer,Microwave
+2022-07-23 07:00:18.240,26.91,mqtt_consumer,Microwave
+2022-07-23 08:00:18.240,46.1,mqtt_consumer,Microwave
+2022-07-23 09:00:18.240,91.75,mqtt_consumer,Microwave
+2022-07-23 10:00:18.240,78.21,mqtt_consumer,Microwave
+2022-07-23 11:00:18.240,90.64,mqtt_consumer,Microwave
+2022-07-23 12:00:18.240,9.99,mqtt_consumer,Microwave
+2022-07-23 13:00:18.240,12.73,mqtt_consumer,Microwave
+2022-07-23 14:00:18.240,57.96,mqtt_consumer,Microwave
+2022-07-23 15:00:18.240,39.09,mqtt_consumer,Microwave
+2022-07-23 16:00:18.240,82.53,mqtt_consumer,Microwave
+2022-07-23 17:00:18.240,50.72,mqtt_consumer,Microwave
+2022-07-23 18:00:18.240,0.37,mqtt_consumer,Microwave
+2022-07-23 19:00:18.240,43.05,mqtt_consumer,Microwave
+2022-07-23 20:00:18.240,86.14,mqtt_consumer,Microwave
+2022-07-23 21:00:18.240,28.45,mqtt_consumer,Microwave
+2022-07-23 22:00:18.240,71.16,mqtt_consumer,Microwave
+2022-07-23 23:00:18.240,97.1,mqtt_consumer,Microwave
+2022-07-24 00:00:18.240,42.9,mqtt_consumer,Microwave
+2022-07-24 01:00:18.240,21.89,mqtt_consumer,Microwave
+2022-07-24 02:00:18.240,54.03,mqtt_consumer,Microwave
+2022-07-24 03:00:18.240,30.61,mqtt_consumer,Microwave
+2022-07-24 04:00:18.240,93.92,mqtt_consumer,Microwave
+2022-07-24 05:00:18.240,76.4,mqtt_consumer,Microwave
+2022-07-24 06:00:18.240,39.59,mqtt_consumer,Microwave
+2022-07-24 07:00:18.240,26.58,mqtt_consumer,Microwave
+2022-07-24 08:00:18.240,36.45,mqtt_consumer,Microwave
+2022-07-24 09:00:18.240,91.61,mqtt_consumer,Microwave
+2022-07-24 10:00:18.240,22.97,mqtt_consumer,Microwave
+2022-07-24 11:00:18.240,4.91,mqtt_consumer,Microwave
+2022-07-24 12:00:18.240,12.65,mqtt_consumer,Microwave
+2022-07-24 13:00:18.240,62.7,mqtt_consumer,Microwave
+2022-07-24 14:00:18.240,96.66,mqtt_consumer,Microwave
+2022-07-24 15:00:18.240,94.07,mqtt_consumer,Microwave
+2022-07-24 16:00:18.240,1.58,mqtt_consumer,Microwave
+2022-07-24 17:00:18.240,97.35,mqtt_consumer,Microwave
+2022-07-24 18:00:18.240,42.15,mqtt_consumer,Microwave
+2022-07-24 19:00:18.240,40.55,mqtt_consumer,Microwave
+2022-07-24 20:00:18.240,16.43,mqtt_consumer,Microwave
+2022-07-24 21:00:18.240,9.32,mqtt_consumer,Microwave
+2022-07-24 22:00:18.240,40.38,mqtt_consumer,Microwave
+2022-07-24 23:00:18.240,42.01,mqtt_consumer,Microwave
+2022-07-25 00:00:18.240,57.85,mqtt_consumer,Microwave
+2022-07-25 01:00:18.240,66.12,mqtt_consumer,Microwave
+2022-07-25 02:00:18.240,10.66,mqtt_consumer,Microwave
+2022-07-25 03:00:18.240,50.24,mqtt_consumer,Microwave
+2022-07-25 04:00:18.240,1.29,mqtt_consumer,Microwave
+2022-07-25 05:00:18.240,52.69,mqtt_consumer,Microwave
+2022-07-25 06:00:18.240,67.27,mqtt_consumer,Microwave
+2022-07-25 07:00:18.240,35.71,mqtt_consumer,Microwave
+2022-07-25 08:00:18.240,55.45,mqtt_consumer,Microwave
+2022-07-25 09:00:18.240,18.99,mqtt_consumer,Microwave
+2022-07-25 10:00:18.240,95.48,mqtt_consumer,Microwave
+2022-07-25 11:00:18.240,5.55,mqtt_consumer,Microwave
+2022-07-25 12:00:18.240,57.75,mqtt_consumer,Microwave
+2022-07-25 13:00:18.240,74.71,mqtt_consumer,Microwave
+2022-07-25 14:00:18.240,76.33,mqtt_consumer,Microwave
+2022-07-25 15:00:18.240,21.02,mqtt_consumer,Microwave
+2022-07-25 16:00:18.240,33.73,mqtt_consumer,Microwave
+2022-07-25 17:00:18.240,96.47,mqtt_consumer,Microwave
+2022-07-25 18:00:18.240,35.99,mqtt_consumer,Microwave
+2022-07-25 19:00:18.240,87.75,mqtt_consumer,Microwave
+2022-07-25 20:00:18.240,81.13,mqtt_consumer,Microwave
+2022-07-25 21:00:18.240,55.19,mqtt_consumer,Microwave
+2022-07-25 22:00:18.240,98.66,mqtt_consumer,Microwave
+2022-07-25 23:00:18.240,83.43,mqtt_consumer,Microwave
+2022-07-26 00:00:18.240,74.1,mqtt_consumer,Microwave
+2022-07-26 01:00:18.240,65.21,mqtt_consumer,Microwave
+2022-07-26 02:00:18.240,8.4,mqtt_consumer,Microwave
+2022-07-26 03:00:18.240,77.26,mqtt_consumer,Microwave
+2022-07-26 04:00:18.240,8.23,mqtt_consumer,Microwave
+2022-07-26 05:00:18.240,61.32,mqtt_consumer,Microwave
+2022-07-26 06:00:18.240,55.5,mqtt_consumer,Microwave
+2022-07-26 07:00:18.240,54.88,mqtt_consumer,Microwave
+2022-07-26 08:00:18.240,43.38,mqtt_consumer,Microwave
+2022-07-26 09:00:18.240,69.39,mqtt_consumer,Microwave
+2022-07-26 10:00:18.240,84.82,mqtt_consumer,Microwave
+2022-07-26 11:00:18.240,21.67,mqtt_consumer,Microwave
+2022-07-26 12:00:18.240,36.95,mqtt_consumer,Microwave
+2022-07-26 13:00:18.240,21.82,mqtt_consumer,Microwave
+2022-07-26 14:00:18.240,6.05,mqtt_consumer,Microwave
+2022-07-26 15:00:18.240,30.45,mqtt_consumer,Microwave
+2022-07-26 16:00:18.240,92.2,mqtt_consumer,Microwave
+2022-07-26 17:00:18.240,0.05,mqtt_consumer,Microwave
+2022-07-26 18:00:18.240,18.38,mqtt_consumer,Microwave
+2022-07-26 19:00:18.240,90.16,mqtt_consumer,Microwave
+2022-07-26 20:00:18.240,71.55,mqtt_consumer,Microwave
+2022-07-26 21:00:18.240,10.6,mqtt_consumer,Microwave
+2022-07-26 22:00:18.240,26.35,mqtt_consumer,Microwave
+2022-07-26 23:00:18.240,46.24,mqtt_consumer,Microwave
+2022-07-27 00:00:18.240,85.94,mqtt_consumer,Microwave
+2022-07-27 01:00:18.240,82.93,mqtt_consumer,Microwave
+2022-07-27 02:00:18.240,89.38,mqtt_consumer,Microwave
+2022-07-27 03:00:18.240,13.05,mqtt_consumer,Microwave
+2022-07-27 04:00:18.240,73.28,mqtt_consumer,Microwave
+2022-07-27 05:00:18.240,71.18,mqtt_consumer,Microwave
+2022-07-27 06:00:18.240,99.89,mqtt_consumer,Microwave
+2022-07-27 07:00:18.240,12.03,mqtt_consumer,Microwave
+2022-07-27 08:00:18.240,84.54,mqtt_consumer,Microwave
+2022-07-27 09:00:18.240,33.69,mqtt_consumer,Microwave
+2022-07-27 10:00:18.240,32.49,mqtt_consumer,Microwave
+2022-07-27 11:00:18.240,78.7,mqtt_consumer,Microwave
+2022-07-27 12:00:18.240,64.48,mqtt_consumer,Microwave
+2022-07-27 13:00:18.240,89.79,mqtt_consumer,Microwave
+2022-07-27 14:00:18.240,87.47,mqtt_consumer,Microwave
+2022-07-27 15:00:18.240,63.46,mqtt_consumer,Microwave
+2022-07-27 16:00:18.240,86.24,mqtt_consumer,Microwave
+2022-07-27 17:00:18.240,23.77,mqtt_consumer,Microwave
+2022-07-27 18:00:18.240,73.21,mqtt_consumer,Microwave
+2022-07-27 19:00:18.240,70.43,mqtt_consumer,Microwave
+2022-07-27 20:00:18.240,55.29,mqtt_consumer,Microwave
+2022-07-27 21:00:18.240,17.48,mqtt_consumer,Microwave
+2022-07-27 22:00:18.240,13.29,mqtt_consumer,Microwave
+2022-07-27 23:00:18.240,52.02,mqtt_consumer,Microwave
+2022-07-28 00:00:18.240,94.73,mqtt_consumer,Microwave
+2022-07-28 01:00:18.240,75.65,mqtt_consumer,Microwave
+2022-07-28 02:00:18.240,22.04,mqtt_consumer,Microwave
+2022-07-28 03:00:18.240,31.65,mqtt_consumer,Microwave
+2022-07-28 04:00:18.240,11.07,mqtt_consumer,Microwave
+2022-07-28 05:00:18.240,41.58,mqtt_consumer,Microwave
+2022-07-28 06:00:18.240,89.57,mqtt_consumer,Microwave
+2022-07-28 07:00:18.240,75.7,mqtt_consumer,Microwave
+2022-07-28 08:00:18.240,20.47,mqtt_consumer,Microwave
+2022-07-28 09:00:18.240,24.85,mqtt_consumer,Microwave
+2022-07-28 10:00:18.240,4.51,mqtt_consumer,Microwave
+2022-07-28 11:00:18.240,7.36,mqtt_consumer,Microwave
+2022-07-28 12:00:18.240,32.12,mqtt_consumer,Microwave
+2022-07-28 13:00:18.240,62.89,mqtt_consumer,Microwave
+2022-07-28 14:00:18.240,42,mqtt_consumer,Microwave
+2022-07-28 15:00:18.240,28.26,mqtt_consumer,Microwave
+2022-07-28 16:00:18.240,50.71,mqtt_consumer,Microwave
+2022-07-28 17:00:18.240,29.12,mqtt_consumer,Microwave
+2022-07-28 18:00:18.240,94.06,mqtt_consumer,Microwave
+2022-07-28 19:00:18.240,83.89,mqtt_consumer,Microwave
+2022-07-28 20:00:18.240,27.18,mqtt_consumer,Microwave
+2022-07-28 21:00:18.240,2.58,mqtt_consumer,Microwave
+2022-07-28 22:00:18.240,85.13,mqtt_consumer,Microwave
+2022-07-28 23:00:18.240,71.51,mqtt_consumer,Microwave
+2022-07-29 00:00:18.240,13.72,mqtt_consumer,Microwave
+2022-07-29 01:00:18.240,59.2,mqtt_consumer,Microwave
+2022-07-29 02:00:18.240,42.63,mqtt_consumer,Microwave
+2022-07-29 03:00:18.240,90.35,mqtt_consumer,Microwave
+2022-07-29 04:00:18.240,66.51,mqtt_consumer,Microwave
+2022-07-29 05:00:18.240,71.61,mqtt_consumer,Microwave
+2022-07-29 06:00:18.240,83.35,mqtt_consumer,Microwave
+2022-07-29 07:00:18.240,63.69,mqtt_consumer,Microwave
+2022-07-29 08:00:18.240,52.88,mqtt_consumer,Microwave
+2022-07-29 09:00:18.240,57.17,mqtt_consumer,Microwave
+2022-07-29 10:00:18.240,40.45,mqtt_consumer,Microwave
+2022-07-29 11:00:18.240,21.55,mqtt_consumer,Microwave
+2022-07-29 12:00:18.240,83.64,mqtt_consumer,Microwave
+2022-07-29 13:00:18.240,87.86,mqtt_consumer,Microwave
+2022-07-29 14:00:18.240,76.26,mqtt_consumer,Microwave
+2022-07-29 15:00:18.240,86.42,mqtt_consumer,Microwave
+2022-07-29 16:00:18.240,29.64,mqtt_consumer,Microwave
+2022-07-29 17:00:18.240,17.89,mqtt_consumer,Microwave
+2022-07-29 18:00:18.240,54.9,mqtt_consumer,Microwave
+2022-07-29 19:00:18.240,42.75,mqtt_consumer,Microwave
+2022-07-29 20:00:18.240,19.32,mqtt_consumer,Microwave
+2022-07-29 21:00:18.240,87.38,mqtt_consumer,Microwave
+2022-07-29 22:00:18.240,99.56,mqtt_consumer,Microwave
+2022-07-29 23:00:18.240,74.49,mqtt_consumer,Microwave
+2022-07-30 00:00:18.240,26.53,mqtt_consumer,Microwave
+2022-07-30 01:00:18.240,38.74,mqtt_consumer,Microwave
+2022-07-30 02:00:18.240,26.37,mqtt_consumer,Microwave
+2022-07-30 03:00:18.240,13.89,mqtt_consumer,Microwave
+2022-07-30 04:00:18.240,80.61,mqtt_consumer,Microwave
+2022-07-30 05:00:18.240,41.5,mqtt_consumer,Microwave
+2022-07-30 06:00:18.240,75.46,mqtt_consumer,Microwave
+2022-07-30 07:00:18.240,19.93,mqtt_consumer,Microwave
+2022-07-30 08:00:18.240,89.2,mqtt_consumer,Microwave
+2022-07-30 09:00:18.240,83.46,mqtt_consumer,Microwave
+2022-07-30 10:00:18.240,6.67,mqtt_consumer,Microwave
+2022-07-30 11:00:18.240,90.79,mqtt_consumer,Microwave
+2022-07-30 12:00:18.240,37.33,mqtt_consumer,Microwave
+2022-07-30 13:00:18.240,94.75,mqtt_consumer,Microwave
+2022-07-30 14:00:18.240,33.61,mqtt_consumer,Microwave
+2022-07-30 15:00:18.240,64.35,mqtt_consumer,Microwave
+2022-07-30 16:00:18.240,42.16,mqtt_consumer,Microwave
+2022-07-30 17:00:18.240,85.96,mqtt_consumer,Microwave
+2022-07-30 18:00:18.240,58.2,mqtt_consumer,Microwave
+2022-07-30 19:00:18.240,10.79,mqtt_consumer,Microwave
+2022-07-30 20:00:18.240,10.96,mqtt_consumer,Microwave
+2022-07-30 21:00:18.240,70.83,mqtt_consumer,Microwave
+2022-07-30 22:00:18.240,82.49,mqtt_consumer,Microwave
+2022-07-30 23:00:18.240,14.11,mqtt_consumer,Microwave
+2022-07-31 00:00:18.240,2.5,mqtt_consumer,Microwave
+2022-07-31 01:00:18.240,37.41,mqtt_consumer,Microwave
+2022-07-31 02:00:18.240,99.15,mqtt_consumer,Microwave
+2022-07-31 03:00:18.240,71.76,mqtt_consumer,Microwave
+2022-07-31 04:00:18.240,27.09,mqtt_consumer,Microwave
+2022-07-31 05:00:18.240,7.65,mqtt_consumer,Microwave
+2022-07-31 06:00:18.240,71.33,mqtt_consumer,Microwave
+2022-07-31 07:00:18.240,79.68,mqtt_consumer,Microwave
+2022-07-31 08:00:18.240,50.55,mqtt_consumer,Microwave
+2022-07-31 09:00:18.240,43.36,mqtt_consumer,Microwave
+2022-07-31 10:00:18.240,6.89,mqtt_consumer,Microwave
+2022-07-31 11:00:18.240,0.61,mqtt_consumer,Microwave
+2022-07-31 12:00:18.240,41.48,mqtt_consumer,Microwave
+2022-07-31 13:00:18.240,75.18,mqtt_consumer,Microwave
+2022-07-31 14:00:18.240,48.85,mqtt_consumer,Microwave
+2022-07-31 15:00:18.240,42.34,mqtt_consumer,Microwave
+2022-07-31 16:00:18.240,78.67,mqtt_consumer,Microwave
+2022-07-31 17:00:18.240,3.29,mqtt_consumer,Microwave
+2022-07-31 18:00:18.240,39.41,mqtt_consumer,Microwave
+2022-07-31 19:00:18.240,3.52,mqtt_consumer,Microwave
+2022-07-31 20:00:18.240,79.74,mqtt_consumer,Microwave
+2022-07-31 21:00:18.240,21.92,mqtt_consumer,Microwave
+2022-07-31 22:00:18.240,29.89,mqtt_consumer,Microwave
+2022-07-31 23:00:18.240,17.34,mqtt_consumer,Microwave
+2022-08-01 00:00:18.240,48.8,mqtt_consumer,Microwave
+2022-08-01 01:00:18.240,96.3,mqtt_consumer,Microwave
+2022-08-01 02:00:18.240,85.73,mqtt_consumer,Microwave
+2022-08-01 03:00:18.240,53.14,mqtt_consumer,Microwave
+2022-08-01 04:00:18.240,50.05,mqtt_consumer,Microwave
+2022-08-01 05:00:18.240,11.36,mqtt_consumer,Microwave
+2022-08-01 06:00:18.240,4.81,mqtt_consumer,Microwave
+2022-08-01 07:00:18.240,1.4,mqtt_consumer,Microwave
+2022-08-01 08:00:18.240,65.45,mqtt_consumer,Microwave
+2022-08-01 09:00:18.240,69.24,mqtt_consumer,Microwave
+2022-08-01 10:00:18.240,40.95,mqtt_consumer,Microwave
+2022-08-01 11:00:18.240,12.51,mqtt_consumer,Microwave
+2022-08-01 12:00:18.240,27.59,mqtt_consumer,Microwave
+2022-08-01 13:00:18.240,39.36,mqtt_consumer,Microwave
+2022-08-01 14:00:18.240,49.98,mqtt_consumer,Microwave
+2022-08-01 15:00:18.240,76.2,mqtt_consumer,Microwave
+2022-08-01 16:00:18.240,90.5,mqtt_consumer,Microwave
+2022-08-01 17:00:18.240,13.72,mqtt_consumer,Microwave
+2022-08-01 18:00:18.240,33.79,mqtt_consumer,Microwave
+2022-08-01 19:00:18.240,92.28,mqtt_consumer,Microwave
+2022-08-01 20:00:18.240,34.62,mqtt_consumer,Microwave
+2022-08-01 21:00:18.240,25.56,mqtt_consumer,Microwave
+2022-08-01 22:00:18.240,13.29,mqtt_consumer,Microwave
+2022-08-01 23:00:18.240,66.48,mqtt_consumer,Microwave
+2022-08-02 00:00:18.240,11.07,mqtt_consumer,Microwave
+2022-08-02 01:00:18.240,58.61,mqtt_consumer,Microwave
+2022-08-02 02:00:18.240,52.54,mqtt_consumer,Microwave
+2022-08-02 03:00:18.240,53.8,mqtt_consumer,Microwave
+2022-08-02 04:00:18.240,6.98,mqtt_consumer,Microwave
+2022-08-02 05:00:18.240,24.31,mqtt_consumer,Microwave
+2022-07-12 10:00:18.240,38.22,mqtt_consumer,Oven
+2022-07-12 11:00:18.240,32.53,mqtt_consumer,Oven
+2022-07-12 12:00:18.240,64.44,mqtt_consumer,Oven
+2022-07-12 13:00:18.240,79.9,mqtt_consumer,Oven
+2022-07-12 14:00:18.240,50.32,mqtt_consumer,Oven
+2022-07-12 15:00:18.240,98.02,mqtt_consumer,Oven
+2022-07-12 16:00:18.240,56.93,mqtt_consumer,Oven
+2022-07-12 17:00:18.240,83.46,mqtt_consumer,Oven
+2022-07-12 18:00:18.240,7.49,mqtt_consumer,Oven
+2022-07-12 19:00:18.240,3.05,mqtt_consumer,Oven
+2022-07-12 20:00:18.240,65.3,mqtt_consumer,Oven
+2022-07-12 21:00:18.240,94.65,mqtt_consumer,Oven
+2022-07-12 22:00:18.240,35.7,mqtt_consumer,Oven
+2022-07-12 23:00:18.240,85.6,mqtt_consumer,Oven
+2022-07-13 00:00:18.240,81.62,mqtt_consumer,Oven
+2022-07-13 01:00:18.240,71.04,mqtt_consumer,Oven
+2022-07-13 02:00:18.240,59.77,mqtt_consumer,Oven
+2022-07-13 03:00:18.240,88.32,mqtt_consumer,Oven
+2022-07-13 04:00:18.240,8.39,mqtt_consumer,Oven
+2022-07-13 05:00:18.240,68.41,mqtt_consumer,Oven
+2022-07-13 06:00:18.240,79.04,mqtt_consumer,Oven
+2022-07-13 07:00:18.240,99.63,mqtt_consumer,Oven
+2022-07-13 08:00:18.240,31.76,mqtt_consumer,Oven
+2022-07-13 09:00:18.240,24.83,mqtt_consumer,Oven
+2022-07-13 10:00:18.240,24.35,mqtt_consumer,Oven
+2022-07-13 11:00:18.240,12.65,mqtt_consumer,Oven
+2022-07-13 12:00:18.240,11.49,mqtt_consumer,Oven
+2022-07-13 13:00:18.240,69.61,mqtt_consumer,Oven
+2022-07-13 14:00:18.240,17.06,mqtt_consumer,Oven
+2022-07-13 15:00:18.240,77.93,mqtt_consumer,Oven
+2022-07-13 16:00:18.240,3.51,mqtt_consumer,Oven
+2022-07-13 17:00:18.240,36.12,mqtt_consumer,Oven
+2022-07-13 18:00:18.240,59.72,mqtt_consumer,Oven
+2022-07-13 19:00:18.240,78.09,mqtt_consumer,Oven
+2022-07-13 20:00:18.240,96.47,mqtt_consumer,Oven
+2022-07-13 21:00:18.240,63.4,mqtt_consumer,Oven
+2022-07-13 22:00:18.240,53.18,mqtt_consumer,Oven
+2022-07-13 23:00:18.240,48.07,mqtt_consumer,Oven
+2022-07-14 00:00:18.240,55.93,mqtt_consumer,Oven
+2022-07-14 01:00:18.240,69.17,mqtt_consumer,Oven
+2022-07-14 02:00:18.240,7.91,mqtt_consumer,Oven
+2022-07-14 03:00:18.240,59.34,mqtt_consumer,Oven
+2022-07-14 04:00:18.240,89.31,mqtt_consumer,Oven
+2022-07-14 05:00:18.240,25.86,mqtt_consumer,Oven
+2022-07-14 06:00:18.240,76.14,mqtt_consumer,Oven
+2022-07-14 07:00:18.240,55.2,mqtt_consumer,Oven
+2022-07-14 08:00:18.240,59.81,mqtt_consumer,Oven
+2022-07-14 09:00:18.240,95.9,mqtt_consumer,Oven
+2022-07-14 10:00:18.240,97.43,mqtt_consumer,Oven
+2022-07-14 11:00:18.240,0.77,mqtt_consumer,Oven
+2022-07-14 12:00:18.240,83.3,mqtt_consumer,Oven
+2022-07-14 13:00:18.240,26.9,mqtt_consumer,Oven
+2022-07-14 14:00:18.240,30.82,mqtt_consumer,Oven
+2022-07-14 15:00:18.240,41.08,mqtt_consumer,Oven
+2022-07-14 16:00:18.240,36.44,mqtt_consumer,Oven
+2022-07-14 17:00:18.240,2.75,mqtt_consumer,Oven
+2022-07-14 18:00:18.240,85.54,mqtt_consumer,Oven
+2022-07-14 19:00:18.240,12.66,mqtt_consumer,Oven
+2022-07-14 20:00:18.240,72.19,mqtt_consumer,Oven
+2022-07-14 21:00:18.240,97.73,mqtt_consumer,Oven
+2022-07-14 22:00:18.240,69.55,mqtt_consumer,Oven
+2022-07-14 23:00:18.240,33.07,mqtt_consumer,Oven
+2022-07-15 00:00:18.240,29.11,mqtt_consumer,Oven
+2022-07-15 01:00:18.240,48.89,mqtt_consumer,Oven
+2022-07-15 02:00:18.240,91.7,mqtt_consumer,Oven
+2022-07-15 03:00:18.240,94.06,mqtt_consumer,Oven
+2022-07-15 04:00:18.240,79.75,mqtt_consumer,Oven
+2022-07-15 05:00:18.240,25.65,mqtt_consumer,Oven
+2022-07-15 06:00:18.240,62.64,mqtt_consumer,Oven
+2022-07-15 07:00:18.240,46.83,mqtt_consumer,Oven
+2022-07-15 08:00:18.240,21.24,mqtt_consumer,Oven
+2022-07-15 09:00:18.240,75.06,mqtt_consumer,Oven
+2022-07-15 10:00:18.240,58.33,mqtt_consumer,Oven
+2022-07-15 11:00:18.240,85.81,mqtt_consumer,Oven
+2022-07-15 12:00:18.240,85.62,mqtt_consumer,Oven
+2022-07-15 13:00:18.240,1.08,mqtt_consumer,Oven
+2022-07-15 14:00:18.240,87.78,mqtt_consumer,Oven
+2022-07-15 15:00:18.240,19.75,mqtt_consumer,Oven
+2022-07-15 16:00:18.240,82.33,mqtt_consumer,Oven
+2022-07-15 17:00:18.240,7.32,mqtt_consumer,Oven
+2022-07-15 18:00:18.240,18.51,mqtt_consumer,Oven
+2022-07-15 19:00:18.240,30.73,mqtt_consumer,Oven
+2022-07-15 20:00:18.240,18.98,mqtt_consumer,Oven
+2022-07-15 21:00:18.240,79.72,mqtt_consumer,Oven
+2022-07-15 22:00:18.240,70.63,mqtt_consumer,Oven
+2022-07-15 23:00:18.240,14.29,mqtt_consumer,Oven
+2022-07-16 00:00:18.240,70.79,mqtt_consumer,Oven
+2022-07-16 01:00:18.240,32.64,mqtt_consumer,Oven
+2022-07-16 02:00:18.240,76.95,mqtt_consumer,Oven
+2022-07-16 03:00:18.240,27.01,mqtt_consumer,Oven
+2022-07-16 04:00:18.240,87.03,mqtt_consumer,Oven
+2022-07-16 05:00:18.240,19.12,mqtt_consumer,Oven
+2022-07-16 06:00:18.240,17.79,mqtt_consumer,Oven
+2022-07-16 07:00:18.240,54.26,mqtt_consumer,Oven
+2022-07-16 08:00:18.240,41.83,mqtt_consumer,Oven
+2022-07-16 09:00:18.240,60.54,mqtt_consumer,Oven
+2022-07-16 10:00:18.240,86,mqtt_consumer,Oven
+2022-07-16 11:00:18.240,90.45,mqtt_consumer,Oven
+2022-07-16 12:00:18.240,68.52,mqtt_consumer,Oven
+2022-07-16 13:00:18.240,31.49,mqtt_consumer,Oven
+2022-07-16 14:00:18.240,53.92,mqtt_consumer,Oven
+2022-07-16 15:00:18.240,54.48,mqtt_consumer,Oven
+2022-07-16 16:00:18.240,76.76,mqtt_consumer,Oven
+2022-07-16 17:00:18.240,64.25,mqtt_consumer,Oven
+2022-07-16 18:00:18.240,25.76,mqtt_consumer,Oven
+2022-07-16 19:00:18.240,88.2,mqtt_consumer,Oven
+2022-07-16 20:00:18.240,40.96,mqtt_consumer,Oven
+2022-07-16 21:00:18.240,90.42,mqtt_consumer,Oven
+2022-07-16 22:00:18.240,97.41,mqtt_consumer,Oven
+2022-07-16 23:00:18.240,79.04,mqtt_consumer,Oven
+2022-07-17 00:00:18.240,62.49,mqtt_consumer,Oven
+2022-07-17 01:00:18.240,22.76,mqtt_consumer,Oven
+2022-07-17 02:00:18.240,93.08,mqtt_consumer,Oven
+2022-07-17 03:00:18.240,74,mqtt_consumer,Oven
+2022-07-17 04:00:18.240,16.62,mqtt_consumer,Oven
+2022-07-17 05:00:18.240,0.05,mqtt_consumer,Oven
+2022-07-17 06:00:18.240,26.73,mqtt_consumer,Oven
+2022-07-17 07:00:18.240,41.82,mqtt_consumer,Oven
+2022-07-17 08:00:18.240,68.17,mqtt_consumer,Oven
+2022-07-17 09:00:18.240,6.81,mqtt_consumer,Oven
+2022-07-17 10:00:18.240,68.08,mqtt_consumer,Oven
+2022-07-17 11:00:18.240,26.4,mqtt_consumer,Oven
+2022-07-17 12:00:18.240,75.87,mqtt_consumer,Oven
+2022-07-17 13:00:18.240,85.81,mqtt_consumer,Oven
+2022-07-17 14:00:18.240,67.91,mqtt_consumer,Oven
+2022-07-17 15:00:18.240,52.18,mqtt_consumer,Oven
+2022-07-17 16:00:18.240,26.94,mqtt_consumer,Oven
+2022-07-17 17:00:18.240,97.22,mqtt_consumer,Oven
+2022-07-17 18:00:18.240,50.75,mqtt_consumer,Oven
+2022-07-17 19:00:18.240,96.97,mqtt_consumer,Oven
+2022-07-17 20:00:18.240,62.36,mqtt_consumer,Oven
+2022-07-17 21:00:18.240,13.26,mqtt_consumer,Oven
+2022-07-17 22:00:18.240,92.63,mqtt_consumer,Oven
+2022-07-17 23:00:18.240,81.69,mqtt_consumer,Oven
+2022-07-18 00:00:18.240,34.92,mqtt_consumer,Oven
+2022-07-18 01:00:18.240,28.19,mqtt_consumer,Oven
+2022-07-18 02:00:18.240,64.16,mqtt_consumer,Oven
+2022-07-18 03:00:18.240,20.11,mqtt_consumer,Oven
+2022-07-18 04:00:18.240,3.29,mqtt_consumer,Oven
+2022-07-18 05:00:18.240,98.5,mqtt_consumer,Oven
+2022-07-18 06:00:18.240,58.9,mqtt_consumer,Oven
+2022-07-18 07:00:18.240,47.44,mqtt_consumer,Oven
+2022-07-18 08:00:18.240,0.09,mqtt_consumer,Oven
+2022-07-18 09:00:18.240,59.37,mqtt_consumer,Oven
+2022-07-18 10:00:18.240,46.16,mqtt_consumer,Oven
+2022-07-18 11:00:18.240,5.54,mqtt_consumer,Oven
+2022-07-18 12:00:18.240,53.93,mqtt_consumer,Oven
+2022-07-18 13:00:18.240,84.99,mqtt_consumer,Oven
+2022-07-18 14:00:18.240,2.51,mqtt_consumer,Oven
+2022-07-18 15:00:18.240,2.5,mqtt_consumer,Oven
+2022-07-18 16:00:18.240,82.39,mqtt_consumer,Oven
+2022-07-18 17:00:18.240,73.41,mqtt_consumer,Oven
+2022-07-18 18:00:18.240,2.89,mqtt_consumer,Oven
+2022-07-18 19:00:18.240,73.73,mqtt_consumer,Oven
+2022-07-18 20:00:18.240,16.43,mqtt_consumer,Oven
+2022-07-18 21:00:18.240,49.88,mqtt_consumer,Oven
+2022-07-18 22:00:18.240,92.63,mqtt_consumer,Oven
+2022-07-18 23:00:18.240,73.9,mqtt_consumer,Oven
+2022-07-19 00:00:18.240,91.5,mqtt_consumer,Oven
+2022-07-19 01:00:18.240,78.19,mqtt_consumer,Oven
+2022-07-19 02:00:18.240,88.62,mqtt_consumer,Oven
+2022-07-19 03:00:18.240,43.91,mqtt_consumer,Oven
+2022-07-19 04:00:18.240,99.06,mqtt_consumer,Oven
+2022-07-19 05:00:18.240,95.7,mqtt_consumer,Oven
+2022-07-19 06:00:18.240,3.7,mqtt_consumer,Oven
+2022-07-19 07:00:18.240,69.2,mqtt_consumer,Oven
+2022-07-19 08:00:18.240,80.18,mqtt_consumer,Oven
+2022-07-19 09:00:18.240,1.33,mqtt_consumer,Oven
+2022-07-19 10:00:18.240,5.44,mqtt_consumer,Oven
+2022-07-19 11:00:18.240,3.35,mqtt_consumer,Oven
+2022-07-19 12:00:18.240,70.94,mqtt_consumer,Oven
+2022-07-19 13:00:18.240,55.5,mqtt_consumer,Oven
+2022-07-19 14:00:18.240,91.57,mqtt_consumer,Oven
+2022-07-19 15:00:18.240,50.4,mqtt_consumer,Oven
+2022-07-19 16:00:18.240,52.36,mqtt_consumer,Oven
+2022-07-19 17:00:18.240,49.42,mqtt_consumer,Oven
+2022-07-19 18:00:18.240,67.29,mqtt_consumer,Oven
+2022-07-19 19:00:18.240,96.91,mqtt_consumer,Oven
+2022-07-19 20:00:18.240,88.45,mqtt_consumer,Oven
+2022-07-19 21:00:18.240,95.56,mqtt_consumer,Oven
+2022-07-19 22:00:18.240,2.6,mqtt_consumer,Oven
+2022-07-19 23:00:18.240,15.26,mqtt_consumer,Oven
+2022-07-20 00:00:18.240,59.89,mqtt_consumer,Oven
+2022-07-20 01:00:18.240,50.92,mqtt_consumer,Oven
+2022-07-20 02:00:18.240,47.51,mqtt_consumer,Oven
+2022-07-20 03:00:18.240,87.23,mqtt_consumer,Oven
+2022-07-20 04:00:18.240,94.53,mqtt_consumer,Oven
+2022-07-20 05:00:18.240,69.24,mqtt_consumer,Oven
+2022-07-20 06:00:18.240,46.92,mqtt_consumer,Oven
+2022-07-20 07:00:18.240,21.79,mqtt_consumer,Oven
+2022-07-20 08:00:18.240,80,mqtt_consumer,Oven
+2022-07-20 09:00:18.240,66.14,mqtt_consumer,Oven
+2022-07-20 10:00:18.240,42.18,mqtt_consumer,Oven
+2022-07-20 11:00:18.240,47.29,mqtt_consumer,Oven
+2022-07-20 12:00:18.240,93.3,mqtt_consumer,Oven
+2022-07-20 13:00:18.240,66.26,mqtt_consumer,Oven
+2022-07-20 14:00:18.240,14.5,mqtt_consumer,Oven
+2022-07-20 15:00:18.240,18.53,mqtt_consumer,Oven
+2022-07-20 16:00:18.240,98.84,mqtt_consumer,Oven
+2022-07-20 17:00:18.240,48.75,mqtt_consumer,Oven
+2022-07-20 18:00:18.240,23.77,mqtt_consumer,Oven
+2022-07-20 19:00:18.240,82.13,mqtt_consumer,Oven
+2022-07-20 20:00:18.240,88.52,mqtt_consumer,Oven
+2022-07-20 21:00:18.240,94.88,mqtt_consumer,Oven
+2022-07-20 22:00:18.240,21.74,mqtt_consumer,Oven
+2022-07-20 23:00:18.240,21.05,mqtt_consumer,Oven
+2022-07-21 00:00:18.240,77.22,mqtt_consumer,Oven
+2022-07-21 01:00:18.240,99.26,mqtt_consumer,Oven
+2022-07-21 02:00:18.240,41.4,mqtt_consumer,Oven
+2022-07-21 03:00:18.240,39.08,mqtt_consumer,Oven
+2022-07-21 04:00:18.240,74.8,mqtt_consumer,Oven
+2022-07-21 05:00:18.240,16.54,mqtt_consumer,Oven
+2022-07-21 06:00:18.240,33.69,mqtt_consumer,Oven
+2022-07-21 07:00:18.240,35.4,mqtt_consumer,Oven
+2022-07-21 08:00:18.240,72.19,mqtt_consumer,Oven
+2022-07-21 09:00:18.240,73.11,mqtt_consumer,Oven
+2022-07-21 10:00:18.240,93.3,mqtt_consumer,Oven
+2022-07-21 11:00:18.240,67.6,mqtt_consumer,Oven
+2022-07-21 12:00:18.240,33.23,mqtt_consumer,Oven
+2022-07-21 13:00:18.240,93.03,mqtt_consumer,Oven
+2022-07-21 14:00:18.240,39.86,mqtt_consumer,Oven
+2022-07-21 15:00:18.240,96.75,mqtt_consumer,Oven
+2022-07-21 16:00:18.240,5.43,mqtt_consumer,Oven
+2022-07-21 17:00:18.240,56.65,mqtt_consumer,Oven
+2022-07-21 18:00:18.240,66.79,mqtt_consumer,Oven
+2022-07-21 19:00:18.240,94.85,mqtt_consumer,Oven
+2022-07-21 20:00:18.240,13.86,mqtt_consumer,Oven
+2022-07-21 21:00:18.240,59.56,mqtt_consumer,Oven
+2022-07-21 22:00:18.240,68.87,mqtt_consumer,Oven
+2022-07-21 23:00:18.240,98.01,mqtt_consumer,Oven
+2022-07-22 00:00:18.240,73.33,mqtt_consumer,Oven
+2022-07-22 01:00:18.240,99,mqtt_consumer,Oven
+2022-07-22 02:00:18.240,35.51,mqtt_consumer,Oven
+2022-07-22 03:00:18.240,57.49,mqtt_consumer,Oven
+2022-07-22 04:00:18.240,5.47,mqtt_consumer,Oven
+2022-07-22 05:00:18.240,66.7,mqtt_consumer,Oven
+2022-07-22 06:00:18.240,67.11,mqtt_consumer,Oven
+2022-07-22 07:00:18.240,48.09,mqtt_consumer,Oven
+2022-07-22 08:00:18.240,8.4,mqtt_consumer,Oven
+2022-07-22 09:00:18.240,43.08,mqtt_consumer,Oven
+2022-07-22 10:00:18.240,15.78,mqtt_consumer,Oven
+2022-07-22 11:00:18.240,93.14,mqtt_consumer,Oven
+2022-07-22 12:00:18.240,40.39,mqtt_consumer,Oven
+2022-07-22 13:00:18.240,73.92,mqtt_consumer,Oven
+2022-07-22 14:00:18.240,79.14,mqtt_consumer,Oven
+2022-07-22 15:00:18.240,39.65,mqtt_consumer,Oven
+2022-07-22 16:00:18.240,21.06,mqtt_consumer,Oven
+2022-07-22 17:00:18.240,49.7,mqtt_consumer,Oven
+2022-07-22 18:00:18.240,83.61,mqtt_consumer,Oven
+2022-07-22 19:00:18.240,63.62,mqtt_consumer,Oven
+2022-07-22 20:00:18.240,95.28,mqtt_consumer,Oven
+2022-07-22 21:00:18.240,26.4,mqtt_consumer,Oven
+2022-07-22 22:00:18.240,85.4,mqtt_consumer,Oven
+2022-07-22 23:00:18.240,35.97,mqtt_consumer,Oven
+2022-07-23 00:00:18.240,4.32,mqtt_consumer,Oven
+2022-07-23 01:00:18.240,91.22,mqtt_consumer,Oven
+2022-07-23 02:00:18.240,82.16,mqtt_consumer,Oven
+2022-07-23 03:00:18.240,31.25,mqtt_consumer,Oven
+2022-07-23 04:00:18.240,98.8,mqtt_consumer,Oven
+2022-07-23 05:00:18.240,50.51,mqtt_consumer,Oven
+2022-07-23 06:00:18.240,2.74,mqtt_consumer,Oven
+2022-07-23 07:00:18.240,93.7,mqtt_consumer,Oven
+2022-07-23 08:00:18.240,80.98,mqtt_consumer,Oven
+2022-07-23 09:00:18.240,15.85,mqtt_consumer,Oven
+2022-07-23 10:00:18.240,96.01,mqtt_consumer,Oven
+2022-07-23 11:00:18.240,8.2,mqtt_consumer,Oven
+2022-07-23 12:00:18.240,60.05,mqtt_consumer,Oven
+2022-07-23 13:00:18.240,38.58,mqtt_consumer,Oven
+2022-07-23 14:00:18.240,14.79,mqtt_consumer,Oven
+2022-07-23 15:00:18.240,5.57,mqtt_consumer,Oven
+2022-07-23 16:00:18.240,95.73,mqtt_consumer,Oven
+2022-07-23 17:00:18.240,63.2,mqtt_consumer,Oven
+2022-07-23 18:00:18.240,65.12,mqtt_consumer,Oven
+2022-07-23 19:00:18.240,63.08,mqtt_consumer,Oven
+2022-07-23 20:00:18.240,39.24,mqtt_consumer,Oven
+2022-07-23 21:00:18.240,12.75,mqtt_consumer,Oven
+2022-07-23 22:00:18.240,67.3,mqtt_consumer,Oven
+2022-07-23 23:00:18.240,36.14,mqtt_consumer,Oven
+2022-07-24 00:00:18.240,52.35,mqtt_consumer,Oven
+2022-07-24 01:00:18.240,20.15,mqtt_consumer,Oven
+2022-07-24 02:00:18.240,61.17,mqtt_consumer,Oven
+2022-07-24 03:00:18.240,31.96,mqtt_consumer,Oven
+2022-07-24 04:00:18.240,47.33,mqtt_consumer,Oven
+2022-07-24 05:00:18.240,54.49,mqtt_consumer,Oven
+2022-07-24 06:00:18.240,88.59,mqtt_consumer,Oven
+2022-07-24 07:00:18.240,73.09,mqtt_consumer,Oven
+2022-07-24 08:00:18.240,19.7,mqtt_consumer,Oven
+2022-07-24 09:00:18.240,42.05,mqtt_consumer,Oven
+2022-07-24 10:00:18.240,94.1,mqtt_consumer,Oven
+2022-07-24 11:00:18.240,48.46,mqtt_consumer,Oven
+2022-07-24 12:00:18.240,93.24,mqtt_consumer,Oven
+2022-07-24 13:00:18.240,9.79,mqtt_consumer,Oven
+2022-07-24 14:00:18.240,21.43,mqtt_consumer,Oven
+2022-07-24 15:00:18.240,8.24,mqtt_consumer,Oven
+2022-07-24 16:00:18.240,2.78,mqtt_consumer,Oven
+2022-07-24 17:00:18.240,24.12,mqtt_consumer,Oven
+2022-07-24 18:00:18.240,17.01,mqtt_consumer,Oven
+2022-07-24 19:00:18.240,81.78,mqtt_consumer,Oven
+2022-07-24 20:00:18.240,10.07,mqtt_consumer,Oven
+2022-07-24 21:00:18.240,0.43,mqtt_consumer,Oven
+2022-07-24 22:00:18.240,6.84,mqtt_consumer,Oven
+2022-07-24 23:00:18.240,82.21,mqtt_consumer,Oven
+2022-07-25 00:00:18.240,27.13,mqtt_consumer,Oven
+2022-07-25 01:00:18.240,40.04,mqtt_consumer,Oven
+2022-07-25 02:00:18.240,93.8,mqtt_consumer,Oven
+2022-07-25 03:00:18.240,36.2,mqtt_consumer,Oven
+2022-07-25 04:00:18.240,86.23,mqtt_consumer,Oven
+2022-07-25 05:00:18.240,21.39,mqtt_consumer,Oven
+2022-07-25 06:00:18.240,25.87,mqtt_consumer,Oven
+2022-07-25 07:00:18.240,48.2,mqtt_consumer,Oven
+2022-07-25 08:00:18.240,83.7,mqtt_consumer,Oven
+2022-07-25 09:00:18.240,0.34,mqtt_consumer,Oven
+2022-07-25 10:00:18.240,69.17,mqtt_consumer,Oven
+2022-07-25 11:00:18.240,16.28,mqtt_consumer,Oven
+2022-07-25 12:00:18.240,78.02,mqtt_consumer,Oven
+2022-07-25 13:00:18.240,19.09,mqtt_consumer,Oven
+2022-07-25 14:00:18.240,2.86,mqtt_consumer,Oven
+2022-07-25 15:00:18.240,31.21,mqtt_consumer,Oven
+2022-07-25 16:00:18.240,18.88,mqtt_consumer,Oven
+2022-07-25 17:00:18.240,12.02,mqtt_consumer,Oven
+2022-07-25 18:00:18.240,79.62,mqtt_consumer,Oven
+2022-07-25 19:00:18.240,73.8,mqtt_consumer,Oven
+2022-07-25 20:00:18.240,37.87,mqtt_consumer,Oven
+2022-07-25 21:00:18.240,8.74,mqtt_consumer,Oven
+2022-07-25 22:00:18.240,63.29,mqtt_consumer,Oven
+2022-07-25 23:00:18.240,77.39,mqtt_consumer,Oven
+2022-07-26 00:00:18.240,17.23,mqtt_consumer,Oven
+2022-07-26 01:00:18.240,89.1,mqtt_consumer,Oven
+2022-07-26 02:00:18.240,81.37,mqtt_consumer,Oven
+2022-07-26 03:00:18.240,71.63,mqtt_consumer,Oven
+2022-07-26 04:00:18.240,95.05,mqtt_consumer,Oven
+2022-07-26 05:00:18.240,22.79,mqtt_consumer,Oven
+2022-07-26 06:00:18.240,34.35,mqtt_consumer,Oven
+2022-07-26 07:00:18.240,57.39,mqtt_consumer,Oven
+2022-07-26 08:00:18.240,61.03,mqtt_consumer,Oven
+2022-07-26 09:00:18.240,25.78,mqtt_consumer,Oven
+2022-07-26 10:00:18.240,70.28,mqtt_consumer,Oven
+2022-07-26 11:00:18.240,93.27,mqtt_consumer,Oven
+2022-07-26 12:00:18.240,5.81,mqtt_consumer,Oven
+2022-07-26 13:00:18.240,75.45,mqtt_consumer,Oven
+2022-07-26 14:00:18.240,62.22,mqtt_consumer,Oven
+2022-07-26 15:00:18.240,69.05,mqtt_consumer,Oven
+2022-07-26 16:00:18.240,28.53,mqtt_consumer,Oven
+2022-07-26 17:00:18.240,62.34,mqtt_consumer,Oven
+2022-07-26 18:00:18.240,6.23,mqtt_consumer,Oven
+2022-07-26 19:00:18.240,96.26,mqtt_consumer,Oven
+2022-07-26 20:00:18.240,54.92,mqtt_consumer,Oven
+2022-07-26 21:00:18.240,47.21,mqtt_consumer,Oven
+2022-07-26 22:00:18.240,93.24,mqtt_consumer,Oven
+2022-07-26 23:00:18.240,36.34,mqtt_consumer,Oven
+2022-07-27 00:00:18.240,11.2,mqtt_consumer,Oven
+2022-07-27 01:00:18.240,75.04,mqtt_consumer,Oven
+2022-07-27 02:00:18.240,0.41,mqtt_consumer,Oven
+2022-07-27 03:00:18.240,85.14,mqtt_consumer,Oven
+2022-07-27 04:00:18.240,55.61,mqtt_consumer,Oven
+2022-07-27 05:00:18.240,90.39,mqtt_consumer,Oven
+2022-07-27 06:00:18.240,40.79,mqtt_consumer,Oven
+2022-07-27 07:00:18.240,40.2,mqtt_consumer,Oven
+2022-07-27 08:00:18.240,14.08,mqtt_consumer,Oven
+2022-07-27 09:00:18.240,45.73,mqtt_consumer,Oven
+2022-07-27 10:00:18.240,32.75,mqtt_consumer,Oven
+2022-07-27 11:00:18.240,87.46,mqtt_consumer,Oven
+2022-07-27 12:00:18.240,64.4,mqtt_consumer,Oven
+2022-07-27 13:00:18.240,99.04,mqtt_consumer,Oven
+2022-07-27 14:00:18.240,72.95,mqtt_consumer,Oven
+2022-07-27 15:00:18.240,77.02,mqtt_consumer,Oven
+2022-07-27 16:00:18.240,74.08,mqtt_consumer,Oven
+2022-07-27 17:00:18.240,63.51,mqtt_consumer,Oven
+2022-07-27 18:00:18.240,1.57,mqtt_consumer,Oven
+2022-07-27 19:00:18.240,42.98,mqtt_consumer,Oven
+2022-07-27 20:00:18.240,3.73,mqtt_consumer,Oven
+2022-07-27 21:00:18.240,47.43,mqtt_consumer,Oven
+2022-07-27 22:00:18.240,39.67,mqtt_consumer,Oven
+2022-07-27 23:00:18.240,78.34,mqtt_consumer,Oven
+2022-07-28 00:00:18.240,71.06,mqtt_consumer,Oven
+2022-07-28 01:00:18.240,37.92,mqtt_consumer,Oven
+2022-07-28 02:00:18.240,11.86,mqtt_consumer,Oven
+2022-07-28 03:00:18.240,17.35,mqtt_consumer,Oven
+2022-07-28 04:00:18.240,31.66,mqtt_consumer,Oven
+2022-07-28 05:00:18.240,25.66,mqtt_consumer,Oven
+2022-07-28 06:00:18.240,30.1,mqtt_consumer,Oven
+2022-07-28 07:00:18.240,65.75,mqtt_consumer,Oven
+2022-07-28 08:00:18.240,98.56,mqtt_consumer,Oven
+2022-07-28 09:00:18.240,43.05,mqtt_consumer,Oven
+2022-07-28 10:00:18.240,35.1,mqtt_consumer,Oven
+2022-07-28 11:00:18.240,71.72,mqtt_consumer,Oven
+2022-07-28 12:00:18.240,26.66,mqtt_consumer,Oven
+2022-07-28 13:00:18.240,4.52,mqtt_consumer,Oven
+2022-07-28 14:00:18.240,43.71,mqtt_consumer,Oven
+2022-07-28 15:00:18.240,19.15,mqtt_consumer,Oven
+2022-07-28 16:00:18.240,80.26,mqtt_consumer,Oven
+2022-07-28 17:00:18.240,25.14,mqtt_consumer,Oven
+2022-07-28 18:00:18.240,37.79,mqtt_consumer,Oven
+2022-07-28 19:00:18.240,92.96,mqtt_consumer,Oven
+2022-07-28 20:00:18.240,74.63,mqtt_consumer,Oven
+2022-07-28 21:00:18.240,24.39,mqtt_consumer,Oven
+2022-07-28 22:00:18.240,85.42,mqtt_consumer,Oven
+2022-07-28 23:00:18.240,30.08,mqtt_consumer,Oven
+2022-07-29 00:00:18.240,19.85,mqtt_consumer,Oven
+2022-07-29 01:00:18.240,3.93,mqtt_consumer,Oven
+2022-07-29 02:00:18.240,17.78,mqtt_consumer,Oven
+2022-07-29 03:00:18.240,26.71,mqtt_consumer,Oven
+2022-07-29 04:00:18.240,39.79,mqtt_consumer,Oven
+2022-07-29 05:00:18.240,70.16,mqtt_consumer,Oven
+2022-07-29 06:00:18.240,51.67,mqtt_consumer,Oven
+2022-07-29 07:00:18.240,74.03,mqtt_consumer,Oven
+2022-07-29 08:00:18.240,70.86,mqtt_consumer,Oven
+2022-07-29 09:00:18.240,3.46,mqtt_consumer,Oven
+2022-07-29 10:00:18.240,76.03,mqtt_consumer,Oven
+2022-07-29 11:00:18.240,20.21,mqtt_consumer,Oven
+2022-07-29 12:00:18.240,63.36,mqtt_consumer,Oven
+2022-07-29 13:00:18.240,53.16,mqtt_consumer,Oven
+2022-07-29 14:00:18.240,40.39,mqtt_consumer,Oven
+2022-07-29 15:00:18.240,47.63,mqtt_consumer,Oven
+2022-07-29 16:00:18.240,18.38,mqtt_consumer,Oven
+2022-07-29 17:00:18.240,34.2,mqtt_consumer,Oven
+2022-07-29 18:00:18.240,81.88,mqtt_consumer,Oven
+2022-07-29 19:00:18.240,96.19,mqtt_consumer,Oven
+2022-07-29 20:00:18.240,75.92,mqtt_consumer,Oven
+2022-07-29 21:00:18.240,75.49,mqtt_consumer,Oven
+2022-07-29 22:00:18.240,37.67,mqtt_consumer,Oven
+2022-07-29 23:00:18.240,50.08,mqtt_consumer,Oven
+2022-07-30 00:00:18.240,6.6,mqtt_consumer,Oven
+2022-07-30 01:00:18.240,11.47,mqtt_consumer,Oven
+2022-07-30 02:00:18.240,65.4,mqtt_consumer,Oven
+2022-07-30 03:00:18.240,11.21,mqtt_consumer,Oven
+2022-07-30 04:00:18.240,68.68,mqtt_consumer,Oven
+2022-07-30 05:00:18.240,57.01,mqtt_consumer,Oven
+2022-07-30 06:00:18.240,38.26,mqtt_consumer,Oven
+2022-07-30 07:00:18.240,10.28,mqtt_consumer,Oven
+2022-07-30 08:00:18.240,52.65,mqtt_consumer,Oven
+2022-07-30 09:00:18.240,77.94,mqtt_consumer,Oven
+2022-07-30 10:00:18.240,39.36,mqtt_consumer,Oven
+2022-07-30 11:00:18.240,61.77,mqtt_consumer,Oven
+2022-07-30 12:00:18.240,15.03,mqtt_consumer,Oven
+2022-07-30 13:00:18.240,79.15,mqtt_consumer,Oven
+2022-07-30 14:00:18.240,15.03,mqtt_consumer,Oven
+2022-07-30 15:00:18.240,41.94,mqtt_consumer,Oven
+2022-07-30 16:00:18.240,99.36,mqtt_consumer,Oven
+2022-07-30 17:00:18.240,46.16,mqtt_consumer,Oven
+2022-07-30 18:00:18.240,91.16,mqtt_consumer,Oven
+2022-07-30 19:00:18.240,27.4,mqtt_consumer,Oven
+2022-07-30 20:00:18.240,24.85,mqtt_consumer,Oven
+2022-07-30 21:00:18.240,6.98,mqtt_consumer,Oven
+2022-07-30 22:00:18.240,44.8,mqtt_consumer,Oven
+2022-07-30 23:00:18.240,91.48,mqtt_consumer,Oven
+2022-07-31 00:00:18.240,78.57,mqtt_consumer,Oven
+2022-07-31 01:00:18.240,50.99,mqtt_consumer,Oven
+2022-07-31 02:00:18.240,51.8,mqtt_consumer,Oven
+2022-07-31 03:00:18.240,17.26,mqtt_consumer,Oven
+2022-07-31 04:00:18.240,26.72,mqtt_consumer,Oven
+2022-07-31 05:00:18.240,53.87,mqtt_consumer,Oven
+2022-07-31 06:00:18.240,35.04,mqtt_consumer,Oven
+2022-07-31 07:00:18.240,22.74,mqtt_consumer,Oven
+2022-07-31 08:00:18.240,29.35,mqtt_consumer,Oven
+2022-07-31 09:00:18.240,93.26,mqtt_consumer,Oven
+2022-07-31 10:00:18.240,56.14,mqtt_consumer,Oven
+2022-07-31 11:00:18.240,74.32,mqtt_consumer,Oven
+2022-07-31 12:00:18.240,31.46,mqtt_consumer,Oven
+2022-07-31 13:00:18.240,24.94,mqtt_consumer,Oven
+2022-07-31 14:00:18.240,0.76,mqtt_consumer,Oven
+2022-07-31 15:00:18.240,97.14,mqtt_consumer,Oven
+2022-07-31 16:00:18.240,95.76,mqtt_consumer,Oven
+2022-07-31 17:00:18.240,36.6,mqtt_consumer,Oven
+2022-07-31 18:00:18.240,4.56,mqtt_consumer,Oven
+2022-07-31 19:00:18.240,47.53,mqtt_consumer,Oven
+2022-07-31 20:00:18.240,42.81,mqtt_consumer,Oven
+2022-07-31 21:00:18.240,19.58,mqtt_consumer,Oven
+2022-07-31 22:00:18.240,98.44,mqtt_consumer,Oven
+2022-07-31 23:00:18.240,87.96,mqtt_consumer,Oven
+2022-08-01 00:00:18.240,91.54,mqtt_consumer,Oven
+2022-08-01 01:00:18.240,85.6,mqtt_consumer,Oven
+2022-08-01 02:00:18.240,39.07,mqtt_consumer,Oven
+2022-08-01 03:00:18.240,8.25,mqtt_consumer,Oven
+2022-08-01 04:00:18.240,0.41,mqtt_consumer,Oven
+2022-08-01 05:00:18.240,82.76,mqtt_consumer,Oven
+2022-08-01 06:00:18.240,73.3,mqtt_consumer,Oven
+2022-08-01 07:00:18.240,49.54,mqtt_consumer,Oven
+2022-08-01 08:00:18.240,25.04,mqtt_consumer,Oven
+2022-08-01 09:00:18.240,66.84,mqtt_consumer,Oven
+2022-08-01 10:00:18.240,28.12,mqtt_consumer,Oven
+2022-08-01 11:00:18.240,54.91,mqtt_consumer,Oven
+2022-08-01 12:00:18.240,74.73,mqtt_consumer,Oven
+2022-08-01 13:00:18.240,53.69,mqtt_consumer,Oven
+2022-08-01 14:00:18.240,59.18,mqtt_consumer,Oven
+2022-08-01 15:00:18.240,13.63,mqtt_consumer,Oven
+2022-08-01 16:00:18.240,17.91,mqtt_consumer,Oven
+2022-08-01 17:00:18.240,25.95,mqtt_consumer,Oven
+2022-08-01 18:00:18.240,97.24,mqtt_consumer,Oven
+2022-08-01 19:00:18.240,54.88,mqtt_consumer,Oven
+2022-08-01 20:00:18.240,52.72,mqtt_consumer,Oven
+2022-08-01 21:00:18.240,91.94,mqtt_consumer,Oven
+2022-08-01 22:00:18.240,79.94,mqtt_consumer,Oven
+2022-08-01 23:00:18.240,79.06,mqtt_consumer,Oven
+2022-08-02 00:00:18.240,96.69,mqtt_consumer,Oven
+2022-08-02 01:00:18.240,80.75,mqtt_consumer,Oven
+2022-08-02 02:00:18.240,43.59,mqtt_consumer,Oven
+2022-08-02 03:00:18.240,50.95,mqtt_consumer,Oven
+2022-08-02 04:00:18.240,41.31,mqtt_consumer,Oven
+2022-08-02 05:00:18.240,54.57,mqtt_consumer,Oven
+2022-07-12 10:00:18.240,3.51,mqtt_consumer,Toaster
+2022-07-12 11:00:18.240,74.31,mqtt_consumer,Toaster
+2022-07-12 12:00:18.240,14.8,mqtt_consumer,Toaster
+2022-07-12 13:00:18.240,10.45,mqtt_consumer,Toaster
+2022-07-12 14:00:18.240,49.41,mqtt_consumer,Toaster
+2022-07-12 15:00:18.240,26.23,mqtt_consumer,Toaster
+2022-07-12 16:00:18.240,56.09,mqtt_consumer,Toaster
+2022-07-12 17:00:18.240,54.78,mqtt_consumer,Toaster
+2022-07-12 18:00:18.240,18.59,mqtt_consumer,Toaster
+2022-07-12 19:00:18.240,81.95,mqtt_consumer,Toaster
+2022-07-12 20:00:18.240,98.6,mqtt_consumer,Toaster
+2022-07-12 21:00:18.240,5.04,mqtt_consumer,Toaster
+2022-07-12 22:00:18.240,35.47,mqtt_consumer,Toaster
+2022-07-12 23:00:18.240,81.78,mqtt_consumer,Toaster
+2022-07-13 00:00:18.240,76.29,mqtt_consumer,Toaster
+2022-07-13 01:00:18.240,64.34,mqtt_consumer,Toaster
+2022-07-13 02:00:18.240,55.44,mqtt_consumer,Toaster
+2022-07-13 03:00:18.240,98.64,mqtt_consumer,Toaster
+2022-07-13 04:00:18.240,32.01,mqtt_consumer,Toaster
+2022-07-13 05:00:18.240,66.57,mqtt_consumer,Toaster
+2022-07-13 06:00:18.240,18.45,mqtt_consumer,Toaster
+2022-07-13 07:00:18.240,77.34,mqtt_consumer,Toaster
+2022-07-13 08:00:18.240,75.02,mqtt_consumer,Toaster
+2022-07-13 09:00:18.240,66,mqtt_consumer,Toaster
+2022-07-13 10:00:18.240,94.81,mqtt_consumer,Toaster
+2022-07-13 11:00:18.240,32.27,mqtt_consumer,Toaster
+2022-07-13 12:00:18.240,30.79,mqtt_consumer,Toaster
+2022-07-13 13:00:18.240,90.61,mqtt_consumer,Toaster
+2022-07-13 14:00:18.240,25.71,mqtt_consumer,Toaster
+2022-07-13 15:00:18.240,47.56,mqtt_consumer,Toaster
+2022-07-13 16:00:18.240,77.4,mqtt_consumer,Toaster
+2022-07-13 17:00:18.240,64.22,mqtt_consumer,Toaster
+2022-07-13 18:00:18.240,37.86,mqtt_consumer,Toaster
+2022-07-13 19:00:18.240,45.46,mqtt_consumer,Toaster
+2022-07-13 20:00:18.240,47.71,mqtt_consumer,Toaster
+2022-07-13 21:00:18.240,62.91,mqtt_consumer,Toaster
+2022-07-13 22:00:18.240,1.99,mqtt_consumer,Toaster
+2022-07-13 23:00:18.240,4.99,mqtt_consumer,Toaster
+2022-07-14 00:00:18.240,52.78,mqtt_consumer,Toaster
+2022-07-14 01:00:18.240,48.39,mqtt_consumer,Toaster
+2022-07-14 02:00:18.240,96.45,mqtt_consumer,Toaster
+2022-07-14 03:00:18.240,95.11,mqtt_consumer,Toaster
+2022-07-14 04:00:18.240,49.12,mqtt_consumer,Toaster
+2022-07-14 05:00:18.240,13.53,mqtt_consumer,Toaster
+2022-07-14 06:00:18.240,51.62,mqtt_consumer,Toaster
+2022-07-14 07:00:18.240,2.89,mqtt_consumer,Toaster
+2022-07-14 08:00:18.240,99.08,mqtt_consumer,Toaster
+2022-07-14 09:00:18.240,17.36,mqtt_consumer,Toaster
+2022-07-14 10:00:18.240,92.89,mqtt_consumer,Toaster
+2022-07-14 11:00:18.240,16.03,mqtt_consumer,Toaster
+2022-07-14 12:00:18.240,24.34,mqtt_consumer,Toaster
+2022-07-14 13:00:18.240,21.84,mqtt_consumer,Toaster
+2022-07-14 14:00:18.240,30.9,mqtt_consumer,Toaster
+2022-07-14 15:00:18.240,33.32,mqtt_consumer,Toaster
+2022-07-14 16:00:18.240,12.86,mqtt_consumer,Toaster
+2022-07-14 17:00:18.240,24.22,mqtt_consumer,Toaster
+2022-07-14 18:00:18.240,3.68,mqtt_consumer,Toaster
+2022-07-14 19:00:18.240,3.67,mqtt_consumer,Toaster
+2022-07-14 20:00:18.240,57.86,mqtt_consumer,Toaster
+2022-07-14 21:00:18.240,97.47,mqtt_consumer,Toaster
+2022-07-14 22:00:18.240,57.46,mqtt_consumer,Toaster
+2022-07-14 23:00:18.240,81.18,mqtt_consumer,Toaster
+2022-07-15 00:00:18.240,27.44,mqtt_consumer,Toaster
+2022-07-15 01:00:18.240,82.47,mqtt_consumer,Toaster
+2022-07-15 02:00:18.240,88.37,mqtt_consumer,Toaster
+2022-07-15 03:00:18.240,68.72,mqtt_consumer,Toaster
+2022-07-15 04:00:18.240,78.12,mqtt_consumer,Toaster
+2022-07-15 05:00:18.240,55.3,mqtt_consumer,Toaster
+2022-07-15 06:00:18.240,84.1,mqtt_consumer,Toaster
+2022-07-15 07:00:18.240,50.86,mqtt_consumer,Toaster
+2022-07-15 08:00:18.240,72.49,mqtt_consumer,Toaster
+2022-07-15 09:00:18.240,75.09,mqtt_consumer,Toaster
+2022-07-15 10:00:18.240,74.57,mqtt_consumer,Toaster
+2022-07-15 11:00:18.240,67.25,mqtt_consumer,Toaster
+2022-07-15 12:00:18.240,63.51,mqtt_consumer,Toaster
+2022-07-15 13:00:18.240,23.41,mqtt_consumer,Toaster
+2022-07-15 14:00:18.240,97.49,mqtt_consumer,Toaster
+2022-07-15 15:00:18.240,23.85,mqtt_consumer,Toaster
+2022-07-15 16:00:18.240,48.35,mqtt_consumer,Toaster
+2022-07-15 17:00:18.240,54.18,mqtt_consumer,Toaster
+2022-07-15 18:00:18.240,39.62,mqtt_consumer,Toaster
+2022-07-15 19:00:18.240,22.45,mqtt_consumer,Toaster
+2022-07-15 20:00:18.240,47.74,mqtt_consumer,Toaster
+2022-07-15 21:00:18.240,65.72,mqtt_consumer,Toaster
+2022-07-15 22:00:18.240,23.43,mqtt_consumer,Toaster
+2022-07-15 23:00:18.240,92.82,mqtt_consumer,Toaster
+2022-07-16 00:00:18.240,34.11,mqtt_consumer,Toaster
+2022-07-16 01:00:18.240,5.19,mqtt_consumer,Toaster
+2022-07-16 02:00:18.240,75.95,mqtt_consumer,Toaster
+2022-07-16 03:00:18.240,73.74,mqtt_consumer,Toaster
+2022-07-16 04:00:18.240,11.95,mqtt_consumer,Toaster
+2022-07-16 05:00:18.240,89.87,mqtt_consumer,Toaster
+2022-07-16 06:00:18.240,15.42,mqtt_consumer,Toaster
+2022-07-16 07:00:18.240,62.4,mqtt_consumer,Toaster
+2022-07-16 08:00:18.240,30.41,mqtt_consumer,Toaster
+2022-07-16 09:00:18.240,26.89,mqtt_consumer,Toaster
+2022-07-16 10:00:18.240,65.72,mqtt_consumer,Toaster
+2022-07-16 11:00:18.240,69.15,mqtt_consumer,Toaster
+2022-07-16 12:00:18.240,32.22,mqtt_consumer,Toaster
+2022-07-16 13:00:18.240,46.39,mqtt_consumer,Toaster
+2022-07-16 14:00:18.240,99.96,mqtt_consumer,Toaster
+2022-07-16 15:00:18.240,53.72,mqtt_consumer,Toaster
+2022-07-16 16:00:18.240,71.04,mqtt_consumer,Toaster
+2022-07-16 17:00:18.240,14.84,mqtt_consumer,Toaster
+2022-07-16 18:00:18.240,76.55,mqtt_consumer,Toaster
+2022-07-16 19:00:18.240,92.43,mqtt_consumer,Toaster
+2022-07-16 20:00:18.240,64.05,mqtt_consumer,Toaster
+2022-07-16 21:00:18.240,54.71,mqtt_consumer,Toaster
+2022-07-16 22:00:18.240,12.15,mqtt_consumer,Toaster
+2022-07-16 23:00:18.240,53.86,mqtt_consumer,Toaster
+2022-07-17 00:00:18.240,38.54,mqtt_consumer,Toaster
+2022-07-17 01:00:18.240,91.97,mqtt_consumer,Toaster
+2022-07-17 02:00:18.240,79.74,mqtt_consumer,Toaster
+2022-07-17 03:00:18.240,1.35,mqtt_consumer,Toaster
+2022-07-17 04:00:18.240,46.54,mqtt_consumer,Toaster
+2022-07-17 05:00:18.240,37.88,mqtt_consumer,Toaster
+2022-07-17 06:00:18.240,84.77,mqtt_consumer,Toaster
+2022-07-17 07:00:18.240,73.17,mqtt_consumer,Toaster
+2022-07-17 08:00:18.240,19.83,mqtt_consumer,Toaster
+2022-07-17 09:00:18.240,64.34,mqtt_consumer,Toaster
+2022-07-17 10:00:18.240,59.47,mqtt_consumer,Toaster
+2022-07-17 11:00:18.240,85.29,mqtt_consumer,Toaster
+2022-07-17 12:00:18.240,28.58,mqtt_consumer,Toaster
+2022-07-17 13:00:18.240,13.76,mqtt_consumer,Toaster
+2022-07-17 14:00:18.240,27.05,mqtt_consumer,Toaster
+2022-07-17 15:00:18.240,33.62,mqtt_consumer,Toaster
+2022-07-17 16:00:18.240,12.79,mqtt_consumer,Toaster
+2022-07-17 17:00:18.240,76.46,mqtt_consumer,Toaster
+2022-07-17 18:00:18.240,17.06,mqtt_consumer,Toaster
+2022-07-17 19:00:18.240,64.66,mqtt_consumer,Toaster
+2022-07-17 20:00:18.240,70.98,mqtt_consumer,Toaster
+2022-07-17 21:00:18.240,71.48,mqtt_consumer,Toaster
+2022-07-17 22:00:18.240,87.92,mqtt_consumer,Toaster
+2022-07-17 23:00:18.240,2.11,mqtt_consumer,Toaster
+2022-07-18 00:00:18.240,54.81,mqtt_consumer,Toaster
+2022-07-18 01:00:18.240,30.15,mqtt_consumer,Toaster
+2022-07-18 02:00:18.240,67.2,mqtt_consumer,Toaster
+2022-07-18 03:00:18.240,87.41,mqtt_consumer,Toaster
+2022-07-18 04:00:18.240,93.36,mqtt_consumer,Toaster
+2022-07-18 05:00:18.240,18.97,mqtt_consumer,Toaster
+2022-07-18 06:00:18.240,49.35,mqtt_consumer,Toaster
+2022-07-18 07:00:18.240,49.03,mqtt_consumer,Toaster
+2022-07-18 08:00:18.240,65.77,mqtt_consumer,Toaster
+2022-07-18 09:00:18.240,57.65,mqtt_consumer,Toaster
+2022-07-18 10:00:18.240,56,mqtt_consumer,Toaster
+2022-07-18 11:00:18.240,10.4,mqtt_consumer,Toaster
+2022-07-18 12:00:18.240,84.15,mqtt_consumer,Toaster
+2022-07-18 13:00:18.240,97.73,mqtt_consumer,Toaster
+2022-07-18 14:00:18.240,86.83,mqtt_consumer,Toaster
+2022-07-18 15:00:18.240,53.97,mqtt_consumer,Toaster
+2022-07-18 16:00:18.240,88.12,mqtt_consumer,Toaster
+2022-07-18 17:00:18.240,54.43,mqtt_consumer,Toaster
+2022-07-18 18:00:18.240,12.64,mqtt_consumer,Toaster
+2022-07-18 19:00:18.240,18.27,mqtt_consumer,Toaster
+2022-07-18 20:00:18.240,62.22,mqtt_consumer,Toaster
+2022-07-18 21:00:18.240,96.52,mqtt_consumer,Toaster
+2022-07-18 22:00:18.240,59.07,mqtt_consumer,Toaster
+2022-07-18 23:00:18.240,1.63,mqtt_consumer,Toaster
+2022-07-19 00:00:18.240,93.81,mqtt_consumer,Toaster
+2022-07-19 01:00:18.240,37.5,mqtt_consumer,Toaster
+2022-07-19 02:00:18.240,26.79,mqtt_consumer,Toaster
+2022-07-19 03:00:18.240,79.25,mqtt_consumer,Toaster
+2022-07-19 04:00:18.240,68.79,mqtt_consumer,Toaster
+2022-07-19 05:00:18.240,36.66,mqtt_consumer,Toaster
+2022-07-19 06:00:18.240,57.89,mqtt_consumer,Toaster
+2022-07-19 07:00:18.240,73.71,mqtt_consumer,Toaster
+2022-07-19 08:00:18.240,78.48,mqtt_consumer,Toaster
+2022-07-19 09:00:18.240,31.52,mqtt_consumer,Toaster
+2022-07-19 10:00:18.240,97.02,mqtt_consumer,Toaster
+2022-07-19 11:00:18.240,7.89,mqtt_consumer,Toaster
+2022-07-19 12:00:18.240,35.3,mqtt_consumer,Toaster
+2022-07-19 13:00:18.240,65.25,mqtt_consumer,Toaster
+2022-07-19 14:00:18.240,92.79,mqtt_consumer,Toaster
+2022-07-19 15:00:18.240,18.68,mqtt_consumer,Toaster
+2022-07-19 16:00:18.240,0.92,mqtt_consumer,Toaster
+2022-07-19 17:00:18.240,28.06,mqtt_consumer,Toaster
+2022-07-19 18:00:18.240,74.82,mqtt_consumer,Toaster
+2022-07-19 19:00:18.240,67.04,mqtt_consumer,Toaster
+2022-07-19 20:00:18.240,68.36,mqtt_consumer,Toaster
+2022-07-19 21:00:18.240,53.13,mqtt_consumer,Toaster
+2022-07-19 22:00:18.240,22.37,mqtt_consumer,Toaster
+2022-07-19 23:00:18.240,93.02,mqtt_consumer,Toaster
+2022-07-20 00:00:18.240,84.28,mqtt_consumer,Toaster
+2022-07-20 01:00:18.240,97.66,mqtt_consumer,Toaster
+2022-07-20 02:00:18.240,44.61,mqtt_consumer,Toaster
+2022-07-20 03:00:18.240,28.67,mqtt_consumer,Toaster
+2022-07-20 04:00:18.240,10.58,mqtt_consumer,Toaster
+2022-07-20 05:00:18.240,98.3,mqtt_consumer,Toaster
+2022-07-20 06:00:18.240,17.02,mqtt_consumer,Toaster
+2022-07-20 07:00:18.240,80.75,mqtt_consumer,Toaster
+2022-07-20 08:00:18.240,39.51,mqtt_consumer,Toaster
+2022-07-20 09:00:18.240,24.76,mqtt_consumer,Toaster
+2022-07-20 10:00:18.240,87.06,mqtt_consumer,Toaster
+2022-07-20 11:00:18.240,92.51,mqtt_consumer,Toaster
+2022-07-20 12:00:18.240,78.68,mqtt_consumer,Toaster
+2022-07-20 13:00:18.240,10.01,mqtt_consumer,Toaster
+2022-07-20 14:00:18.240,26.7,mqtt_consumer,Toaster
+2022-07-20 15:00:18.240,64.38,mqtt_consumer,Toaster
+2022-07-20 16:00:18.240,84.67,mqtt_consumer,Toaster
+2022-07-20 17:00:18.240,53.16,mqtt_consumer,Toaster
+2022-07-20 18:00:18.240,28.56,mqtt_consumer,Toaster
+2022-07-20 19:00:18.240,91.43,mqtt_consumer,Toaster
+2022-07-20 20:00:18.240,34.93,mqtt_consumer,Toaster
+2022-07-20 21:00:18.240,42.26,mqtt_consumer,Toaster
+2022-07-20 22:00:18.240,57.13,mqtt_consumer,Toaster
+2022-07-20 23:00:18.240,31.48,mqtt_consumer,Toaster
+2022-07-21 00:00:18.240,81.29,mqtt_consumer,Toaster
+2022-07-21 01:00:18.240,71.3,mqtt_consumer,Toaster
+2022-07-21 02:00:18.240,81.38,mqtt_consumer,Toaster
+2022-07-21 03:00:18.240,24.04,mqtt_consumer,Toaster
+2022-07-21 04:00:18.240,80.74,mqtt_consumer,Toaster
+2022-07-21 05:00:18.240,8.39,mqtt_consumer,Toaster
+2022-07-21 06:00:18.240,42.68,mqtt_consumer,Toaster
+2022-07-21 07:00:18.240,98.94,mqtt_consumer,Toaster
+2022-07-21 08:00:18.240,69.37,mqtt_consumer,Toaster
+2022-07-21 09:00:18.240,46.81,mqtt_consumer,Toaster
+2022-07-21 10:00:18.240,41.24,mqtt_consumer,Toaster
+2022-07-21 11:00:18.240,27.85,mqtt_consumer,Toaster
+2022-07-21 12:00:18.240,53.43,mqtt_consumer,Toaster
+2022-07-21 13:00:18.240,66.22,mqtt_consumer,Toaster
+2022-07-21 14:00:18.240,21.96,mqtt_consumer,Toaster
+2022-07-21 15:00:18.240,49.7,mqtt_consumer,Toaster
+2022-07-21 16:00:18.240,22.56,mqtt_consumer,Toaster
+2022-07-21 17:00:18.240,4.85,mqtt_consumer,Toaster
+2022-07-21 18:00:18.240,44.4,mqtt_consumer,Toaster
+2022-07-21 19:00:18.240,13.76,mqtt_consumer,Toaster
+2022-07-21 20:00:18.240,37.2,mqtt_consumer,Toaster
+2022-07-21 21:00:18.240,71.77,mqtt_consumer,Toaster
+2022-07-21 22:00:18.240,66.26,mqtt_consumer,Toaster
+2022-07-21 23:00:18.240,21.1,mqtt_consumer,Toaster
+2022-07-22 00:00:18.240,94,mqtt_consumer,Toaster
+2022-07-22 01:00:18.240,93.9,mqtt_consumer,Toaster
+2022-07-22 02:00:18.240,17.08,mqtt_consumer,Toaster
+2022-07-22 03:00:18.240,41.76,mqtt_consumer,Toaster
+2022-07-22 04:00:18.240,93.29,mqtt_consumer,Toaster
+2022-07-22 05:00:18.240,45.96,mqtt_consumer,Toaster
+2022-07-22 06:00:18.240,86.39,mqtt_consumer,Toaster
+2022-07-22 07:00:18.240,60.16,mqtt_consumer,Toaster
+2022-07-22 08:00:18.240,42.78,mqtt_consumer,Toaster
+2022-07-22 09:00:18.240,75.14,mqtt_consumer,Toaster
+2022-07-22 10:00:18.240,82.66,mqtt_consumer,Toaster
+2022-07-22 11:00:18.240,55.01,mqtt_consumer,Toaster
+2022-07-22 12:00:18.240,88.81,mqtt_consumer,Toaster
+2022-07-22 13:00:18.240,15.15,mqtt_consumer,Toaster
+2022-07-22 14:00:18.240,69.28,mqtt_consumer,Toaster
+2022-07-22 15:00:18.240,23.17,mqtt_consumer,Toaster
+2022-07-22 16:00:18.240,36.59,mqtt_consumer,Toaster
+2022-07-22 17:00:18.240,62.34,mqtt_consumer,Toaster
+2022-07-22 18:00:18.240,17.22,mqtt_consumer,Toaster
+2022-07-22 19:00:18.240,46.31,mqtt_consumer,Toaster
+2022-07-22 20:00:18.240,37.86,mqtt_consumer,Toaster
+2022-07-22 21:00:18.240,82.43,mqtt_consumer,Toaster
+2022-07-22 22:00:18.240,69.02,mqtt_consumer,Toaster
+2022-07-22 23:00:18.240,94.35,mqtt_consumer,Toaster
+2022-07-23 00:00:18.240,16.34,mqtt_consumer,Toaster
+2022-07-23 01:00:18.240,34.97,mqtt_consumer,Toaster
+2022-07-23 02:00:18.240,87.97,mqtt_consumer,Toaster
+2022-07-23 03:00:18.240,63.39,mqtt_consumer,Toaster
+2022-07-23 04:00:18.240,73.13,mqtt_consumer,Toaster
+2022-07-23 05:00:18.240,19.4,mqtt_consumer,Toaster
+2022-07-23 06:00:18.240,91.35,mqtt_consumer,Toaster
+2022-07-23 07:00:18.240,33.19,mqtt_consumer,Toaster
+2022-07-23 08:00:18.240,83.4,mqtt_consumer,Toaster
+2022-07-23 09:00:18.240,75.44,mqtt_consumer,Toaster
+2022-07-23 10:00:18.240,59.97,mqtt_consumer,Toaster
+2022-07-23 11:00:18.240,74.59,mqtt_consumer,Toaster
+2022-07-23 12:00:18.240,62.5,mqtt_consumer,Toaster
+2022-07-23 13:00:18.240,60.55,mqtt_consumer,Toaster
+2022-07-23 14:00:18.240,58.06,mqtt_consumer,Toaster
+2022-07-23 15:00:18.240,72.53,mqtt_consumer,Toaster
+2022-07-23 16:00:18.240,70.22,mqtt_consumer,Toaster
+2022-07-23 17:00:18.240,40.89,mqtt_consumer,Toaster
+2022-07-23 18:00:18.240,61.05,mqtt_consumer,Toaster
+2022-07-23 19:00:18.240,29.93,mqtt_consumer,Toaster
+2022-07-23 20:00:18.240,41.94,mqtt_consumer,Toaster
+2022-07-23 21:00:18.240,39.96,mqtt_consumer,Toaster
+2022-07-23 22:00:18.240,27.1,mqtt_consumer,Toaster
+2022-07-23 23:00:18.240,75.8,mqtt_consumer,Toaster
+2022-07-24 00:00:18.240,20.94,mqtt_consumer,Toaster
+2022-07-24 01:00:18.240,94.59,mqtt_consumer,Toaster
+2022-07-24 02:00:18.240,57.01,mqtt_consumer,Toaster
+2022-07-24 03:00:18.240,38.62,mqtt_consumer,Toaster
+2022-07-24 04:00:18.240,40.03,mqtt_consumer,Toaster
+2022-07-24 05:00:18.240,2.58,mqtt_consumer,Toaster
+2022-07-24 06:00:18.240,32.96,mqtt_consumer,Toaster
+2022-07-24 07:00:18.240,8.53,mqtt_consumer,Toaster
+2022-07-24 08:00:18.240,52.19,mqtt_consumer,Toaster
+2022-07-24 09:00:18.240,91.95,mqtt_consumer,Toaster
+2022-07-24 10:00:18.240,99.36,mqtt_consumer,Toaster
+2022-07-24 11:00:18.240,16.63,mqtt_consumer,Toaster
+2022-07-24 12:00:18.240,48.61,mqtt_consumer,Toaster
+2022-07-24 13:00:18.240,57.05,mqtt_consumer,Toaster
+2022-07-24 14:00:18.240,20.11,mqtt_consumer,Toaster
+2022-07-24 15:00:18.240,26.31,mqtt_consumer,Toaster
+2022-07-24 16:00:18.240,17.51,mqtt_consumer,Toaster
+2022-07-24 17:00:18.240,37.5,mqtt_consumer,Toaster
+2022-07-24 18:00:18.240,53.85,mqtt_consumer,Toaster
+2022-07-24 19:00:18.240,92.32,mqtt_consumer,Toaster
+2022-07-24 20:00:18.240,46.08,mqtt_consumer,Toaster
+2022-07-24 21:00:18.240,26.96,mqtt_consumer,Toaster
+2022-07-24 22:00:18.240,78.83,mqtt_consumer,Toaster
+2022-07-24 23:00:18.240,84.6,mqtt_consumer,Toaster
+2022-07-25 00:00:18.240,30.29,mqtt_consumer,Toaster
+2022-07-25 01:00:18.240,65.12,mqtt_consumer,Toaster
+2022-07-25 02:00:18.240,39.78,mqtt_consumer,Toaster
+2022-07-25 03:00:18.240,14.78,mqtt_consumer,Toaster
+2022-07-25 04:00:18.240,22.86,mqtt_consumer,Toaster
+2022-07-25 05:00:18.240,31.37,mqtt_consumer,Toaster
+2022-07-25 06:00:18.240,29.58,mqtt_consumer,Toaster
+2022-07-25 07:00:18.240,67.42,mqtt_consumer,Toaster
+2022-07-25 08:00:18.240,19.34,mqtt_consumer,Toaster
+2022-07-25 09:00:18.240,67.23,mqtt_consumer,Toaster
+2022-07-25 10:00:18.240,46.54,mqtt_consumer,Toaster
+2022-07-25 11:00:18.240,46.25,mqtt_consumer,Toaster
+2022-07-25 12:00:18.240,30.16,mqtt_consumer,Toaster
+2022-07-25 13:00:18.240,96.66,mqtt_consumer,Toaster
+2022-07-25 14:00:18.240,78.14,mqtt_consumer,Toaster
+2022-07-25 15:00:18.240,69.42,mqtt_consumer,Toaster
+2022-07-25 16:00:18.240,99.98,mqtt_consumer,Toaster
+2022-07-25 17:00:18.240,68.25,mqtt_consumer,Toaster
+2022-07-25 18:00:18.240,57.56,mqtt_consumer,Toaster
+2022-07-25 19:00:18.240,86.47,mqtt_consumer,Toaster
+2022-07-25 20:00:18.240,33.19,mqtt_consumer,Toaster
+2022-07-25 21:00:18.240,54.4,mqtt_consumer,Toaster
+2022-07-25 22:00:18.240,96.33,mqtt_consumer,Toaster
+2022-07-25 23:00:18.240,35.56,mqtt_consumer,Toaster
+2022-07-26 00:00:18.240,56.97,mqtt_consumer,Toaster
+2022-07-26 01:00:18.240,8.05,mqtt_consumer,Toaster
+2022-07-26 02:00:18.240,71.38,mqtt_consumer,Toaster
+2022-07-26 03:00:18.240,52.77,mqtt_consumer,Toaster
+2022-07-26 04:00:18.240,36.87,mqtt_consumer,Toaster
+2022-07-26 05:00:18.240,55.62,mqtt_consumer,Toaster
+2022-07-26 06:00:18.240,96.75,mqtt_consumer,Toaster
+2022-07-26 07:00:18.240,29.98,mqtt_consumer,Toaster
+2022-07-26 08:00:18.240,86.8,mqtt_consumer,Toaster
+2022-07-26 09:00:18.240,9.24,mqtt_consumer,Toaster
+2022-07-26 10:00:18.240,95.44,mqtt_consumer,Toaster
+2022-07-26 11:00:18.240,84.71,mqtt_consumer,Toaster
+2022-07-26 12:00:18.240,41.91,mqtt_consumer,Toaster
+2022-07-26 13:00:18.240,69.51,mqtt_consumer,Toaster
+2022-07-26 14:00:18.240,65.06,mqtt_consumer,Toaster
+2022-07-26 15:00:18.240,70.74,mqtt_consumer,Toaster
+2022-07-26 16:00:18.240,41.07,mqtt_consumer,Toaster
+2022-07-26 17:00:18.240,66.8,mqtt_consumer,Toaster
+2022-07-26 18:00:18.240,0.35,mqtt_consumer,Toaster
+2022-07-26 19:00:18.240,97.65,mqtt_consumer,Toaster
+2022-07-26 20:00:18.240,34.12,mqtt_consumer,Toaster
+2022-07-26 21:00:18.240,53.59,mqtt_consumer,Toaster
+2022-07-26 22:00:18.240,23.4,mqtt_consumer,Toaster
+2022-07-26 23:00:18.240,90.18,mqtt_consumer,Toaster
+2022-07-27 00:00:18.240,8.17,mqtt_consumer,Toaster
+2022-07-27 01:00:18.240,86.86,mqtt_consumer,Toaster
+2022-07-27 02:00:18.240,48.35,mqtt_consumer,Toaster
+2022-07-27 03:00:18.240,5.43,mqtt_consumer,Toaster
+2022-07-27 04:00:18.240,90.76,mqtt_consumer,Toaster
+2022-07-27 05:00:18.240,77.67,mqtt_consumer,Toaster
+2022-07-27 06:00:18.240,31.83,mqtt_consumer,Toaster
+2022-07-27 07:00:18.240,19.4,mqtt_consumer,Toaster
+2022-07-27 08:00:18.240,34.4,mqtt_consumer,Toaster
+2022-07-27 09:00:18.240,16.06,mqtt_consumer,Toaster
+2022-07-27 10:00:18.240,23.61,mqtt_consumer,Toaster
+2022-07-27 11:00:18.240,53.06,mqtt_consumer,Toaster
+2022-07-27 12:00:18.240,75.77,mqtt_consumer,Toaster
+2022-07-27 13:00:18.240,4.3,mqtt_consumer,Toaster
+2022-07-27 14:00:18.240,94.14,mqtt_consumer,Toaster
+2022-07-27 15:00:18.240,20.89,mqtt_consumer,Toaster
+2022-07-27 16:00:18.240,9.11,mqtt_consumer,Toaster
+2022-07-27 17:00:18.240,18.57,mqtt_consumer,Toaster
+2022-07-27 18:00:18.240,1.76,mqtt_consumer,Toaster
+2022-07-27 19:00:18.240,2.54,mqtt_consumer,Toaster
+2022-07-27 20:00:18.240,15.07,mqtt_consumer,Toaster
+2022-07-27 21:00:18.240,21.4,mqtt_consumer,Toaster
+2022-07-27 22:00:18.240,2.97,mqtt_consumer,Toaster
+2022-07-27 23:00:18.240,22.61,mqtt_consumer,Toaster
+2022-07-28 00:00:18.240,97.26,mqtt_consumer,Toaster
+2022-07-28 01:00:18.240,11.23,mqtt_consumer,Toaster
+2022-07-28 02:00:18.240,72.44,mqtt_consumer,Toaster
+2022-07-28 03:00:18.240,53.06,mqtt_consumer,Toaster
+2022-07-28 04:00:18.240,97.14,mqtt_consumer,Toaster
+2022-07-28 05:00:18.240,55.38,mqtt_consumer,Toaster
+2022-07-28 06:00:18.240,12.47,mqtt_consumer,Toaster
+2022-07-28 07:00:18.240,20.16,mqtt_consumer,Toaster
+2022-07-28 08:00:18.240,99.27,mqtt_consumer,Toaster
+2022-07-28 09:00:18.240,58.36,mqtt_consumer,Toaster
+2022-07-28 10:00:18.240,94.64,mqtt_consumer,Toaster
+2022-07-28 11:00:18.240,24.57,mqtt_consumer,Toaster
+2022-07-28 12:00:18.240,20.11,mqtt_consumer,Toaster
+2022-07-28 13:00:18.240,78.13,mqtt_consumer,Toaster
+2022-07-28 14:00:18.240,98.9,mqtt_consumer,Toaster
+2022-07-28 15:00:18.240,87.87,mqtt_consumer,Toaster
+2022-07-28 16:00:18.240,25.11,mqtt_consumer,Toaster
+2022-07-28 17:00:18.240,29.78,mqtt_consumer,Toaster
+2022-07-28 18:00:18.240,79.12,mqtt_consumer,Toaster
+2022-07-28 19:00:18.240,61.86,mqtt_consumer,Toaster
+2022-07-28 20:00:18.240,49.02,mqtt_consumer,Toaster
+2022-07-28 21:00:18.240,95.78,mqtt_consumer,Toaster
+2022-07-28 22:00:18.240,12.7,mqtt_consumer,Toaster
+2022-07-28 23:00:18.240,56.66,mqtt_consumer,Toaster
+2022-07-29 00:00:18.240,5.24,mqtt_consumer,Toaster
+2022-07-29 01:00:18.240,80.03,mqtt_consumer,Toaster
+2022-07-29 02:00:18.240,42.86,mqtt_consumer,Toaster
+2022-07-29 03:00:18.240,87.65,mqtt_consumer,Toaster
+2022-07-29 04:00:18.240,65.15,mqtt_consumer,Toaster
+2022-07-29 05:00:18.240,58.21,mqtt_consumer,Toaster
+2022-07-29 06:00:18.240,66.61,mqtt_consumer,Toaster
+2022-07-29 07:00:18.240,65.58,mqtt_consumer,Toaster
+2022-07-29 08:00:18.240,89.66,mqtt_consumer,Toaster
+2022-07-29 09:00:18.240,88.08,mqtt_consumer,Toaster
+2022-07-29 10:00:18.240,95.62,mqtt_consumer,Toaster
+2022-07-29 11:00:18.240,45.84,mqtt_consumer,Toaster
+2022-07-29 12:00:18.240,44.51,mqtt_consumer,Toaster
+2022-07-29 13:00:18.240,76.25,mqtt_consumer,Toaster
+2022-07-29 14:00:18.240,71.42,mqtt_consumer,Toaster
+2022-07-29 15:00:18.240,38.74,mqtt_consumer,Toaster
+2022-07-29 16:00:18.240,21.4,mqtt_consumer,Toaster
+2022-07-29 17:00:18.240,42.03,mqtt_consumer,Toaster
+2022-07-29 18:00:18.240,71.95,mqtt_consumer,Toaster
+2022-07-29 19:00:18.240,65.56,mqtt_consumer,Toaster
+2022-07-29 20:00:18.240,46.55,mqtt_consumer,Toaster
+2022-07-29 21:00:18.240,37.91,mqtt_consumer,Toaster
+2022-07-29 22:00:18.240,14.87,mqtt_consumer,Toaster
+2022-07-29 23:00:18.240,30.59,mqtt_consumer,Toaster
+2022-07-30 00:00:18.240,61.46,mqtt_consumer,Toaster
+2022-07-30 01:00:18.240,98.68,mqtt_consumer,Toaster
+2022-07-30 02:00:18.240,77.96,mqtt_consumer,Toaster
+2022-07-30 03:00:18.240,85.85,mqtt_consumer,Toaster
+2022-07-30 04:00:18.240,43.71,mqtt_consumer,Toaster
+2022-07-30 05:00:18.240,97.09,mqtt_consumer,Toaster
+2022-07-30 06:00:18.240,33.76,mqtt_consumer,Toaster
+2022-07-30 07:00:18.240,53.61,mqtt_consumer,Toaster
+2022-07-30 08:00:18.240,46.44,mqtt_consumer,Toaster
+2022-07-30 09:00:18.240,58.36,mqtt_consumer,Toaster
+2022-07-30 10:00:18.240,37.33,mqtt_consumer,Toaster
+2022-07-30 11:00:18.240,99.75,mqtt_consumer,Toaster
+2022-07-30 12:00:18.240,50.71,mqtt_consumer,Toaster
+2022-07-30 13:00:18.240,53.69,mqtt_consumer,Toaster
+2022-07-30 14:00:18.240,37.07,mqtt_consumer,Toaster
+2022-07-30 15:00:18.240,27.98,mqtt_consumer,Toaster
+2022-07-30 16:00:18.240,51.3,mqtt_consumer,Toaster
+2022-07-30 17:00:18.240,40.4,mqtt_consumer,Toaster
+2022-07-30 18:00:18.240,75.96,mqtt_consumer,Toaster
+2022-07-30 19:00:18.240,51.6,mqtt_consumer,Toaster
+2022-07-30 20:00:18.240,20.86,mqtt_consumer,Toaster
+2022-07-30 21:00:18.240,20.03,mqtt_consumer,Toaster
+2022-07-30 22:00:18.240,24.28,mqtt_consumer,Toaster
+2022-07-30 23:00:18.240,74.8,mqtt_consumer,Toaster
+2022-07-31 00:00:18.240,40.67,mqtt_consumer,Toaster
+2022-07-31 01:00:18.240,8.84,mqtt_consumer,Toaster
+2022-07-31 02:00:18.240,91.34,mqtt_consumer,Toaster
+2022-07-31 03:00:18.240,29.55,mqtt_consumer,Toaster
+2022-07-31 04:00:18.240,87.11,mqtt_consumer,Toaster
+2022-07-31 05:00:18.240,46.57,mqtt_consumer,Toaster
+2022-07-31 06:00:18.240,24.04,mqtt_consumer,Toaster
+2022-07-31 07:00:18.240,51.21,mqtt_consumer,Toaster
+2022-07-31 08:00:18.240,33.21,mqtt_consumer,Toaster
+2022-07-31 09:00:18.240,12.08,mqtt_consumer,Toaster
+2022-07-31 10:00:18.240,43.96,mqtt_consumer,Toaster
+2022-07-31 11:00:18.240,96.72,mqtt_consumer,Toaster
+2022-07-31 12:00:18.240,52.91,mqtt_consumer,Toaster
+2022-07-31 13:00:18.240,26.1,mqtt_consumer,Toaster
+2022-07-31 14:00:18.240,30.7,mqtt_consumer,Toaster
+2022-07-31 15:00:18.240,79.36,mqtt_consumer,Toaster
+2022-07-31 16:00:18.240,64.37,mqtt_consumer,Toaster
+2022-07-31 17:00:18.240,29.81,mqtt_consumer,Toaster
+2022-07-31 18:00:18.240,92.59,mqtt_consumer,Toaster
+2022-07-31 19:00:18.240,88.59,mqtt_consumer,Toaster
+2022-07-31 20:00:18.240,99.7,mqtt_consumer,Toaster
+2022-07-31 21:00:18.240,80.93,mqtt_consumer,Toaster
+2022-07-31 22:00:18.240,37.05,mqtt_consumer,Toaster
+2022-07-31 23:00:18.240,87.9,mqtt_consumer,Toaster
+2022-08-01 00:00:18.240,24.61,mqtt_consumer,Toaster
+2022-08-01 01:00:18.240,64.58,mqtt_consumer,Toaster
+2022-08-01 02:00:18.240,49.77,mqtt_consumer,Toaster
+2022-08-01 03:00:18.240,38.75,mqtt_consumer,Toaster
+2022-08-01 04:00:18.240,91.51,mqtt_consumer,Toaster
+2022-08-01 05:00:18.240,48.78,mqtt_consumer,Toaster
+2022-08-01 06:00:18.240,80.33,mqtt_consumer,Toaster
+2022-08-01 07:00:18.240,93.21,mqtt_consumer,Toaster
+2022-08-01 08:00:18.240,2.57,mqtt_consumer,Toaster
+2022-08-01 09:00:18.240,84.18,mqtt_consumer,Toaster
+2022-08-01 10:00:18.240,48.13,mqtt_consumer,Toaster
+2022-08-01 11:00:18.240,30.66,mqtt_consumer,Toaster
+2022-08-01 12:00:18.240,25,mqtt_consumer,Toaster
+2022-08-01 13:00:18.240,24.15,mqtt_consumer,Toaster
+2022-08-01 14:00:18.240,3.16,mqtt_consumer,Toaster
+2022-08-01 15:00:18.240,85.61,mqtt_consumer,Toaster
+2022-08-01 16:00:18.240,70.16,mqtt_consumer,Toaster
+2022-08-01 17:00:18.240,40.2,mqtt_consumer,Toaster
+2022-08-01 18:00:18.240,16.3,mqtt_consumer,Toaster
+2022-08-01 19:00:18.240,34.06,mqtt_consumer,Toaster
+2022-08-01 20:00:18.240,49.87,mqtt_consumer,Toaster
+2022-08-01 21:00:18.240,81.41,mqtt_consumer,Toaster
+2022-08-01 22:00:18.240,81.16,mqtt_consumer,Toaster
+2022-08-01 23:00:18.240,93.02,mqtt_consumer,Toaster
+2022-08-02 00:00:18.240,31.52,mqtt_consumer,Toaster
+2022-08-02 01:00:18.240,16.3,mqtt_consumer,Toaster
+2022-08-02 02:00:18.240,36.52,mqtt_consumer,Toaster
+2022-08-02 03:00:18.240,48.56,mqtt_consumer,Toaster
+2022-08-02 04:00:18.240,47.07,mqtt_consumer,Toaster
+2022-08-02 05:00:18.240,44.84,mqtt_consumer,Toaster
+2022-07-12 10:00:18.240,67.9,mqtt_consumer,Washing machine
+2022-07-12 11:00:18.240,30.96,mqtt_consumer,Washing machine
+2022-07-12 12:00:18.240,41.58,mqtt_consumer,Washing machine
+2022-07-12 13:00:18.240,65.39,mqtt_consumer,Washing machine
+2022-07-12 14:00:18.240,54.02,mqtt_consumer,Washing machine
+2022-07-12 15:00:18.240,59.24,mqtt_consumer,Washing machine
+2022-07-12 16:00:18.240,61.99,mqtt_consumer,Washing machine
+2022-07-12 17:00:18.240,17.68,mqtt_consumer,Washing machine
+2022-07-12 18:00:18.240,69.19,mqtt_consumer,Washing machine
+2022-07-12 19:00:18.240,1.92,mqtt_consumer,Washing machine
+2022-07-12 20:00:18.240,78.34,mqtt_consumer,Washing machine
+2022-07-12 21:00:18.240,9.81,mqtt_consumer,Washing machine
+2022-07-12 22:00:18.240,84.9,mqtt_consumer,Washing machine
+2022-07-12 23:00:18.240,10.72,mqtt_consumer,Washing machine
+2022-07-13 00:00:18.240,33.39,mqtt_consumer,Washing machine
+2022-07-13 01:00:18.240,23.47,mqtt_consumer,Washing machine
+2022-07-13 02:00:18.240,49.44,mqtt_consumer,Washing machine
+2022-07-13 03:00:18.240,66.18,mqtt_consumer,Washing machine
+2022-07-13 04:00:18.240,70.3,mqtt_consumer,Washing machine
+2022-07-13 05:00:18.240,48.54,mqtt_consumer,Washing machine
+2022-07-13 06:00:18.240,62.5,mqtt_consumer,Washing machine
+2022-07-13 07:00:18.240,60.69,mqtt_consumer,Washing machine
+2022-07-13 08:00:18.240,15.85,mqtt_consumer,Washing machine
+2022-07-13 09:00:18.240,41.32,mqtt_consumer,Washing machine
+2022-07-13 10:00:18.240,37.67,mqtt_consumer,Washing machine
+2022-07-13 11:00:18.240,75.38,mqtt_consumer,Washing machine
+2022-07-13 12:00:18.240,61.68,mqtt_consumer,Washing machine
+2022-07-13 13:00:18.240,63.13,mqtt_consumer,Washing machine
+2022-07-13 14:00:18.240,89.14,mqtt_consumer,Washing machine
+2022-07-13 15:00:18.240,63.2,mqtt_consumer,Washing machine
+2022-07-13 16:00:18.240,89.65,mqtt_consumer,Washing machine
+2022-07-13 17:00:18.240,61.55,mqtt_consumer,Washing machine
+2022-07-13 18:00:18.240,61.6,mqtt_consumer,Washing machine
+2022-07-13 19:00:18.240,20.35,mqtt_consumer,Washing machine
+2022-07-13 20:00:18.240,22.93,mqtt_consumer,Washing machine
+2022-07-13 21:00:18.240,40.78,mqtt_consumer,Washing machine
+2022-07-13 22:00:18.240,57.3,mqtt_consumer,Washing machine
+2022-07-13 23:00:18.240,95.81,mqtt_consumer,Washing machine
+2022-07-14 00:00:18.240,74.01,mqtt_consumer,Washing machine
+2022-07-14 01:00:18.240,32.56,mqtt_consumer,Washing machine
+2022-07-14 02:00:18.240,52.92,mqtt_consumer,Washing machine
+2022-07-14 03:00:18.240,22.32,mqtt_consumer,Washing machine
+2022-07-14 04:00:18.240,49.93,mqtt_consumer,Washing machine
+2022-07-14 05:00:18.240,10.68,mqtt_consumer,Washing machine
+2022-07-14 06:00:18.240,76.96,mqtt_consumer,Washing machine
+2022-07-14 07:00:18.240,97.51,mqtt_consumer,Washing machine
+2022-07-14 08:00:18.240,16.52,mqtt_consumer,Washing machine
+2022-07-14 09:00:18.240,83.42,mqtt_consumer,Washing machine
+2022-07-14 10:00:18.240,87.92,mqtt_consumer,Washing machine
+2022-07-14 11:00:18.240,92.73,mqtt_consumer,Washing machine
+2022-07-14 12:00:18.240,68.25,mqtt_consumer,Washing machine
+2022-07-14 13:00:18.240,11.11,mqtt_consumer,Washing machine
+2022-07-14 14:00:18.240,51.99,mqtt_consumer,Washing machine
+2022-07-14 15:00:18.240,71.52,mqtt_consumer,Washing machine
+2022-07-14 16:00:18.240,60.53,mqtt_consumer,Washing machine
+2022-07-14 17:00:18.240,42.87,mqtt_consumer,Washing machine
+2022-07-14 18:00:18.240,2.78,mqtt_consumer,Washing machine
+2022-07-14 19:00:18.240,8.44,mqtt_consumer,Washing machine
+2022-07-14 20:00:18.240,97.13,mqtt_consumer,Washing machine
+2022-07-14 21:00:18.240,72.24,mqtt_consumer,Washing machine
+2022-07-14 22:00:18.240,99.89,mqtt_consumer,Washing machine
+2022-07-14 23:00:18.240,22.95,mqtt_consumer,Washing machine
+2022-07-15 00:00:18.240,92,mqtt_consumer,Washing machine
+2022-07-15 01:00:18.240,16.12,mqtt_consumer,Washing machine
+2022-07-15 02:00:18.240,37.53,mqtt_consumer,Washing machine
+2022-07-15 03:00:18.240,90.45,mqtt_consumer,Washing machine
+2022-07-15 04:00:18.240,30.97,mqtt_consumer,Washing machine
+2022-07-15 05:00:18.240,92.45,mqtt_consumer,Washing machine
+2022-07-15 06:00:18.240,39.24,mqtt_consumer,Washing machine
+2022-07-15 07:00:18.240,95.73,mqtt_consumer,Washing machine
+2022-07-15 08:00:18.240,46.06,mqtt_consumer,Washing machine
+2022-07-15 09:00:18.240,14.42,mqtt_consumer,Washing machine
+2022-07-15 10:00:18.240,9.9,mqtt_consumer,Washing machine
+2022-07-15 11:00:18.240,17.1,mqtt_consumer,Washing machine
+2022-07-15 12:00:18.240,68.94,mqtt_consumer,Washing machine
+2022-07-15 13:00:18.240,21.82,mqtt_consumer,Washing machine
+2022-07-15 14:00:18.240,97.94,mqtt_consumer,Washing machine
+2022-07-15 15:00:18.240,31.65,mqtt_consumer,Washing machine
+2022-07-15 16:00:18.240,11.17,mqtt_consumer,Washing machine
+2022-07-15 17:00:18.240,31.42,mqtt_consumer,Washing machine
+2022-07-15 18:00:18.240,48.56,mqtt_consumer,Washing machine
+2022-07-15 19:00:18.240,26.51,mqtt_consumer,Washing machine
+2022-07-15 20:00:18.240,43.28,mqtt_consumer,Washing machine
+2022-07-15 21:00:18.240,49.68,mqtt_consumer,Washing machine
+2022-07-15 22:00:18.240,9.01,mqtt_consumer,Washing machine
+2022-07-15 23:00:18.240,69.83,mqtt_consumer,Washing machine
+2022-07-16 00:00:18.240,24.83,mqtt_consumer,Washing machine
+2022-07-16 01:00:18.240,8.89,mqtt_consumer,Washing machine
+2022-07-16 02:00:18.240,20.55,mqtt_consumer,Washing machine
+2022-07-16 03:00:18.240,93.31,mqtt_consumer,Washing machine
+2022-07-16 04:00:18.240,94.57,mqtt_consumer,Washing machine
+2022-07-16 05:00:18.240,65.36,mqtt_consumer,Washing machine
+2022-07-16 06:00:18.240,63.06,mqtt_consumer,Washing machine
+2022-07-16 07:00:18.240,90.04,mqtt_consumer,Washing machine
+2022-07-16 08:00:18.240,11.64,mqtt_consumer,Washing machine
+2022-07-16 09:00:18.240,29.59,mqtt_consumer,Washing machine
+2022-07-16 10:00:18.240,60.14,mqtt_consumer,Washing machine
+2022-07-16 11:00:18.240,76.74,mqtt_consumer,Washing machine
+2022-07-16 12:00:18.240,80.15,mqtt_consumer,Washing machine
+2022-07-16 13:00:18.240,73.46,mqtt_consumer,Washing machine
+2022-07-16 14:00:18.240,15.71,mqtt_consumer,Washing machine
+2022-07-16 15:00:18.240,92.61,mqtt_consumer,Washing machine
+2022-07-16 16:00:18.240,94.13,mqtt_consumer,Washing machine
+2022-07-16 17:00:18.240,79.25,mqtt_consumer,Washing machine
+2022-07-16 18:00:18.240,19.82,mqtt_consumer,Washing machine
+2022-07-16 19:00:18.240,28.03,mqtt_consumer,Washing machine
+2022-07-16 20:00:18.240,91.28,mqtt_consumer,Washing machine
+2022-07-16 21:00:18.240,37.28,mqtt_consumer,Washing machine
+2022-07-16 22:00:18.240,90.01,mqtt_consumer,Washing machine
+2022-07-16 23:00:18.240,71.72,mqtt_consumer,Washing machine
+2022-07-17 00:00:18.240,61.31,mqtt_consumer,Washing machine
+2022-07-17 01:00:18.240,94.83,mqtt_consumer,Washing machine
+2022-07-17 02:00:18.240,99.37,mqtt_consumer,Washing machine
+2022-07-17 03:00:18.240,12.39,mqtt_consumer,Washing machine
+2022-07-17 04:00:18.240,49.79,mqtt_consumer,Washing machine
+2022-07-17 05:00:18.240,64.6,mqtt_consumer,Washing machine
+2022-07-17 06:00:18.240,10.68,mqtt_consumer,Washing machine
+2022-07-17 07:00:18.240,46.83,mqtt_consumer,Washing machine
+2022-07-17 08:00:18.240,65.3,mqtt_consumer,Washing machine
+2022-07-17 09:00:18.240,38.39,mqtt_consumer,Washing machine
+2022-07-17 10:00:18.240,74.69,mqtt_consumer,Washing machine
+2022-07-17 11:00:18.240,6.2,mqtt_consumer,Washing machine
+2022-07-17 12:00:18.240,87.66,mqtt_consumer,Washing machine
+2022-07-17 13:00:18.240,56.33,mqtt_consumer,Washing machine
+2022-07-17 14:00:18.240,0.33,mqtt_consumer,Washing machine
+2022-07-17 15:00:18.240,16.03,mqtt_consumer,Washing machine
+2022-07-17 16:00:18.240,28.34,mqtt_consumer,Washing machine
+2022-07-17 17:00:18.240,72.8,mqtt_consumer,Washing machine
+2022-07-17 18:00:18.240,11.55,mqtt_consumer,Washing machine
+2022-07-17 19:00:18.240,86.05,mqtt_consumer,Washing machine
+2022-07-17 20:00:18.240,46.71,mqtt_consumer,Washing machine
+2022-07-17 21:00:18.240,35.68,mqtt_consumer,Washing machine
+2022-07-17 22:00:18.240,54.59,mqtt_consumer,Washing machine
+2022-07-17 23:00:18.240,49.85,mqtt_consumer,Washing machine
+2022-07-18 00:00:18.240,84.83,mqtt_consumer,Washing machine
+2022-07-18 01:00:18.240,14.76,mqtt_consumer,Washing machine
+2022-07-18 02:00:18.240,31.43,mqtt_consumer,Washing machine
+2022-07-18 03:00:18.240,11.28,mqtt_consumer,Washing machine
+2022-07-18 04:00:18.240,95.53,mqtt_consumer,Washing machine
+2022-07-18 05:00:18.240,56.96,mqtt_consumer,Washing machine
+2022-07-18 06:00:18.240,45.84,mqtt_consumer,Washing machine
+2022-07-18 07:00:18.240,68.51,mqtt_consumer,Washing machine
+2022-07-18 08:00:18.240,83.46,mqtt_consumer,Washing machine
+2022-07-18 09:00:18.240,68.88,mqtt_consumer,Washing machine
+2022-07-18 10:00:18.240,36,mqtt_consumer,Washing machine
+2022-07-18 11:00:18.240,76.71,mqtt_consumer,Washing machine
+2022-07-18 12:00:18.240,9.14,mqtt_consumer,Washing machine
+2022-07-18 13:00:18.240,80.9,mqtt_consumer,Washing machine
+2022-07-18 14:00:18.240,49.93,mqtt_consumer,Washing machine
+2022-07-18 15:00:18.240,93.39,mqtt_consumer,Washing machine
+2022-07-18 16:00:18.240,64.88,mqtt_consumer,Washing machine
+2022-07-18 17:00:18.240,22.03,mqtt_consumer,Washing machine
+2022-07-18 18:00:18.240,30.76,mqtt_consumer,Washing machine
+2022-07-18 19:00:18.240,71.62,mqtt_consumer,Washing machine
+2022-07-18 20:00:18.240,80.29,mqtt_consumer,Washing machine
+2022-07-18 21:00:18.240,77.77,mqtt_consumer,Washing machine
+2022-07-18 22:00:18.240,97.57,mqtt_consumer,Washing machine
+2022-07-18 23:00:18.240,80.67,mqtt_consumer,Washing machine
+2022-07-19 00:00:18.240,51.52,mqtt_consumer,Washing machine
+2022-07-19 01:00:18.240,52.3,mqtt_consumer,Washing machine
+2022-07-19 02:00:18.240,59.86,mqtt_consumer,Washing machine
+2022-07-19 03:00:18.240,65.44,mqtt_consumer,Washing machine
+2022-07-19 04:00:18.240,36,mqtt_consumer,Washing machine
+2022-07-19 05:00:18.240,44.22,mqtt_consumer,Washing machine
+2022-07-19 06:00:18.240,3.64,mqtt_consumer,Washing machine
+2022-07-19 07:00:18.240,30.42,mqtt_consumer,Washing machine
+2022-07-19 08:00:18.240,68.5,mqtt_consumer,Washing machine
+2022-07-19 09:00:18.240,75.25,mqtt_consumer,Washing machine
+2022-07-19 10:00:18.240,39.9,mqtt_consumer,Washing machine
+2022-07-19 11:00:18.240,34.01,mqtt_consumer,Washing machine
+2022-07-19 12:00:18.240,36.7,mqtt_consumer,Washing machine
+2022-07-19 13:00:18.240,12.47,mqtt_consumer,Washing machine
+2022-07-19 14:00:18.240,6.55,mqtt_consumer,Washing machine
+2022-07-19 15:00:18.240,87.33,mqtt_consumer,Washing machine
+2022-07-19 16:00:18.240,34.46,mqtt_consumer,Washing machine
+2022-07-19 17:00:18.240,31.22,mqtt_consumer,Washing machine
+2022-07-19 18:00:18.240,70.05,mqtt_consumer,Washing machine
+2022-07-19 19:00:18.240,67.65,mqtt_consumer,Washing machine
+2022-07-19 20:00:18.240,93.63,mqtt_consumer,Washing machine
+2022-07-19 21:00:18.240,74.87,mqtt_consumer,Washing machine
+2022-07-19 22:00:18.240,5.34,mqtt_consumer,Washing machine
+2022-07-19 23:00:18.240,49.17,mqtt_consumer,Washing machine
+2022-07-20 00:00:18.240,71.47,mqtt_consumer,Washing machine
+2022-07-20 01:00:18.240,58.85,mqtt_consumer,Washing machine
+2022-07-20 02:00:18.240,1.07,mqtt_consumer,Washing machine
+2022-07-20 03:00:18.240,82.01,mqtt_consumer,Washing machine
+2022-07-20 04:00:18.240,37.15,mqtt_consumer,Washing machine
+2022-07-20 05:00:18.240,26.87,mqtt_consumer,Washing machine
+2022-07-20 06:00:18.240,0.73,mqtt_consumer,Washing machine
+2022-07-20 07:00:18.240,29.52,mqtt_consumer,Washing machine
+2022-07-20 08:00:18.240,27.9,mqtt_consumer,Washing machine
+2022-07-20 09:00:18.240,57.4,mqtt_consumer,Washing machine
+2022-07-20 10:00:18.240,87,mqtt_consumer,Washing machine
+2022-07-20 11:00:18.240,8.88,mqtt_consumer,Washing machine
+2022-07-20 12:00:18.240,19.39,mqtt_consumer,Washing machine
+2022-07-20 13:00:18.240,20.41,mqtt_consumer,Washing machine
+2022-07-20 14:00:18.240,76.7,mqtt_consumer,Washing machine
+2022-07-20 15:00:18.240,22.98,mqtt_consumer,Washing machine
+2022-07-20 16:00:18.240,98.28,mqtt_consumer,Washing machine
+2022-07-20 17:00:18.240,33.6,mqtt_consumer,Washing machine
+2022-07-20 18:00:18.240,44.7,mqtt_consumer,Washing machine
+2022-07-20 19:00:18.240,48.71,mqtt_consumer,Washing machine
+2022-07-20 20:00:18.240,3.22,mqtt_consumer,Washing machine
+2022-07-20 21:00:18.240,67.06,mqtt_consumer,Washing machine
+2022-07-20 22:00:18.240,93.53,mqtt_consumer,Washing machine
+2022-07-20 23:00:18.240,73.53,mqtt_consumer,Washing machine
+2022-07-21 00:00:18.240,11.11,mqtt_consumer,Washing machine
+2022-07-21 01:00:18.240,41.33,mqtt_consumer,Washing machine
+2022-07-21 02:00:18.240,7.42,mqtt_consumer,Washing machine
+2022-07-21 03:00:18.240,23.47,mqtt_consumer,Washing machine
+2022-07-21 04:00:18.240,69.44,mqtt_consumer,Washing machine
+2022-07-21 05:00:18.240,22.59,mqtt_consumer,Washing machine
+2022-07-21 06:00:18.240,45.45,mqtt_consumer,Washing machine
+2022-07-21 07:00:18.240,4.5,mqtt_consumer,Washing machine
+2022-07-21 08:00:18.240,8.3,mqtt_consumer,Washing machine
+2022-07-21 09:00:18.240,56.04,mqtt_consumer,Washing machine
+2022-07-21 10:00:18.240,41.4,mqtt_consumer,Washing machine
+2022-07-21 11:00:18.240,48.9,mqtt_consumer,Washing machine
+2022-07-21 12:00:18.240,14.81,mqtt_consumer,Washing machine
+2022-07-21 13:00:18.240,91.28,mqtt_consumer,Washing machine
+2022-07-21 14:00:18.240,59.5,mqtt_consumer,Washing machine
+2022-07-21 15:00:18.240,13.6,mqtt_consumer,Washing machine
+2022-07-21 16:00:18.240,6.77,mqtt_consumer,Washing machine
+2022-07-21 17:00:18.240,33.48,mqtt_consumer,Washing machine
+2022-07-21 18:00:18.240,4.47,mqtt_consumer,Washing machine
+2022-07-21 19:00:18.240,58.36,mqtt_consumer,Washing machine
+2022-07-21 20:00:18.240,30.17,mqtt_consumer,Washing machine
+2022-07-21 21:00:18.240,52.09,mqtt_consumer,Washing machine
+2022-07-21 22:00:18.240,38.93,mqtt_consumer,Washing machine
+2022-07-21 23:00:18.240,24.94,mqtt_consumer,Washing machine
+2022-07-22 00:00:18.240,47.03,mqtt_consumer,Washing machine
+2022-07-22 01:00:18.240,69.51,mqtt_consumer,Washing machine
+2022-07-22 02:00:18.240,84.66,mqtt_consumer,Washing machine
+2022-07-22 03:00:18.240,94.8,mqtt_consumer,Washing machine
+2022-07-22 04:00:18.240,67.84,mqtt_consumer,Washing machine
+2022-07-22 05:00:18.240,50.09,mqtt_consumer,Washing machine
+2022-07-22 06:00:18.240,93.38,mqtt_consumer,Washing machine
+2022-07-22 07:00:18.240,5.17,mqtt_consumer,Washing machine
+2022-07-22 08:00:18.240,49.61,mqtt_consumer,Washing machine
+2022-07-22 09:00:18.240,93.89,mqtt_consumer,Washing machine
+2022-07-22 10:00:18.240,46.09,mqtt_consumer,Washing machine
+2022-07-22 11:00:18.240,68.49,mqtt_consumer,Washing machine
+2022-07-22 12:00:18.240,99.18,mqtt_consumer,Washing machine
+2022-07-22 13:00:18.240,97.81,mqtt_consumer,Washing machine
+2022-07-22 14:00:18.240,24.76,mqtt_consumer,Washing machine
+2022-07-22 15:00:18.240,1.53,mqtt_consumer,Washing machine
+2022-07-22 16:00:18.240,24.24,mqtt_consumer,Washing machine
+2022-07-22 17:00:18.240,49.56,mqtt_consumer,Washing machine
+2022-07-22 18:00:18.240,90.8,mqtt_consumer,Washing machine
+2022-07-22 19:00:18.240,63.63,mqtt_consumer,Washing machine
+2022-07-22 20:00:18.240,68.36,mqtt_consumer,Washing machine
+2022-07-22 21:00:18.240,49.44,mqtt_consumer,Washing machine
+2022-07-22 22:00:18.240,48.38,mqtt_consumer,Washing machine
+2022-07-22 23:00:18.240,12.02,mqtt_consumer,Washing machine
+2022-07-23 00:00:18.240,0.69,mqtt_consumer,Washing machine
+2022-07-23 01:00:18.240,37.6,mqtt_consumer,Washing machine
+2022-07-23 02:00:18.240,96.02,mqtt_consumer,Washing machine
+2022-07-23 03:00:18.240,79.1,mqtt_consumer,Washing machine
+2022-07-23 04:00:18.240,59.75,mqtt_consumer,Washing machine
+2022-07-23 05:00:18.240,44.96,mqtt_consumer,Washing machine
+2022-07-23 06:00:18.240,60.23,mqtt_consumer,Washing machine
+2022-07-23 07:00:18.240,38,mqtt_consumer,Washing machine
+2022-07-23 08:00:18.240,60.35,mqtt_consumer,Washing machine
+2022-07-23 09:00:18.240,20.51,mqtt_consumer,Washing machine
+2022-07-23 10:00:18.240,69.49,mqtt_consumer,Washing machine
+2022-07-23 11:00:18.240,70.8,mqtt_consumer,Washing machine
+2022-07-23 12:00:18.240,71.65,mqtt_consumer,Washing machine
+2022-07-23 13:00:18.240,13.45,mqtt_consumer,Washing machine
+2022-07-23 14:00:18.240,70.87,mqtt_consumer,Washing machine
+2022-07-23 15:00:18.240,94.72,mqtt_consumer,Washing machine
+2022-07-23 16:00:18.240,20.17,mqtt_consumer,Washing machine
+2022-07-23 17:00:18.240,60.7,mqtt_consumer,Washing machine
+2022-07-23 18:00:18.240,75.95,mqtt_consumer,Washing machine
+2022-07-23 19:00:18.240,60.27,mqtt_consumer,Washing machine
+2022-07-23 20:00:18.240,43.73,mqtt_consumer,Washing machine
+2022-07-23 21:00:18.240,19.94,mqtt_consumer,Washing machine
+2022-07-23 22:00:18.240,19.54,mqtt_consumer,Washing machine
+2022-07-23 23:00:18.240,25.9,mqtt_consumer,Washing machine
+2022-07-24 00:00:18.240,24.93,mqtt_consumer,Washing machine
+2022-07-24 01:00:18.240,0.59,mqtt_consumer,Washing machine
+2022-07-24 02:00:18.240,18.35,mqtt_consumer,Washing machine
+2022-07-24 03:00:18.240,8.24,mqtt_consumer,Washing machine
+2022-07-24 04:00:18.240,22.57,mqtt_consumer,Washing machine
+2022-07-24 05:00:18.240,11.17,mqtt_consumer,Washing machine
+2022-07-24 06:00:18.240,8.77,mqtt_consumer,Washing machine
+2022-07-24 07:00:18.240,23.15,mqtt_consumer,Washing machine
+2022-07-24 08:00:18.240,26.94,mqtt_consumer,Washing machine
+2022-07-24 09:00:18.240,15.8,mqtt_consumer,Washing machine
+2022-07-24 10:00:18.240,13.05,mqtt_consumer,Washing machine
+2022-07-24 11:00:18.240,10.69,mqtt_consumer,Washing machine
+2022-07-24 12:00:18.240,44.09,mqtt_consumer,Washing machine
+2022-07-24 13:00:18.240,90.04,mqtt_consumer,Washing machine
+2022-07-24 14:00:18.240,33.73,mqtt_consumer,Washing machine
+2022-07-24 15:00:18.240,99.92,mqtt_consumer,Washing machine
+2022-07-24 16:00:18.240,59.48,mqtt_consumer,Washing machine
+2022-07-24 17:00:18.240,58.77,mqtt_consumer,Washing machine
+2022-07-24 18:00:18.240,23.8,mqtt_consumer,Washing machine
+2022-07-24 19:00:18.240,5.82,mqtt_consumer,Washing machine
+2022-07-24 20:00:18.240,29.97,mqtt_consumer,Washing machine
+2022-07-24 21:00:18.240,15.74,mqtt_consumer,Washing machine
+2022-07-24 22:00:18.240,86.95,mqtt_consumer,Washing machine
+2022-07-24 23:00:18.240,43.8,mqtt_consumer,Washing machine
+2022-07-25 00:00:18.240,84.6,mqtt_consumer,Washing machine
+2022-07-25 01:00:18.240,31.47,mqtt_consumer,Washing machine
+2022-07-25 02:00:18.240,25.75,mqtt_consumer,Washing machine
+2022-07-25 03:00:18.240,99.28,mqtt_consumer,Washing machine
+2022-07-25 04:00:18.240,15.94,mqtt_consumer,Washing machine
+2022-07-25 05:00:18.240,30.75,mqtt_consumer,Washing machine
+2022-07-25 06:00:18.240,55.76,mqtt_consumer,Washing machine
+2022-07-25 07:00:18.240,31.03,mqtt_consumer,Washing machine
+2022-07-25 08:00:18.240,42.16,mqtt_consumer,Washing machine
+2022-07-25 09:00:18.240,35.56,mqtt_consumer,Washing machine
+2022-07-25 10:00:18.240,83.54,mqtt_consumer,Washing machine
+2022-07-25 11:00:18.240,46.63,mqtt_consumer,Washing machine
+2022-07-25 12:00:18.240,84.83,mqtt_consumer,Washing machine
+2022-07-25 13:00:18.240,25.05,mqtt_consumer,Washing machine
+2022-07-25 14:00:18.240,41.73,mqtt_consumer,Washing machine
+2022-07-25 15:00:18.240,66.84,mqtt_consumer,Washing machine
+2022-07-25 16:00:18.240,42.84,mqtt_consumer,Washing machine
+2022-07-25 17:00:18.240,3.6,mqtt_consumer,Washing machine
+2022-07-25 18:00:18.240,80.54,mqtt_consumer,Washing machine
+2022-07-25 19:00:18.240,58.5,mqtt_consumer,Washing machine
+2022-07-25 20:00:18.240,3.99,mqtt_consumer,Washing machine
+2022-07-25 21:00:18.240,84.28,mqtt_consumer,Washing machine
+2022-07-25 22:00:18.240,49.66,mqtt_consumer,Washing machine
+2022-07-25 23:00:18.240,99.59,mqtt_consumer,Washing machine
+2022-07-26 00:00:18.240,99.03,mqtt_consumer,Washing machine
+2022-07-26 01:00:18.240,4.68,mqtt_consumer,Washing machine
+2022-07-26 02:00:18.240,35.62,mqtt_consumer,Washing machine
+2022-07-26 03:00:18.240,14.44,mqtt_consumer,Washing machine
+2022-07-26 04:00:18.240,73.06,mqtt_consumer,Washing machine
+2022-07-26 05:00:18.240,82.15,mqtt_consumer,Washing machine
+2022-07-26 06:00:18.240,95.18,mqtt_consumer,Washing machine
+2022-07-26 07:00:18.240,92.07,mqtt_consumer,Washing machine
+2022-07-26 08:00:18.240,34.7,mqtt_consumer,Washing machine
+2022-07-26 09:00:18.240,85.53,mqtt_consumer,Washing machine
+2022-07-26 10:00:18.240,69.15,mqtt_consumer,Washing machine
+2022-07-26 11:00:18.240,89.33,mqtt_consumer,Washing machine
+2022-07-26 12:00:18.240,94.98,mqtt_consumer,Washing machine
+2022-07-26 13:00:18.240,53.7,mqtt_consumer,Washing machine
+2022-07-26 14:00:18.240,40.77,mqtt_consumer,Washing machine
+2022-07-26 15:00:18.240,35.99,mqtt_consumer,Washing machine
+2022-07-26 16:00:18.240,47.99,mqtt_consumer,Washing machine
+2022-07-26 17:00:18.240,3.87,mqtt_consumer,Washing machine
+2022-07-26 18:00:18.240,59.54,mqtt_consumer,Washing machine
+2022-07-26 19:00:18.240,58.37,mqtt_consumer,Washing machine
+2022-07-26 20:00:18.240,18.88,mqtt_consumer,Washing machine
+2022-07-26 21:00:18.240,15.22,mqtt_consumer,Washing machine
+2022-07-26 22:00:18.240,49.39,mqtt_consumer,Washing machine
+2022-07-26 23:00:18.240,46.68,mqtt_consumer,Washing machine
+2022-07-27 00:00:18.240,37.14,mqtt_consumer,Washing machine
+2022-07-27 01:00:18.240,31.69,mqtt_consumer,Washing machine
+2022-07-27 02:00:18.240,81.64,mqtt_consumer,Washing machine
+2022-07-27 03:00:18.240,83.06,mqtt_consumer,Washing machine
+2022-07-27 04:00:18.240,50.4,mqtt_consumer,Washing machine
+2022-07-27 05:00:18.240,97.43,mqtt_consumer,Washing machine
+2022-07-27 06:00:18.240,68.08,mqtt_consumer,Washing machine
+2022-07-27 07:00:18.240,98.32,mqtt_consumer,Washing machine
+2022-07-27 08:00:18.240,12.51,mqtt_consumer,Washing machine
+2022-07-27 09:00:18.240,44.01,mqtt_consumer,Washing machine
+2022-07-27 10:00:18.240,54.19,mqtt_consumer,Washing machine
+2022-07-27 11:00:18.240,43.37,mqtt_consumer,Washing machine
+2022-07-27 12:00:18.240,45.95,mqtt_consumer,Washing machine
+2022-07-27 13:00:18.240,4.72,mqtt_consumer,Washing machine
+2022-07-27 14:00:18.240,29.34,mqtt_consumer,Washing machine
+2022-07-27 15:00:18.240,4.24,mqtt_consumer,Washing machine
+2022-07-27 16:00:18.240,61.91,mqtt_consumer,Washing machine
+2022-07-27 17:00:18.240,37.18,mqtt_consumer,Washing machine
+2022-07-27 18:00:18.240,15.03,mqtt_consumer,Washing machine
+2022-07-27 19:00:18.240,75.68,mqtt_consumer,Washing machine
+2022-07-27 20:00:18.240,25.27,mqtt_consumer,Washing machine
+2022-07-27 21:00:18.240,19.72,mqtt_consumer,Washing machine
+2022-07-27 22:00:18.240,28.03,mqtt_consumer,Washing machine
+2022-07-27 23:00:18.240,53.29,mqtt_consumer,Washing machine
+2022-07-28 00:00:18.240,50.33,mqtt_consumer,Washing machine
+2022-07-28 01:00:18.240,93.68,mqtt_consumer,Washing machine
+2022-07-28 02:00:18.240,87.03,mqtt_consumer,Washing machine
+2022-07-28 03:00:18.240,90.57,mqtt_consumer,Washing machine
+2022-07-28 04:00:18.240,66.21,mqtt_consumer,Washing machine
+2022-07-28 05:00:18.240,79.76,mqtt_consumer,Washing machine
+2022-07-28 06:00:18.240,40.28,mqtt_consumer,Washing machine
+2022-07-28 07:00:18.240,84.65,mqtt_consumer,Washing machine
+2022-07-28 08:00:18.240,12.19,mqtt_consumer,Washing machine
+2022-07-28 09:00:18.240,38.44,mqtt_consumer,Washing machine
+2022-07-28 10:00:18.240,43.29,mqtt_consumer,Washing machine
+2022-07-28 11:00:18.240,3.3,mqtt_consumer,Washing machine
+2022-07-28 12:00:18.240,27.91,mqtt_consumer,Washing machine
+2022-07-28 13:00:18.240,13.14,mqtt_consumer,Washing machine
+2022-07-28 14:00:18.240,40.91,mqtt_consumer,Washing machine
+2022-07-28 15:00:18.240,77.14,mqtt_consumer,Washing machine
+2022-07-28 16:00:18.240,48.12,mqtt_consumer,Washing machine
+2022-07-28 17:00:18.240,24.91,mqtt_consumer,Washing machine
+2022-07-28 18:00:18.240,0.89,mqtt_consumer,Washing machine
+2022-07-28 19:00:18.240,50.02,mqtt_consumer,Washing machine
+2022-07-28 20:00:18.240,55.2,mqtt_consumer,Washing machine
+2022-07-28 21:00:18.240,58.02,mqtt_consumer,Washing machine
+2022-07-28 22:00:18.240,85.77,mqtt_consumer,Washing machine
+2022-07-28 23:00:18.240,91.72,mqtt_consumer,Washing machine
+2022-07-29 00:00:18.240,16.25,mqtt_consumer,Washing machine
+2022-07-29 01:00:18.240,90,mqtt_consumer,Washing machine
+2022-07-29 02:00:18.240,61.56,mqtt_consumer,Washing machine
+2022-07-29 03:00:18.240,33.18,mqtt_consumer,Washing machine
+2022-07-29 04:00:18.240,91.78,mqtt_consumer,Washing machine
+2022-07-29 05:00:18.240,32.8,mqtt_consumer,Washing machine
+2022-07-29 06:00:18.240,10.01,mqtt_consumer,Washing machine
+2022-07-29 07:00:18.240,88.29,mqtt_consumer,Washing machine
+2022-07-29 08:00:18.240,53.36,mqtt_consumer,Washing machine
+2022-07-29 09:00:18.240,54.23,mqtt_consumer,Washing machine
+2022-07-29 10:00:18.240,39.8,mqtt_consumer,Washing machine
+2022-07-29 11:00:18.240,1.66,mqtt_consumer,Washing machine
+2022-07-29 12:00:18.240,40.5,mqtt_consumer,Washing machine
+2022-07-29 13:00:18.240,59.87,mqtt_consumer,Washing machine
+2022-07-29 14:00:18.240,70.41,mqtt_consumer,Washing machine
+2022-07-29 15:00:18.240,0.26,mqtt_consumer,Washing machine
+2022-07-29 16:00:18.240,24.59,mqtt_consumer,Washing machine
+2022-07-29 17:00:18.240,8.76,mqtt_consumer,Washing machine
+2022-07-29 18:00:18.240,14.83,mqtt_consumer,Washing machine
+2022-07-29 19:00:18.240,79.01,mqtt_consumer,Washing machine
+2022-07-29 20:00:18.240,83.26,mqtt_consumer,Washing machine
+2022-07-29 21:00:18.240,26.38,mqtt_consumer,Washing machine
+2022-07-29 22:00:18.240,90.36,mqtt_consumer,Washing machine
+2022-07-29 23:00:18.240,38.11,mqtt_consumer,Washing machine
+2022-07-30 00:00:18.240,91.22,mqtt_consumer,Washing machine
+2022-07-30 01:00:18.240,43.31,mqtt_consumer,Washing machine
+2022-07-30 02:00:18.240,95.25,mqtt_consumer,Washing machine
+2022-07-30 03:00:18.240,48.44,mqtt_consumer,Washing machine
+2022-07-30 04:00:18.240,57.53,mqtt_consumer,Washing machine
+2022-07-30 05:00:18.240,19.52,mqtt_consumer,Washing machine
+2022-07-30 06:00:18.240,77.16,mqtt_consumer,Washing machine
+2022-07-30 07:00:18.240,56.12,mqtt_consumer,Washing machine
+2022-07-30 08:00:18.240,84.2,mqtt_consumer,Washing machine
+2022-07-30 09:00:18.240,38.09,mqtt_consumer,Washing machine
+2022-07-30 10:00:18.240,91.45,mqtt_consumer,Washing machine
+2022-07-30 11:00:18.240,73.28,mqtt_consumer,Washing machine
+2022-07-30 12:00:18.240,0.11,mqtt_consumer,Washing machine
+2022-07-30 13:00:18.240,7.62,mqtt_consumer,Washing machine
+2022-07-30 14:00:18.240,27.37,mqtt_consumer,Washing machine
+2022-07-30 15:00:18.240,4.25,mqtt_consumer,Washing machine
+2022-07-30 16:00:18.240,96.15,mqtt_consumer,Washing machine
+2022-07-30 17:00:18.240,5.6,mqtt_consumer,Washing machine
+2022-07-30 18:00:18.240,11.98,mqtt_consumer,Washing machine
+2022-07-30 19:00:18.240,80.7,mqtt_consumer,Washing machine
+2022-07-30 20:00:18.240,26.97,mqtt_consumer,Washing machine
+2022-07-30 21:00:18.240,51.92,mqtt_consumer,Washing machine
+2022-07-30 22:00:18.240,79.28,mqtt_consumer,Washing machine
+2022-07-30 23:00:18.240,93.33,mqtt_consumer,Washing machine
+2022-07-31 00:00:18.240,8.53,mqtt_consumer,Washing machine
+2022-07-31 01:00:18.240,52.77,mqtt_consumer,Washing machine
+2022-07-31 02:00:18.240,93.5,mqtt_consumer,Washing machine
+2022-07-31 03:00:18.240,54.83,mqtt_consumer,Washing machine
+2022-07-31 04:00:18.240,2.4,mqtt_consumer,Washing machine
+2022-07-31 05:00:18.240,92.55,mqtt_consumer,Washing machine
+2022-07-31 06:00:18.240,53.38,mqtt_consumer,Washing machine
+2022-07-31 07:00:18.240,39.25,mqtt_consumer,Washing machine
+2022-07-31 08:00:18.240,86.84,mqtt_consumer,Washing machine
+2022-07-31 09:00:18.240,47.01,mqtt_consumer,Washing machine
+2022-07-31 10:00:18.240,7.11,mqtt_consumer,Washing machine
+2022-07-31 11:00:18.240,36.19,mqtt_consumer,Washing machine
+2022-07-31 12:00:18.240,53.44,mqtt_consumer,Washing machine
+2022-07-31 13:00:18.240,49.17,mqtt_consumer,Washing machine
+2022-07-31 14:00:18.240,85.93,mqtt_consumer,Washing machine
+2022-07-31 15:00:18.240,86.9,mqtt_consumer,Washing machine
+2022-07-31 16:00:18.240,61.77,mqtt_consumer,Washing machine
+2022-07-31 17:00:18.240,44.49,mqtt_consumer,Washing machine
+2022-07-31 18:00:18.240,59.11,mqtt_consumer,Washing machine
+2022-07-31 19:00:18.240,93.95,mqtt_consumer,Washing machine
+2022-07-31 20:00:18.240,32.83,mqtt_consumer,Washing machine
+2022-07-31 21:00:18.240,98.95,mqtt_consumer,Washing machine
+2022-07-31 22:00:18.240,85.54,mqtt_consumer,Washing machine
+2022-07-31 23:00:18.240,61.17,mqtt_consumer,Washing machine
+2022-08-01 00:00:18.240,26.11,mqtt_consumer,Washing machine
+2022-08-01 01:00:18.240,21.97,mqtt_consumer,Washing machine
+2022-08-01 02:00:18.240,91.96,mqtt_consumer,Washing machine
+2022-08-01 03:00:18.240,80.87,mqtt_consumer,Washing machine
+2022-08-01 04:00:18.240,62.39,mqtt_consumer,Washing machine
+2022-08-01 05:00:18.240,31.54,mqtt_consumer,Washing machine
+2022-08-01 06:00:18.240,71.27,mqtt_consumer,Washing machine
+2022-08-01 07:00:18.240,67.3,mqtt_consumer,Washing machine
+2022-08-01 08:00:18.240,83.63,mqtt_consumer,Washing machine
+2022-08-01 09:00:18.240,95.34,mqtt_consumer,Washing machine
+2022-08-01 10:00:18.240,96.15,mqtt_consumer,Washing machine
+2022-08-01 11:00:18.240,49.86,mqtt_consumer,Washing machine
+2022-08-01 12:00:18.240,9.47,mqtt_consumer,Washing machine
+2022-08-01 13:00:18.240,56.51,mqtt_consumer,Washing machine
+2022-08-01 14:00:18.240,76.26,mqtt_consumer,Washing machine
+2022-08-01 15:00:18.240,71.71,mqtt_consumer,Washing machine
+2022-08-01 16:00:18.240,31.53,mqtt_consumer,Washing machine
+2022-08-01 17:00:18.240,2.33,mqtt_consumer,Washing machine
+2022-08-01 18:00:18.240,14,mqtt_consumer,Washing machine
+2022-08-01 19:00:18.240,54.26,mqtt_consumer,Washing machine
+2022-08-01 20:00:18.240,16.01,mqtt_consumer,Washing machine
+2022-08-01 21:00:18.240,94.63,mqtt_consumer,Washing machine
+2022-08-01 22:00:18.240,1.48,mqtt_consumer,Washing machine
+2022-08-01 23:00:18.240,94.99,mqtt_consumer,Washing machine
+2022-08-02 00:00:18.240,76.2,mqtt_consumer,Washing machine
+2022-08-02 01:00:18.240,26.2,mqtt_consumer,Washing machine
+2022-08-02 02:00:18.240,58.87,mqtt_consumer,Washing machine
+2022-08-02 03:00:18.240,56.92,mqtt_consumer,Washing machine
+2022-08-02 04:00:18.240,77.78,mqtt_consumer,Washing machine
+2022-08-02 05:00:18.240,83.83,mqtt_consumer,Washing machine

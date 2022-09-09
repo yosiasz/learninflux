@@ -1,0 +1,3 @@
+MARKER,STATUS,_field,_measurement,value
+Edge_Management,FAIL,test_execution,1
+Edge_Management,SKIPPED,test_execution,1
