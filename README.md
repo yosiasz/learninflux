@@ -28,7 +28,7 @@ parse-json
 #jsonata "$[`Start date`='11/05/2022']"
 ```
 
---Create config (saved C:\Users\Josiah Solomon\.influxdbv2)
+--Create config (saved C:\Users\Grafanu\.influxdbv2)
 influx config create -a -n research -u http://localhost:8086 -t TOKEN -o ORG
 
 --Convert db
