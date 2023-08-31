@@ -17,17 +17,18 @@ Write data into InfluxDB
 client = InfluxDBClient(url=URL, token=TOKEN, org=ORG, debug=True)
 write_api = client.write_api(write_options=SYNCHRONOUS)  
 
-col_list = ["cellname","voltage"]
+col_list = ["device","current","timestamp"]
 df = pd.read_csv("./data/cells.csv", usecols=col_list)
 
 for index, row in df.iterrows():
-    cellname =  row['cellname']
-    voltage = int(row['voltage'])
+    device =  row['device']
+    current = int(row['current'])
+    timestamp = row['timestamp']
 
-    point = Point("power_usage") \
-            .measurement(cellname) \
-            .tag("cellname", cellname) \
-            .time(datetime.utcnow(), WritePrecision.NS)
+    point = Point("solarpanel") \
+            .measurement(device) \
+            .field("current", current) \
+            .time(timestamp, WritePrecision.NS)
 
     write_api.write(bucket, ORG, point) 
 write_api.__del__()
