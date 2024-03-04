@@ -1,3 +1,4 @@
+#podman-compose up -d --force-recreate
 version: '3.6'
 services:
   influxdb:

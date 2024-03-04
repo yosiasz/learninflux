@@ -1,0 +1,7 @@
+_time,_value,_field,_measurement
+2023-09-19T10:00:00.000Z,49.846788,latitude,gpstracking_measurement
+2023-09-19T10:00:00.000Z,7.631818,longitude,gpstracking_measurement
+2023-09-19T10:00:00.000Z,3.789,batterylevel,gpstracking_measurement
+2023-09-19T12:10:00.000Z,49.846776,latitude,gpstracking_measurement
+2023-09-19T12:10:00.000Z,7.631812,longitude,gpstracking_measurement
+2023-09-19T12:10:00.000Z,4.124,batterylevel,gpstracking_measurement
